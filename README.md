@@ -1,4 +1,4 @@
-# ReServe
+# ReServe Box
 ReServe, een lokaal opslag punt voor voedseloverschotten die nog eetbaar zijn.
 
 🛠️ Built by ``Victor Raes``, ``Bas Matthys`` & ``Oskar Sergier``   
