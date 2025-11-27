@@ -8,13 +8,17 @@ ReServe, een lokaal opslag punt voor voedseloverschotten die nog eetbaar zijn.
 *13/11/2025 van de laatste update*   
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
+Voedselverspilling is een groeiend duurzaamheidsprobleem, waarbij een groot deel ontstaat in huishoudens. Hoewel buurtkastjes een laagdrempelige oplossing bieden, tonen onze onderzoeksmethoden—benchmarking van bestaande systemen, een Google Forms enquête, twee interviews met wijkbewoners en een interview met een initiatiefnemer, aan dat deze kastjes kampen met grote knelpunten. De belangrijkste problemen zijn gebrek aan voedselveiligheid, onzekerheid over wat mag worden gedeeld, wantrouwen bij gebruikers en beperkte controle over de kwaliteit van aangeboden producten. Hierdoor blijven buurtkastjes vaak ongebruikt of verkeerd gebruikt, waardoor ze hun duurzaamheidsdoel missen.
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
+Onze oplossing hiervoor is **ReServeBox**: een phygital buurtvoedselkast die veilig, duidelijk en betrouwbaar delen van voedsel in de wijk stimuleert. De ReServeBox combineert een fysieke kast met compartimenten en beschermde opslag met een digitale laag via QR-codes of een eenvoudige app. Deze digitale interface toont richtlijnen, vervaldata, meldingen en herkomstinformatie. Zo creëren we transparantie, vertrouwen en gebruiksgemak.
+
+ReServeBox lost het probleem op door bewoners een gecontroleerde, veilige en toegankelijke manier te bieden om overschotten te delen. Hierdoor krijgen producten een tweede leven, wordt voedselverspilling actief verminderd en groeit de sociale verbondenheid binnen de buurt. Dankzij betere structuur, duidelijke regels en feedback blijft het systeem betrouwbaar en duurzaam bruikbaar.
+
+
 - Hero sketch/render/image, vb.
+![alt text](image.png)
+
+
 <p align="center">
   <img src="img/hero_example.png" width="100%">
 </p>
