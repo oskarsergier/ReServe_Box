@@ -20,7 +20,6 @@ ReServeBox lost het probleem op door bewoners een gecontroleerde, veilige en toe
 
 
 <p align="center">
-  <img src="img/hero_example.png" width="100%">
 </p>
 
 ## Introductie
