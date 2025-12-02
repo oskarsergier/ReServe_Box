@@ -27,7 +27,7 @@ Voedselverspilling vormt een groeiend mondiaal en lokaal duurzaamheidsprobleem. 
 
 Mijn onderzoek via interviews, een Google Forms-bevraging en literatuur onderzoek wijst uit dat buurtbewoners bereid zijn voedsel te delen, maar drempels ervaren zoals onzekerheid over wat mag, angst voor bederf en een gebrek aan transparantie. Hierdoor blijven veel bestaande buurtkastjes onderbenut of worden ze foutief gebruikt.
 
-Met ReServeBox wil ik deze kloof dichten door een phygital buurtvoedselkast te ontwikkelen die fysieke toegankelijkheid koppelt aan digitale transparantie. De doelstelling is een systeem te creëren dat voedseloverschotten opnieuw waarde geeft, duurzame gewoontes stimuleert en sociaal vertrouwen versterkt binnen de wijk.
+Met ReServeBox willen wij deze kloof dichten door een phygital buurtvoedselkast te ontwikkelen die fysieke toegankelijkheid koppelt aan digitale transparantie. De doelstelling is een systeem te creëren dat voedseloverschotten opnieuw waarde geeft, duurzame gewoontes stimuleert en sociaal vertrouwen versterkt binnen de wijk.
 
 Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
