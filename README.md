@@ -31,7 +31,7 @@ Met ReServeBox willen wij deze kloof dichten door een phygital buurtvoedselkast 
 
 Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
+
 
 ## Inhoudstafel
 
@@ -75,7 +75,7 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
-[^1]: Technical Platform on the Measurement and Reduction of Food Loss and Waste | Food and Agriculture Organization of the United Nations. (z.d.). FoodLossWaste. https://www.fao.org/platform-food-loss-waste/en/
- 
-[^2] Geffen, L. van, Sijtsema, S., & de Winter, M.
-“Reducing Food Waste at Home: European Consumer Insights.” Rapport van Wageningen University & Research. https://edepot.wur.nl/530990
+  [^1]: Technical Platform on the Measurement and Reduction of Food Loss and Waste | Food and Agriculture Organization of the United Nations. (z.d.). FoodLossWaste. https://www.fao.org/platform-food-loss-waste/en/
+
+  [^2]: Geffen, L. van, Sijtsema, S., & de Winter, M.
+  “Reducing Food Waste at Home: European Consumer Insights.” Rapport van Wageningen University & Research. https://edepot.wur.nl/530990
