@@ -29,10 +29,6 @@ Mijn onderzoek via interviews, een Google Forms-bevraging en literatuur onderzoe
 
 Met ReServeBox willen wij deze kloof dichten door een phygital buurtvoedselkast te ontwikkelen die fysieke toegankelijkheid koppelt aan digitale transparantie. De doelstelling is een systeem te creëren dat voedseloverschotten opnieuw waarde geeft, duurzame gewoontes stimuleert en sociaal vertrouwen versterkt binnen de wijk.
 
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-
-
 ## Inhoudstafel
 
 1. [Methodologie](./docs/methodologie.md)
