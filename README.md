@@ -46,7 +46,7 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen.
 ## Bijlagen
 ### Discovery
 * Benchmarking (N=10)
-  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bc0a5054a-1201-48f1-bb3e-356c4a1d19db%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764846318609&web=1)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bc0a5054a-1201-48f1-bb3e-356c4a1d19db%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764846594365&web=1)
   * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bbe34718d-08a9-4f17-b4cc-367dc6f68129%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764846368705&web=1)
 * Interviews (N=3)
   * [Protocol](url)
