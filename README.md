@@ -2,7 +2,7 @@
 ReServe, een lokaal opslag punt voor voedseloverschotten die nog eetbaar zijn.
 
 🛠️ Built by ``Victor Raes``, ``Bas Matthys`` & ``Oskar Sergier``   
-🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
+🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
 *13/11/2025 van de laatste update*   
@@ -23,7 +23,7 @@ ReServeBox lost het probleem op door bewoners een gecontroleerde, veilige en toe
 
 ## Introductie
 
-Voedselverspilling vormt een groeiend mondiaal en lokaal duurzaamheidsprobleem. Jaarlijks gaat naar schatting een derde van al het geproduceerde voedsel verloren (FAO, 2023). In Europa blijkt dat vooral huishoudens een grote bijdrage leveren aan deze verspilling, vaak door overstocking, verkeerde inschattingen of gebrek aan kennis over houdbaarheid (van Geffen et al., 2020). Dit leidt niet enkel tot ecologische schade, maar ook tot onnodige financiële kosten en verlies van sociale waarde binnen buurten. Hoewel buurtvoedselkastjes een laagdrempelig alternatief bieden om overschotten te delen, tonen recente studies aan dat deze systemen kampen met problemen rond voedselveiligheid, betrouwbaarheid en duidelijke richtlijnen (Thomas & Ritter, 2022).
+Voedselverspilling vormt een groeiend mondiaal en lokaal duurzaamheidsprobleem. Jaarlijks gaat naar schatting een derde van al het geproduceerde voedsel verloren [^1]. In Europa blijkt dat vooral huishoudens een grote bijdrage leveren aan deze verspilling, vaak door overstocking, verkeerde inschattingen of gebrek aan kennis over houdbaarheid [^2]. Dit leidt niet enkel tot ecologische schade, maar ook tot onnodige financiële kosten en verlies van sociale waarde binnen buurten. Hoewel buurtvoedselkastjes een laagdrempelig alternatief bieden om overschotten te delen, tonen recente studies aan dat deze systemen kampen met problemen rond voedselveiligheid, betrouwbaarheid en duidelijke richtlijnen (Thomas & Ritter, 2022).
 
 Mijn onderzoek via interviews, een Google Forms-bevraging en literatuur onderzoek wijst uit dat buurtbewoners bereid zijn voedsel te delen, maar drempels ervaren zoals onzekerheid over wat mag, angst voor bederf en een gebrek aan transparantie. Hierdoor blijven veel bestaande buurtkastjes onderbenut of worden ze foutief gebruikt.
 
@@ -75,4 +75,7 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
- [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+[^1]: Technical Platform on the Measurement and Reduction of Food Loss and Waste | Food and Agriculture Organization of the United Nations. (z.d.). FoodLossWaste. https://www.fao.org/platform-food-loss-waste/en/
+ 
+[^2] Geffen, L. van, Sijtsema, S., & de Winter, M.
+“Reducing Food Waste at Home: European Consumer Insights.” Rapport van Wageningen University & Research. https://edepot.wur.nl/530990
