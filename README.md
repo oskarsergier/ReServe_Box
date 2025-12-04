@@ -23,7 +23,7 @@ ReServeBox lost het probleem op door bewoners een gecontroleerde, veilige en toe
 
 ## Introductie
 
-Voedselverspilling vormt een groeiend mondiaal en lokaal duurzaamheidsprobleem. Jaarlijks gaat naar schatting een derde van al het geproduceerde voedsel verloren [^1]. In Europa blijkt dat vooral huishoudens een grote bijdrage leveren aan deze verspilling, vaak door overstocking, verkeerde inschattingen of gebrek aan kennis over houdbaarheid [^2]. Dit leidt niet enkel tot ecologische schade, maar ook tot onnodige financiële kosten en verlies van sociale waarde binnen buurten. Hoewel buurtvoedselkastjes een laagdrempelig alternatief bieden om overschotten te delen, tonen recente studies aan dat deze systemen kampen met problemen rond voedselveiligheid, betrouwbaarheid en duidelijke richtlijnen (Thomas & Ritter, 2022).
+Voedselverspilling vormt een groeiend mondiaal en lokaal duurzaamheidsprobleem. Jaarlijks gaat naar schatting een derde van al het geproduceerde voedsel verloren [^1]. In Europa blijkt dat vooral huishoudens een grote bijdrage leveren aan deze verspilling, vaak door overstocking, verkeerde inschattingen of gebrek aan kennis over houdbaarheid [^2]. Dit leidt niet enkel tot ecologische schade, maar ook tot onnodige financiële kosten en verlies van sociale waarde binnen buurten. Hoewel buurtvoedselkastjes een laagdrempelig alternatief bieden om overschotten te delen, tonen recente studies aan dat deze systemen kampen met problemen rond voedselveiligheid, betrouwbaarheid en duidelijke richtlijnen [^3].
 
 Mijn onderzoek via interviews, een Google Forms-bevraging en literatuur onderzoek wijst uit dat buurtbewoners bereid zijn voedsel te delen, maar drempels ervaren zoals onzekerheid over wat mag, angst voor bederf en een gebrek aan transparantie. Hierdoor blijven veel bestaande buurtkastjes onderbenut of worden ze foutief gebruikt.
 
@@ -78,4 +78,7 @@ You are free to reuse and build upon this work, both commercially and non-commer
   [^1]: Technical Platform on the Measurement and Reduction of Food Loss and Waste | Food and Agriculture Organization of the United Nations. (z.d.). FoodLossWaste. https://www.fao.org/platform-food-loss-waste/en/
 
   [^2]: Geffen, L. van, Sijtsema, S., & de Winter, M.
-  “Reducing Food Waste at Home: European Consumer Insights.” Rapport van Wageningen University & Research. https://edepot.wur.nl/530990
+  Reducing Food Waste at Home | European Consumer Insights. Rapport van Wageningen University & Research. https://edepot.wur.nl/530990
+
+  [^3]: Thomas, G., & Ritter, T.
+  Community Fridges: Exploring the Social Dynamics and Safety Challenges. Journal of Consumer Policy. https://link.springer.com/article/10.1007/s10603-022-09513-7
