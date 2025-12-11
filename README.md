@@ -23,7 +23,7 @@ ReServeBox lost het probleem op door bewoners een gecontroleerde, veilige en toe
 
 ## Introductie
 
-Voedselverspilling vormt een groeiend mondiaal en lokaal duurzaamheidsprobleem. Jaarlijks gaat naar schatting een derde van al het geproduceerde voedsel verloren [^1]. In Europa blijkt dat vooral huishoudens een grote bijdrage leveren aan deze verspilling, vaak door overstocking, verkeerde inschattingen of gebrek aan kennis over houdbaarheid [^2]. Dit leidt niet enkel tot ecologische schade, maar ook tot onnodige financiële kosten en verlies van sociale waarde binnen buurten. Hoewel buurtvoedselkastjes een laagdrempelig alternatief bieden om overschotten te delen, tonen recente studies aan dat deze systemen kampen met problemen rond voedselveiligheid, betrouwbaarheid en duidelijke richtlijnen [^3].
+Voedselverspilling vormt wereldwijd en lokaal groeiend duurzaamheidsprobleem. Jaarlijks gaat naar schatting een derde van al het geproduceerde voedsel verloren [^1]. In Europa blijkt dat vooral huishoudens een grote bijdrage leveren aan deze verspilling, vaak door overstocking, verkeerde inschattingen of gebrek aan kennis over houdbaarheid [^2]. Dit leidt niet enkel tot ecologische schade, maar ook tot onnodige financiële kosten en verlies van sociale waarde binnen buurten. Hoewel buurtvoedselkastjes een laagdrempelig alternatief bieden om overschotten te delen, tonen recente studies aan dat deze systemen kampen met problemen rond voedselveiligheid, betrouwbaarheid en duidelijke richtlijnen [^3].
 
 Mijn onderzoek via interviews, een Google Forms-bevraging en literatuur onderzoek wijst uit dat buurtbewoners bereid zijn voedsel te delen, maar drempels ervaren zoals onzekerheid over wat mag, angst voor bederf en een gebrek aan transparantie. Hierdoor blijven veel bestaande buurtkastjes onderbenut of worden ze foutief gebruikt.
 
@@ -49,11 +49,14 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen.
   * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bc0a5054a-1201-48f1-bb3e-356c4a1d19db%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764846594365&web=1)
   * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bbe34718d-08a9-4f17-b4cc-367dc6f68129%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764846368705&web=1)
 * Interviews (N=3)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Protocol Initiatiefnemer](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B3d56f317-f8df-45db-9010-16348c7b7668%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764847291548&web=1)
+  * [Rapport Initiatiefnemer](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Ba8a6ffc9-5b57-4399-bc8d-61ebdc121cb2%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764847330447&web=1)
+  * [Protocol Wijkbewoner](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bab76c8d4-3b55-44f8-bbf4-af59fb769976%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764847377258&web=1)
+  * [Rapport Wijkbewoner 1](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bc6a543f1-f5c5-4d4b-8b3b-b76de9851c65%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764847404273&web=1)
+  * [Rapport Wijkbewoner 2](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bd7807a40-aae5-40ac-9d35-46060de7a29d%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764847409146&web=1)
 * Enquête (N=58)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bdec390ae-a7f3-4eff-a3e2-9d90eb4c03ca%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764847447811&web=1)
+  * [Rapport](https://ugentbe.sharepoint.com/:x:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B2e08b2d6-b614-4b00-b31b-8b26037213e7%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764847461470&web=1)
     
 ### Definition
 * User testing wave 1 (N=x)
