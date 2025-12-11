@@ -47,7 +47,7 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen.
 ### Discovery
 * Benchmarking (N=10)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bc0a5054a-1201-48f1-bb3e-356c4a1d19db%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764846594365&web=1)
-  * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bbe34718d-08a9-4f17-b4cc-367dc6f68129%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764846368705&web=1)
+  * [Rapport](/reports%20and%20protocols/R1.1.pdf)
 * Interviews (N=3)
   * [Protocol Initiatiefnemer](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B3d56f317-f8df-45db-9010-16348c7b7668%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764847291548&web=1)
   * [Rapport Initiatiefnemer](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292885/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Ba8a6ffc9-5b57-4399-bc8d-61ebdc121cb2%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764847330447&web=1)
