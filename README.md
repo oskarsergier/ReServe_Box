@@ -41,7 +41,7 @@ Met ReServeBox willen wij deze kloof dichten door een phygital buurtvoedselkast 
 Max. 500 woorden
 
 ## Noot inzake het gebruik van AI
-In dit project werd ai gebruikt voor het genereren van afbeeldingen. 
+In dit project werd ai gebruikt voor het genereren van afbeeldingen en het controleren van de teksten op zinsbouw en schrijffouten.
 
 ## Bijlagen
 ### Discovery
