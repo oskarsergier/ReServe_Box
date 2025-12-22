@@ -61,12 +61,16 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
 ### Definition
 * Storyboard (N=4)
   * [Storyboard](url)
-* User testing wave 1 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-* User testing wave 2 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+* User testing wave 1 (N=3)
+  * [Protocol Wijkbewoner](/reports%20and%20protocols/IP2.1%20W1.pdf)
+  * [Rapport Wijkbewoner 1](url)
+  * [Rapport Wijkbewoner 2](url)
+  * [Rapport Wijkbewoner 3](url)
+* User testing wave 2 (N=3)
+  * [Protocol Financierder](/reports%20and%20protocols/IP2.1%20W2.pdf)
+  * [Rapport Financierder 1](url)
+  * [Rapport Financierder 2](url)
+  * [Rapport Financierder 3](url)
 
 ### Develop 1
 ### Develop 2
