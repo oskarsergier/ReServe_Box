@@ -5,7 +5,7 @@ ReServe, een lokaal opslag punt voor voedseloverschotten die nog eetbaar zijn.
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*13/11/2025 van de laatste update*   
+*22/12/2025 van de laatste update*   
 
 ## Samenvatting
 Voedselverspilling is een groeiend duurzaamheidsprobleem, waarbij een groot deel ontstaat in huishoudens. Hoewel buurtkastjes een laagdrempelige oplossing bieden, tonen onze onderzoeksmethoden benchmarking van bestaande systemen, een Google Forms enquête, twee interviews met wijkbewoners en een interview met een initiatiefnemer, aan dat deze kastjes kampen met grote knelpunten. De belangrijkste problemen zijn gebrek aan voedselveiligheid, onzekerheid over wat mag worden gedeeld, wantrouwen bij gebruikers en beperkte controle over de kwaliteit van aangeboden producten. Hierdoor blijven buurtkastjes vaak ongebruikt of verkeerd gebruikt, waardoor ze hun duurzaamheidsdoel missen.
@@ -59,6 +59,8 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
   * [Rapport](/reports%20and%20protocols/REA1.1.pdf)
     
 ### Definition
+* Storyboard (N=4)
+  * [Storyboard](url)
 * User testing wave 1 (N=x)
   * [Protocol](url)
   * [Rapport](url)
@@ -66,6 +68,9 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
   * [Protocol](url)
   * [Rapport](url)
 
+### Develop 1
+### Develop 2
+### Develop 3
 ## Licentie 
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
