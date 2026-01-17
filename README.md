@@ -77,8 +77,10 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
 * User testing wave 2 (N=5)
   * [Protocol Financierder](/reports%20and%20protocols/IP2.1%20W2.pdf)
   * [Rapport Financierder 1](/reports%20and%20protocols/IR1%20W2.pdf)
-  * [Rapport Financierder 2](url)
+  * [Rapport Financierder 2](/reports%20and%20protocols/IR2%20W2.pdf)
   * [Rapport Financierder 3](url)
+  * [Rapport Financierder 4](url)
+  * [Rapport Financierder 5](url)
 
 ### Develop 1
 ### Develop 2
