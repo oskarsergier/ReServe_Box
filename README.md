@@ -60,7 +60,8 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
     
 ### Definition
 * Storyboard (N=2)
-  * [Storyboard](url)
+  * [Storyboard 1](/img/STB1.png)
+  * [Storyboard 2](/img/STB2.png)
 * Interface (N=2)
   * [Interface app](url)
   * [Interface Box](url)
