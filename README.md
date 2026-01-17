@@ -16,7 +16,7 @@ ReServeBox lost het probleem op door bewoners een gecontroleerde, veilige en toe
 
 
 
-![alt text](image.png)
+![alt text](/img/image.png)
 
 <p align="center">
 </p>
@@ -61,15 +61,18 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
 ### Definition
 * Storyboard (N=2)
   * [Storyboard](url)
+* Interface (N=2)
+  * [Interface app](url)
+  * [Interface Box](url)
 * User testing wave 1 (N=5)
   * [Protocol Wijkbewoner](/reports%20and%20protocols/IP2.1%20W1.pdf)
-  * [Protocol interface](url)
+  * [Protocol interface](/reports%20and%20protocols/IP%20I.pdf)
   * [Rapport Wijkbewoner 1](/reports%20and%20protocols/IR1%20W1.pdf)
   * [Rapport Wijkbewoner 2](/reports%20and%20protocols/IR2%20W1.pdf)
-  * [Rapport interface 1](url)
-  * [Rapport interface 2](url)
-  * [Conclusie interface 1,2](url)
-  * [Rapport interface 3](url)
+  * [Rapport interface 1](/reports%20and%20protocols/IR1%20I.pdf)
+  * [Rapport interface 2](/reports%20and%20protocols/IR2%20I.pdf)
+  * [Conclusie interface 1,2](/reports%20and%20protocols/IR%20CI%2012.pdf)
+  * [Rapport interface 3](/reports%20and%20protocols/IR%203%20IE.pdf)
 * User testing wave 2 (N=5)
   * [Protocol Financierder](/reports%20and%20protocols/IP2.1%20W2.pdf)
   * [Rapport Financierder 1](/reports%20and%20protocols/IR1%20W2.pdf)
