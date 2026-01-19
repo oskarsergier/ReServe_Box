@@ -90,6 +90,7 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
 ### Develop 1
 ### Develop 2
 ### Develop 3
+
 ## Licentie 
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
