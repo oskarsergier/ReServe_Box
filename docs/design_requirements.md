@@ -9,15 +9,15 @@
 |1.4|Het systeem mag bestaande sociale voedselinitiatieven niet ondermijnen maar moet aanvullend werken.|[1.4 Gemeente, Winkelketens](/reports%20and%20protocols/IR2%20W2.pdf)|✅|
 |**Gebruiker & Gebruiksgemak**|
 |2.1|De gebruiker moet in één oogopslag begrijpen wat ReServeBox is en hoe deze werkt.|[2.1 Interview Interface](/reports%20and%20protocols/IR%20CI%2012.pdf)|✅|
-|2.2||[2.2 Interview interface 1](url)|✅|
-|2.3||[2.3 Interview interface 1](url)|✅|
-|2.4||[2.4 Expert interview](url)|✅|
-|2.5||[2.5 Interview interface 2](url)|✅|
-|2.6||[2.6 Gebruikersinterviews](url)|✅|
+|2.2|De interface op de box moet eenvoudig, overzichtelijk en intuïtief zijn.|[2.2 Interview interface 1](/reports%20and%20protocols/IR1%20I.pdf)|✅|
+|2.3|De gebruiker moet duidelijk onderscheid kunnen maken tussen eten brengen en eten ophalen.|[2.3 Interview interface 1](/reports%20and%20protocols/IR1%20I.pdf)|✅|
+|2.4|Het systeem moet bruikbaar zijn voor verschillende leeftijden en digitale vaardigheden.|[2.4 Wijkinterview 1](/reports%20and%20protocols/IR1%20W1.pdf)**/**[2.4 Wijkinterview 2](/reports%20and%20protocols/IR2%20W1.pdf)|✅|
+|2.5|De gebruiker moet snel kunnen zien welke producten beschikbaar zijn.|[2.5 Interview interface 2](/reports%20and%20protocols/IR2%20I.pdf)|✅|
+|2.6|Gebruik van het systeem mag geen uitgebreide uitleg vereisen.|[2.6 Gebruikersinterviews](/reports%20and%20protocols/IP2.1%20W1.pdf)|✅|
 |**Informatie & transparantie**|
-|3.1||[3.1 Interview interface 1](url)|✅|
-|3.2||[3.2 Wijkinterview](url)|✅|
-|3.3||[3.3 Interview interface](url)|✅|
+|3.1|De gebruiker moet kunnen zien wat het product is, wanneer het geplaatst werd en of er allergenen zijn.|[3.1 Interview interface 1](/reports%20and%20protocols/IR1%20I.pdf)|✅|
+|3.2|De box moet communiceren hoe lang producten veilig bruikbaar zijn.|[3.2 Wijkinterview 1](/reports%20and%20protocols/IR1%20W1.pdf)**/**[3.2 Wijkinterview 2](/reports%20and%20protocols/IR2%20W1.pdf)|✅|
+|3.3|Informatie moet hoofdzakelijk visueel en beknopt zijn.|[3.3 Interview interface](/reports%20and%20protocols/IR%20CI%2012.pdf)|✅|
 |**Veiligheid & vertrouwen**|
 |4.1|Het systeem moet vertrouwen uitstralen op vlak van hygiëne en voedselveiligheid.|[4.1 Alles Wave 1](/reports%20and%20protocols/IP2.1%20W1.pdf)|✅|
 |4.2|De box moet producten beschermen tegen weersinvloeden en dieren.|[4.2 Financierder](/reports%20and%20protocols/IR1%20W2.pdf)|✅|
