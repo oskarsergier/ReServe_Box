@@ -7,8 +7,8 @@ Daarnaast zijn bevestigingsmaterialen nodig zoals houtschroeven, bouten, moeren 
 
 Het prototype is ontworpen volgens een modulaire opbouw, zodat onderdelen afzonderlijk kunnen worden vervaardigd en aangepast.
 
-De uiteindelijke ReServeBox heeft een reële afmeting van 1700 × 700 × 1400 mm (h × d × b).
-Het prototype dat in semester 1 werd vervaardigd, is geschaald op 1:10, wat resulteert in een prototype-afmeting van 170 × 70 × 140 mm. Het prototype dat in semester 2 zou gerealiseerd worden zouden we graag willen maken op schaal 1:5, dit resulteert in 340 x 140 x 280 mm. Dit maakt het mogelijk om een betere evaluatie te verkrijgen bij de interacties en de indeling.
+De uiteindelijke ReServeBox heeft een reële afmeting van 1500 × 850 × 2100 mm (h × d × b).
+Het prototype dat in semester 1 werd vervaardigd, is geschaald op 1:10, wat resulteert in een prototype-afmeting van 150 × 85 × 210 mm. Het prototype dat in semester 2 zou gerealiseerd worden zouden we graag willen maken op schaal 1:5, dit resulteert in 300 x 170 x 420 mm. Dit maakt het mogelijk om een betere evaluatie te verkrijgen bij de interacties en de indeling.
 
 **Totale Kostprijs Prototype:** 95 Euro
 
