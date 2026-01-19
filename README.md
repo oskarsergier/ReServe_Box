@@ -36,7 +36,11 @@ Met ReServeBox willen wij deze kloof dichten door een phygital buurtvoedselkast 
 5. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
-Max. 500 woorden
+Het eerste semester van ReServeBox bood een waardevolle kennismaking met een gebruiksgericht ontwerpproces rond een complex duurzaamheidsvraagstuk. Door het combineren van deskresearch, benchmarking, enquêtes en interviews werd het probleem van voedselverspilling op wijkniveau gedefinieerd. Deze aanpak maakte het mogelijk om het vraagstuk niet enkel technisch, maar ook sociaal en gedragsmatig te benaderen. Tegelijkertijd bracht dit ook een uitdaging met zich mee namelijk door de grote hoeveelheid inzichten was het belangrijk om focus te behouden.
+
+Een belangrijke sterkte van het traject was de iteratieve werkwijze, waarbij inzichten uit de discoveryfase rechtstreeks werden vertaald naar concrete ontwerpkeuzes in de definitionfase. De inzet van storyboards, prototypes en materiaalonderzoek zorgde voor diverse inzichten naar een realiseerbaar concept. Vooral het werken met fysieke prototypes hielp om zaken af te toetsen en problemen vroegtijdig zichtbaar te maken.
+
+Toch werd duidelijk dat sommige keuzes in een vroege fase voornamelijk conceptueel onderbouwd zijn en nog verder gevalideerd moeten worden in realistische contexten. Het ontbreken van uitgebreide gebruikerstesten in een echte buurtomgeving vormt hierbij een belangrijke beperking. De verworven inzichten, ontwerpvereisten en materiaalkeuzes vormen een helder vertrekpunt voor verdieping, technische uitwerking en validatie in het tweede semester.
 
 ## Noot inzake het gebruik van AI
 In dit project werd ai gebruikt voor het genereren van afbeeldingen en het controleren van de teksten op zinsbouw en schrijffouten.
