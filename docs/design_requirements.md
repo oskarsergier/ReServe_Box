@@ -34,10 +34,10 @@
 |6.2||[6.2 Interview interface 2](url)|✅|
 |6.3||[6.3 Gebruikers](url)|✅|
 |**Organisatie, Onderzoek & monitoring**|
-|7.1||[7.1 Gemeente, winkels](url)|✅|
-|7.2||[7.2 Materiaalstudie](url)|✅|
-|7.3||[7.3 Gemeente](url)|✅|
-|7.4||[7.4 Interviews wave 2](url)|✅|
+|7.1|Onderhoud en reiniging mogen niet afhankelijk zijn van winkel- of gemeentepersoneel.|[7.1 Gemeente, winkels](/reports%20and%20protocols/IP2.1%20W2.pdf)|✅|
+|7.2|Het systeem moet onderhoudsarm en eenvoudig te reinigen zijn.|[7.2 Materiaalstudie](/reports%20and%20protocols/MO.pdf)|✅|
+|7.3|Monitoring van gebruik en toestand van de box moet mogelijk zijn.|[7.3 Gemeente](/reports%20and%20protocols/IR2%20W2.pdf)|✅|
+|7.4|Verantwoordelijkheden rond beheer moeten duidelijk afgebakend zijn.|[7.4 Interviews wave 2](/reports%20and%20protocols/IP2.1%20W2.pdf)|✅|
 |**Plaatsen & Schaalbaarheid**|
 |8.1|De box moet plaatsbaar zijn op publiek en semi-publiek domein.|[8.1 Gemeente](/reports%20and%20protocols/IR2%20W2.pdf)|✅|
 |8.2|Het ontwerp moet schaalbaar zijn naar andere wijken of steden.|[8.2 Winkelketens](/reports%20and%20protocols/IR4%20W2.pdf)|✅|
