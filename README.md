@@ -14,8 +14,6 @@ Onze oplossing hiervoor is **ReServeBox**: een phygital buurtvoedselkast die vei
 
 ReServeBox lost het probleem op door bewoners een gecontroleerde, veilige en toegankelijke manier te bieden om overschotten te delen. Hierdoor krijgen producten een tweede leven, wordt voedselverspilling actief verminderd en groeit de sociale verbondenheid binnen de buurt. Dankzij betere structuur, duidelijke regels en feedback blijft het systeem betrouwbaar en duurzaam bruikbaar.
 
-
-
 ![alt text](/img/image.png)
 
 <p align="center">
