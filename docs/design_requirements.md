@@ -39,9 +39,9 @@
 |7.3||[7.3 Gemeente](url)|✅|
 |7.4||[7.4 Interviews wave 2](url)|✅|
 |**Plaatsen & Schaalbaarheid**|
-|8.1||[8.1 Gemeente](url)|✅|
-|8.2||[8.2 Winkelketens](url)|✅|
-|8.3||[8.3 Winkelketens](url)|✅|
+|8.1|De box moet plaatsbaar zijn op publiek en semi-publiek domein.|[8.1 Gemeente](/reports%20and%20protocols/IR2%20W2.pdf)|✅|
+|8.2|Het ontwerp moet schaalbaar zijn naar andere wijken of steden.|[8.2 Winkelketens](/reports%20and%20protocols/IR4%20W2.pdf)|✅|
+|8.3|Plaatsing mag geen negatieve impact hebben op bestaande functies van de locatie.|[8.3 Winkelketens](/reports%20and%20protocols/IR5%20W2.pdf)|✅|
 |**Koeling & Producttypes**|
 |9.1|Het systeem moet geschikt zijn voor zowel gekoelde als ongekoelde producten.|[9.1 Materiaalstudie](/reports%20and%20protocols/MO.pdf)|✅|
 |9.2|Gekoelde producten moeten binnen veilige temperatuurgrenzen blijven.|[9.2 Materiaalstudie](/reports%20and%20protocols/MO.pdf)|✅|
