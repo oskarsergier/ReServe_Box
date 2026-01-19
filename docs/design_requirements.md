@@ -19,11 +19,11 @@
 |3.2||[3.2 Wijkinterview](url)|✅|
 |3.3||[3.3 Interview interface](url)|✅|
 |**Veiligheid & vertrouwen**|
-|4.1||[4.1 Alles Wave 1](url)|✅|
-|4.2||[4.2 Expert interview](url)|✅|
-|4.3||[4.3 Materiaalstudie](url)|✅|
-|4.4||[4.4 Gebruikers](url)|✅|
-|4.5||[4.5 Gemeente](url)|✅|
+|4.1|Het systeem moet vertrouwen uitstralen op vlak van hygiëne en voedselveiligheid.|[4.1 Alles Wave 1](/reports%20and%20protocols/IP2.1%20W1.pdf)|✅|
+|4.2|De box moet producten beschermen tegen weersinvloeden en dieren.|[4.2 Financierder](/reports%20and%20protocols/IR1%20W2.pdf)|✅|
+|4.3|Gekoelde en niet-gekoelde producten moeten fysiek gescheiden zijn.|[4.3 Materiaalstudie](/reports%20and%20protocols/MO.pdf)|✅|
+|4.4|De gebruiker moet kunnen inschatten of een product nog vers is.|[4.4 Gebruikers](/reports%20and%20protocols/IP%20I.pdf)|✅|
+|4.5|Het ontwerp moet misbruik en vandalisme zoveel mogelijk beperken.|[4.5 Gemeente](/reports%20and%20protocols/IR2%20W2.pdf)|✅|
 |**Visuele Comunicatie & Herkenbaarheid**|
 |5.1|De box moet duidelijk herkenbaar zijn als voedseldeelinitiatief, niet als afvalcontainer.|[5.1 Winkelketen](/reports%20and%20protocols/IR1%20W2.pdf)|✅|
 |5.2|Het doel en gebruik van de box moet duidelijk vermeld zijn op de box zelf.|[5.2 Winkelketen](/reports%20and%20protocols/IR3%20W2.pdf)|✅|
