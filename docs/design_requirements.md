@@ -25,14 +25,14 @@
 |4.4||[4.4 Gebruikers](url)|✅|
 |4.5||[4.5 Gemeente](url)|✅|
 |**Visuele Comunicatie & Herkenbaarheid**|
-|5.1||[5.1 Winkelketen](url)|✅|
-|5.2||[5.2 Winkelketen](url)|✅|
-|5.3||[5.3 Winkelketen](url)|✅|
-|5.4||[5.4 Winkelketen](url)|✅|
+|5.1|De box moet duidelijk herkenbaar zijn als voedseldeelinitiatief, niet als afvalcontainer.|[5.1 Winkelketen](/reports%20and%20protocols/IR1%20W2.pdf)|✅|
+|5.2|Het doel en gebruik van de box moet duidelijk vermeld zijn op de box zelf.|[5.2 Winkelketen](/reports%20and%20protocols/IR3%20W2.pdf)|✅|
+|5.3|De visuele uitstraling moet verzorgd, professioneel en positief zijn.|[5.3 Winkelketen](/reports%20and%20protocols/IR4%20W2.pdf)|✅|
+|5.4|Communicatie moet leesbaar en begrijpelijk zijn voor voorbijgangers.|[5.4 Winkelketen](/reports%20and%20protocols/IR5%20W2.pdf)|✅|
 |**Sociale & Communicatieve aspecten**|
-|6.1||[6.1 Interview interface 1](url)|✅|
-|6.2||[6.2 Interview interface 2](url)|✅|
-|6.3||[6.3 Gebruikers](url)|✅|
+|6.1|Het systeem moet sociaal delen stimuleren zonder sociale druk te creëren.|[6.1 Interview interface 1](/reports%20and%20protocols/IR1%20I.pdf)|✅|
+|6.2|Sociale functies moeten optioneel zijn.|[6.2 Interview interface 2](/reports%20and%20protocols/IR2%20I.pdf)|✅|
+|6.3|Het systeem mag geen stigma creëren rond voedsel ophalen.|[6.3 Gebruiker 1](/reports%20and%20protocols/IR1%20W1.pdf)**/**[6.3 Gebruiker 2](/reports%20and%20protocols/IR2%20W1.pdf)|✅|
 |**Organisatie, Onderzoek & monitoring**|
 |7.1|Onderhoud en reiniging mogen niet afhankelijk zijn van winkel- of gemeentepersoneel.|[7.1 Gemeente, winkels](/reports%20and%20protocols/IP2.1%20W2.pdf)|✅|
 |7.2|Het systeem moet onderhoudsarm en eenvoudig te reinigen zijn.|[7.2 Materiaalstudie](/reports%20and%20protocols/MO.pdf)|✅|
