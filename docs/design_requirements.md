@@ -3,10 +3,10 @@
 |ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
 |**Doel & duurzaamheid**|
-|1.1|Het systeem moet aantoonbaar bijdragen aan het verminderen van voedselverspilling op wijkniveau.|[1.1 Gebruikersinterview](url)|✅|
-|1.2|Het ontwerp moet passen binnen het thema Sustainability at Home en focussen op huishoudelijke overschotten. |[2.1 Projectbrief + interviews](url)|✅|
-|1.3|Het ontwerp moet duurzaam zijn en geschikt voor langdurig hergebruik. |[1.3 Winkelketens + gemeente](url)|✅|
-|1.4|Het systeem mag bestaande sociale voedselinitiatieven niet ondermijnen maar moet aanvullend werken.|[1.4 Gemeente, winkelketens](url)|✅|
+|1.1|Het systeem moet aantoonbaar bijdragen aan het verminderen van voedselverspilling op wijkniveau.|[1.1 Gebruikersinterview](/reports%20and%20protocols/IRW1.1.pdf)|✅|
+|1.2|Het ontwerp moet passen binnen het thema Sustainability at Home en focussen op huishoudelijke overschotten. |[2.1 Interview 1](/reports%20and%20protocols/IRW1.1.pdf)**/**[2.1 Interview 2](/reports%20and%20protocols/IRW1.2.pdf)|✅|
+|1.3|Het ontwerp moet duurzaam zijn en geschikt voor langdurig hergebruik. |[1.3 Gemeente](/reports%20and%20protocols/IR2%20W2.pdf)**/**[1.3 Winkelketen](/reports%20and%20protocols/IR2%20W1.pdf)|✅|
+|1.4|Het systeem mag bestaande sociale voedselinitiatieven niet ondermijnen maar moet aanvullend werken.|[1.4 Gemeente, Winkelketens](/reports%20and%20protocols/IR2%20W2.pdf)|✅|
 |**Gebruiker & Gebruiksgemak**|
 |2.1|De gebruiker moet in één oogopslag begrijpen wat ReServeBox is en hoe deze werkt.|[2.1 User test](url)|✅|
 |2.2||[2.2 Expert interview](url)|❌|
