@@ -48,7 +48,7 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
 ## Bijlagen
 ### Discovery
 * Benchmarking (N=10)
-  * [Protocol](/reports%20and%20protocols/R1.1.pdf)
+  * [Protocol](/reports%20and%20protocols/RP1.1.pdf)
   * [Rapport](/reports%20and%20protocols/R1.1.pdf)
 * Interviews (N=3)
   * [Protocol Initiatiefnemer](/reports%20and%20protocols/IPI1.1.pdf)
