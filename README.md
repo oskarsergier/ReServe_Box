@@ -23,10 +23,14 @@ ReServeBox lost het probleem op door bewoners een gecontroleerde, veilige en toe
 
 Voedselverspilling vormt wereldwijd en lokaal groeiend duurzaamheidsprobleem. Jaarlijks gaat naar schatting een derde van al het geproduceerde voedsel verloren [^1]. In Europa blijkt dat vooral huishoudens een grote bijdrage leveren aan deze verspilling, vaak door overstocking, verkeerde inschattingen of gebrek aan kennis over houdbaarheid [^2]. Dit leidt niet enkel tot ecologische schade, maar ook tot onnodige financiële kosten en verlies van sociale waarde binnen buurten. Hoewel buurtvoedselkastjes een laagdrempelig alternatief bieden om overschotten te delen, tonen recente studies aan dat deze systemen kampen met problemen rond voedselveiligheid, betrouwbaarheid en duidelijke richtlijnen [^3].
 
-Mijn onderzoek via interviews, een Google Forms-bevraging en literatuur onderzoek wijst uit dat buurtbewoners bereid zijn voedsel te delen, maar drempels ervaren zoals onzekerheid over wat mag, angst voor bederf en een gebrek aan transparantie. Hierdoor blijven veel bestaande buurtkastjes onderbenut of worden ze foutief gebruikt.
+Mijn onderzoek via interviews (N=3), een Google Forms-bevraging (N=58) en literatuur onderzoek wijst uit dat buurtbewoners bereid zijn voedsel te delen, maar drempels ervaren zoals onzekerheid over wat mag, angst voor bederf en een gebrek aan transparantie. Hierdoor blijven veel bestaande buurtkastjes onderbenut of worden ze foutief gebruikt.
 
-Met ReServeBox willen wij deze kloof dichten door een phygital buurtvoedselkast te ontwikkelen die fysieke toegankelijkheid koppelt aan digitale transparantie. De doelstelling is een systeem te creëren dat voedseloverschotten opnieuw waarde geeft, duurzame gewoontes stimuleert en sociaal vertrouwen versterkt binnen de wijk.
+Met ReServeBox willen wij deze kloof dichten door een buurtvoedselkast te ontwikkelen die fysieke toegankelijkheid koppelt aan digitale transparantie.
 
+Hoofddoelen van ReServeBox:
+>* Voedseloverschotten terug waarde geven
+>* Duurzaamheid stimuleren
+>* Sociaal vertrouwen versterken
 ## Inhoudstafel
 
 1. [Methodologie](./docs/methodologie.md)
