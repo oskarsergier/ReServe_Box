@@ -7,9 +7,9 @@ Het ontwikkelingsproces van ReServeBox volgde een gebruiksgerichte ontwerpmethod
 <p align="center">
 </p>
 
-Tijdens de discovery fase werd voedselverspilling in het huishouden en op lokaal niveau onderzocht. Hiervoor werd een [enquête](/reports%20and%20protocols/REA1.1.pdf) gemaakt die op sociale media gezet werd, zodat de gebruikers hun omhang met voedsel konden beschrijven door middel van specifieke vragen. Via deze weg werden de verschilende problemen duidelijk omtrent voedselverliezen en duurzaamheid. Gepaard met deze enquête werden er ook nog enkele [interviews](/reports%20and%20protocols/IPW1.1.pdf) afgenomen.
+Tijdens de discovery fase werd voedselverspilling in het huishouden en op lokaal niveau onderzocht. Hiervoor werd een [enquête](/reports%20and%20protocols/REA1.1.pdf) (N=58) gemaakt die op sociale media gezet werd, zodat de gebruikers hun omhang met voedsel konden beschrijven door middel van specifieke vragen. Via deze weg werden de verschilende problemen duidelijk omtrent voedselverliezen en duurzaamheid. Gepaard met deze enquête werden er ook nog enkele [interviews](/reports%20and%20protocols/IPW1.1.pdf) (N=3) afgenomen.
 
-Daarnaast werd er een [benchmarkanalyse](/reports%20and%20protocols/R1.1.pdf) uitgevoerd die bestaande oplossingen om voedseloverschotten te verdelen gaat analyseren. Deze analyse bevat zowel digitale platformen als buurtkasten. Hier wordt vooral gefocust op functionele kenmerken, de sterke punten en de zwakke punten die bij deze oplossingen aan bod komen. 
+Daarnaast werd er een [benchmarkanalyse](/reports%20and%20protocols/R1.1.pdf) (N=10) uitgevoerd die bestaande oplossingen om voedseloverschotten te verdelen gaat analyseren. Deze analyse bevat zowel digitale platformen als buurtkasten. Hier wordt vooral gefocust op functionele kenmerken, de sterke punten en de zwakke punten die bij deze oplossingen aan bod komen. 
 
 In de definefase de onderzoeksresultaten nogmaals geanalyseerd en werd er uit de resultaten een concrete probleemdefinitie, enkele ontwerpcriteria geformuleerd. De gebruikservaringen werden verder centraal gezet en werden er enkele concrete storyboards gemaakt. 
 
