@@ -8,11 +8,18 @@ Het is de bedoeling om verschillende inzichten te verkrijgen over hoe mensen omg
 * Bestaande initiatieven rond voedseloverschotten analyseren.
 
 ### Materiaal & methoden
+
 In deze fase werd er nog niet nagedacht over welke materialen er kunnen gebruikt worden om het ontwerp te realiseren. In deze fase was het vooral de bedoeling om te benadrukken waarom dit zo een probleem is voor sustainability at home. 
 
 ### Resultaten
 De resultaten van de discoveryfase zijn gebaseerd op desk research, [benchmarking](/reports%20and%20protocols/RP1.1.pdf) (N=10), [interviews](/reports%20and%20protocols/IPW1.1.pdf) (N=3) en een online [enquête](/reports%20and%20protocols/REA1.1.pdf) (N=58). Deze combinatie maakte het mogelijk om goede inzichten te krijgen rond voedselverspilling. 
+#### Desk Research
 
+#### Interviews
+
+#### Benchmarking
+
+#### Enquête
 Uit de desk research bleek dat voedselverspilling voornamelijk op huishoudelijk niveau ontstaat door onzekerheid rond houdbaarheidsdata en een gebrek aan toegankelijke oplossingen binnen de woningcontext. Dit bevestigt dat voedselverspilling een relevant probleem is binnen sustainability at home.
 De benchmarkanalyse van bestaande initiatieven zoals buurtkasten, voedseldeelplatformen en sociale voedselprojecten toonde aan dat veel oplossingen focussen op sociale herverdeling, maar dat aspecten zoals vertrouwen, gebruikscontrole en duidelijke richtlijnen vaak ontbreken.
 De kwalitatieve met wijkbewoners en initiatiefnemers werden geanalyseerd en brachten drie kerninzichten naar voren: vertrouwen, voedselveiligheid en gebruiksgemak. Respondenten gaven aan bereid te zijn voedsel te delen als er duidelijke informatie over herkomst, datum en bewaarmethode is. Een wijkbewoner stelde “Ik deel graag, maar wil weten hoe lang het eten er al ligt en van wie het komt.”
