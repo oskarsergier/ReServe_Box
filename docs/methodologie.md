@@ -7,14 +7,8 @@ Het ontwikkelingsproces van ReServeBox volgde een gebruiksgerichte ontwerpmethod
 <p align="center">
 </p>
 
-Tijdens de discovery fase werd voedselverspilling in het huishouden en op lokaal niveau onderzocht. Hiervoor werd een [enquête](/reports%20and%20protocols/REA1.1.pdf) (N=58) gemaakt die op sociale media gezet werd, zodat de gebruikers hun omhang met voedsel konden beschrijven door middel van specifieke vragen. Via deze weg werden de verschilende problemen duidelijk omtrent voedselverliezen en duurzaamheid. Gepaard met deze enquête werden er ook nog enkele [interviews](/reports%20and%20protocols/IPW1.1.pdf) (N=3) afgenomen.
+Tijdens de discovery fase werd voedselverspilling in het huishouden en op lokaal niveau onderzocht. Hiervoor werd een [enquête](/reports%20and%20protocols/RE1.1.pdf) (N=58) gemaakt die op sociale media gezet werd, zodat de gebruikers hun omhang met voedsel konden beschrijven door middel van specifieke vragen. Via deze weg werden de verschilende problemen duidelijk omtrent voedselverliezen en duurzaamheid. Gepaard met deze enquête werden er ook nog enkele [interviews](/reports%20and%20protocols/IPW1.1.pdf) (N=3) afgenomen.
 
-Daarnaast werd er een [benchmarkanalyse](/reports%20and%20protocols/R1.1.pdf) (N=10) uitgevoerd die bestaande oplossingen om voedseloverschotten te verdelen gaat analyseren. Deze analyse bevat zowel digitale platformen als buurtkasten. Hier wordt vooral gefocust op functionele kenmerken, de sterke punten en de zwakke punten die bij deze oplossingen aan bod komen. 
+Daarnaast werd er een [benchmarkanalyse](/reports%20and%20protocols/RP1.1.pdf) (N=10) uitgevoerd die bestaande oplossingen om voedseloverschotten te verdelen gaat analyseren. Deze analyse bevat zowel digitale platformen als buurtkasten. Hier wordt vooral gefocust op functionele kenmerken, de sterke punten en de zwakke punten die bij deze oplossingen aan bod komen. 
 
-In de definefase de onderzoeksresultaten nogmaals geanalyseerd en werd er uit de resultaten een concrete probleemdefinitie, enkele ontwerpcriteria geformuleerd. De gebruikservaringen werden verder centraal gezet en werden er enkele concrete storyboards gemaakt. 
-
-![alt text](/img/STB1.png)
-![alt text](/img/STB2.png)
-
-<p align="center">
-</p>
+In de definefase verschuift de fase meer naar een ontwikkelingsfase. Met behulp van de interviews worden er storyboards gemaakt waar het gebruik van de ReServeBox gevisualiseerd werd. Verder worden de protoypes en de interfaces getest in 2 waves. De testen werden uitgevoerd aan de hand van concept testing. In wave 1 (N=5) worden zowel het prototype en de interfaces getest aan de hand van cartboard protypes en schermen. De feedback die verkregen werd zal worden gebruikt om het concept te verbeteren. In wave 2 (N=5) wordt er nagegaan indien bedrijven ons zouden willen helpen. Het gaat hier vooral over het insteken van voedsel die zijn einddatum nadert. Tijdens de interviews werden de prototypes nogmaals voorgelegd. De defini-fase werd afgesloten met een pitch waar het gevalideerde concept gepresenteerd werd. 

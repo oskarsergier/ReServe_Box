@@ -5,6 +5,7 @@ Het is de bedoeling om verschillende inzichten te verkrijgen over hoe mensen omg
 
 * Welke huidige gewoonten en attitudes hebben wijkbewoners rond     voedselverspilling in hun huishouden?
 * Welke noden, drempels en verwachtingen hebben zij bij eeen mogelijk systeem voor voedselherverdeling?
+* Bestaande initiatieven rond voedseloverschotten analyseren.
 
 ### Materiaal & methoden
 In deze fase werd er nog niet nagedacht over welke materialen er kunnen gebruikt worden om het ontwerp te realiseren. In deze fase was het vooral de bedoeling om te benadrukken waarom dit zo een probleem is voor sustainability at home. 
