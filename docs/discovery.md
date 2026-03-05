@@ -25,15 +25,15 @@ De kwalitatieve interviews met wijkbewoners en initiatiefnemers werden geanalyse
 
 Zo werden volgende zaken gezegd in het interview:
 > "Ik vond het zonde om boeken weg te gooien, en dacht: misschien brengt het wat leven in de straat."
-"Ik maak vaak soep of pasta met overschotten."
-"Ik gooi niet graag eten weg, maar soms weet ik niet wat ik ermee moet doen."
-"Ik deel graag, maar wil weten hoe lang het eten er al ligt en van wie het komt."
+>"Ik maak vaak soep of pasta met overschotten."
+>"Ik gooi niet graag eten weg, maar soms weet ik niet wat ik ermee moet doen."
+>"Ik deel graag, maar wil weten hoe lang het eten er al ligt en van wie het komt."
 
 Tijdens de interviews kwamen ook enkele bezorgdheden aan bod zoals:
 > "Wat als iemand er bedorven eten in steekt?"
-Onzekerheden rond voedselveiligheid.
-"Ik zou graag weten van wie het komt."
-"Te groot succes kan ook slecht zijn."
+>Onzekerheden rond voedselveiligheid.
+>"Ik zou graag weten van wie het komt."
+>"Te groot succes kan ook slecht zijn."
 
 * [Interview Protocol Initiatiefnemer](/reports%20and%20protocols/IPI1.1.pdf)
 * [Interview Protocol Wijkbewoner](/reports%20and%20protocols/IPW1.1.pdf)
