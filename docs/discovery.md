@@ -59,7 +59,13 @@ Er zijn weinig bestaande initiatieven die beide gaan combineren. Hierdoor weten 
 * [Benchmarking Protocol](/reports%20and%20protocols/RP1.1.pdf)
 
 #### Enquête (N=58)
-De resultaten uit de online enquête bevestigden deze bevindingen. Een meerderheid van de respondenten gaf aan regelmatig eetbaar voedsel weg te gooien, terwijl tegelijk een positieve houding tegenover buurtgerichte deelinitiatieven werd geuit. De bereidheid tot deelname hing sterk samen met de mate van vertrouwen in het systeem.
+Een meerderheid van de respondenten gaf aan regelmatig eetbaar voedsel weg te gooien, terwijl tegelijk een positieve houding tegenover buurtgerichte deelinitiatieven werd geuit. De bereidheid tot deelname hing sterk samen met de mate van vertrouwen in het systeem. Uit de enquête is ook gebleken dat mensen enige interesse hebben in het systeem.
+Volgende zaken werden ook vermeld:
+* Veiligheid
+* Gebruiksgemak
+* Sociale meerwaarde
+
+Deze inzichten kwamen ook al terug tijdens de interviews en zullen we dus meenemen tijdens het verder ontwikkelen van het project.
 
 * [Enquête Protocol](/reports%20and%20protocols/RE1.1.pdf)
 

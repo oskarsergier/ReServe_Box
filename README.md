@@ -1,11 +1,11 @@
 # ReServe_Box
-ReServe, een lokaal opslag punt voor voedseloverschotten die nog eetbaar zijn.
+ReServe, een lokaal opslagpunt voor voedseloverschotten die nog eetbaar zijn.
 
 🛠️ Built by ``Victor Raes``, ``Bas Matthys`` & ``Oskar Sergier``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese`` 
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*04/03/2026 van de laatste update*   
+*05/03/2026 van de laatste update*   
 
 ## Samenvatting
 Voedselverspilling is een groeiend duurzaamheidsprobleem, waarbij een groot deel ontstaat in huishoudens. Hoewel buurtkastjes een laagdrempelige oplossing bieden, tonen onze onderzoeksmethoden benchmarking van bestaande systemen, een Google Forms enquête, twee interviews met wijkbewoners en een interview met een initiatiefnemer, aan dat deze kastjes kampen met grote knelpunten. De belangrijkste problemen zijn gebrek aan voedselveiligheid, onzekerheid over wat mag worden gedeeld, wantrouwen bij gebruikers en beperkte controle over de kwaliteit van aangeboden producten. Hierdoor blijven buurtkastjes vaak ongebruikt of verkeerd gebruikt, waardoor ze hun duurzaamheidsdoel missen.
