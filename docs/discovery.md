@@ -24,7 +24,7 @@ De kwalitatieve interviews met wijkbewoners en initiatiefnemers werden geanalyse
 * Gebruiksgemak
 
 Zo werden volgende zaken gezegd in het interview:
-> "Ik vond het zonde om boeken weg te gooien, en dacht: misschien brengt het wat leven in de straat."
+>"Ik vond het zonde om boeken weg te gooien, en dacht: misschien brengt het wat leven in de straat."
 >"Ik maak vaak soep of pasta met overschotten."
 >"Ik gooi niet graag eten weg, maar soms weet ik niet wat ik ermee moet doen."
 >"Ik deel graag, maar wil weten hoe lang het eten er al ligt en van wie het komt."
