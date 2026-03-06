@@ -95,19 +95,22 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
   * [Rapport Financierder 5](/reports%20and%20protocols/IR5%20W2.pdf)
 
 ### Develop 1
-* Test (N=2)
-  * [Testprotocol Arduino]()
+* Arduino (N=2)
+  * [Testprotocol Arduino](/reports%20and%20protocols/TPA.pdf)
   * [Rapport Arduino]()
 * App
-  * [App]()
+  * [App](/reports%20and%20protocols/PA.pdf)
   * [Rapport App]()
 * Interviews (N=1)
-  * [Interview protcol Cubby]()
+  * [Interview protcol Cubby](/reports%20and%20protocols/IPC.pdf)
   * [Interview rapport Cubby]()
 * User flow
-  * [User flow]()
+  * [User flow](/reports%20and%20protocols/UFR.pdf)
 * Network value
   * [Network value]()
+* Storyboard (N=2)
+  * [Storyboard 1](/img/STB1.D1.png)
+  * [Storyboard 2](/img/STB2.D1.png)
 ### Develop 2
 ### Develop 3
 
