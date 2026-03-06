@@ -100,7 +100,7 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
   * [Rapport Arduino]()
 * App
   * [App]()
-  * [Rapport App]
+  * [Rapport App]()
 * Interviews (N=1)
   * [Interview protcol Cubby]()
   * [Interview rapport Cubby]()
