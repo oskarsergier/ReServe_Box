@@ -71,7 +71,23 @@ Deze inzichten kwamen ook al terug tijdens de interviews en zullen we dus meenem
 
 ### Conclusies & implicaties
 De discoveryfase toont aan dat voedselverspilling in huishoudens vooral wordt veroorzaakt door onzekerheid en een gebrek aan vertrouwen. 
-Ten eerste moet de ReServeBox functioneren als een transparant en betrouwbaar systeem, waarbij gebruikers duidelijke informatie krijgen over het gedeelde voedsel. Dit impliceert ontwerpvereisten zoals heldere instructies, labeling en mogelijke digitale ondersteuning.
+
+De belangrijkste zaken die ervoor zullen zorgen dat mensen de ReServeBox zullen gebruiken zijn:
+* Betrouwbaarheid
+* Voedselveiligheid
+* Gebruiksgemak
+
+De ReServeBox moet een transparant systeem zijn waarbij de gebruikers duidelijke informatie krijgen van hoe het precies in zijn werk gaat.
+Dit impliceert ontwerpvereisten zoals heldere instructies, labeling en mogelijke digitale ondersteuning.
+
 Ten tweede blijkt voedselveiligheid een cruciale factor. Het ontwerp moet daarom grenzen stellen aan wat gedeeld kan worden en ondersteuning bieden voor correcte bewaring.
-Tot slot benadrukken de resultaten het belang van laag drempelig gebruik en een duidelijke integratie in de woonomgeving. De ReServeBox moet intuïtief, herkenbaar en toegankelijk zijn om actieve deelname te stimuleren.
+
+Tot slot benadrukken de resultaten het belang van laag drempelig gebruik en een duidelijke integratie in de woonomgeving. 
+De ReServeBox moet:
+* intuïtief
+* herkenbaar
+* toegankelijk zijn 
+
+Deze zaken moeten voldaan worden om een actieve participatie te verkrijgen van de gebruikers.
+
 Deze conclusies vormen de basis voor de verdere conceptontwikkeling en prototyping in de volgende fase van het ontwerpproces.
