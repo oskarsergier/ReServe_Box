@@ -110,7 +110,7 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
   * [Rapport App samenvatting](/reports%20and%20protocols/D1ARS.pdf)
 * Interviews (N=1)
   * [Interview protcol Cubby](/reports%20and%20protocols/IPC.pdf)
-  * [Interview rapport Cubby]()
+  * [Interview rapport Cubby](https://cubby.be/)
 * User flow
   * [User flow](/reports%20and%20protocols/UFR.pdf)
 * Network value
@@ -148,3 +148,6 @@ You are free to reuse and build upon this work, both commercially and non-commer
 
   #### Keypad
   <a id= "Keypad"></a>Grove 12 channel Capacitive Touch Keypad (ATTINY1616) | SeEED Studio Wiki. (2023, 19 januari). https://wiki.seeedstudio.com/Grove-12-Channel-Capacitive-Touch-Keypad-ATtiny1616-/
+
+  #### Cubby
+  Cubby. (z.d.). https://cubby.be/ 
