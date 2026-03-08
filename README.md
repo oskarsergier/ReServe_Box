@@ -115,9 +115,13 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
   * [Storyboard 1](/img/STB1.D1.png)
   * [Storyboard 2](/img/STB2.D1.png)
 ### Develop 2
-* Arduino (N=2)
+* Arduino (N=)
   * [Testprotocol Arduino](/reports%20and%20protocols/TPA.pdf)
   * [Rapport Arduino]()
+* Lockersysteem
+  * [Testprotocol locker]()
+  * [Rapport Locker]()
+
 ### Develop 3
 
 ## Licentie 
