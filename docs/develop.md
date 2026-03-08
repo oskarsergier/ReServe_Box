@@ -7,6 +7,9 @@ Na de tussentijdse pitch werd er feedback gekregen op het afgelegde proces van h
 * ...
 
 Vandaar dat de pivot gemaakt werd om samen te werken met Too Good To Go waar zijn de pakketten zullen samenstellen en wij zullen kijken voor lockers waar ze deze pakketten kunnen insteken. Ook zullen we een app maken die zal zorgen dat mensen kunnen zien wat er in de lockers zit en waar ze deze kunnen vinden.
+
+* [Extra info pivot](/reports%20and%20protocols/VP.pdf)
+
 ## Develop 1
 Tijdens de Develop 1 fase werd gestart met het concretiseren en fysiek ontwikkelen van het concept. In deze fase wordt het ontwerp verder uitgewerkt naar een technisch realiseerbare oplossing, waarbij zowel de digitale interactie (app) als de fysieke infrastructuur (lockers) werden ontwikkeld.
 

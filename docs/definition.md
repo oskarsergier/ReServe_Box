@@ -84,7 +84,9 @@ Tijdens wave 2 werd er vooral onderzocht indien bedrijven interesse hadden om on
 * Bakkerij
 
 Dit werd onderzocht door middel van interviews. Tijdens de interviews werd vooral gevraagd achter:
-* 
+* De doelen die motiveren om in te zetten tegen voedselverspilling.
+* Indien ze al initiatieven hebben tegen verspilling.
+* De indruk van het concept
 ### Resultaten
 Enkele bedrijven zagen dit project volledig zitten en waren bereid om met ons dit verder uit te werken. Andere bedrijven waren totaal geen voorstander. Dit omdat nieuwe zaken vaak veel nieuwsgierigheid trekken en vaak niet de correcte gebruikers aantrekt. De bedrijven die voorstander waren zijn bedrijven die zich er echt van bewust zijn om overschotten zo laag mogelijk te houden dit zijn vaak ook bedrijven die nog niet met andere bedrijven samen werken. Het bedrijf die dit niet zag zitten had hier volgende redenen voor:
 * Concept was nog niet grondig genoeg uitgewerkt

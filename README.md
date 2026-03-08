@@ -95,6 +95,10 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
   * [Rapport Financierder 5](/reports%20and%20protocols/IR5%20W2.pdf)
 
 ### Develop 1
+* Validatie Pivot
+  * [Pivot](/reports%20and%20protocols/VP.pdf)
+* MVP
+  * [Rapport MVP](/reports%20and%20protocols/MVP.pdf)
 * App test (N=6)
   * [App](/reports%20and%20protocols/PA.pdf)
   * [Rapport App test 1](/reports%20and%20protocols/D1AR1.pdf)
