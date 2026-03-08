@@ -5,29 +5,105 @@ Een concreet inzicht krijgen op wat gebruikers een aangename interface vinden, i
 ### Materiaal & methoden
 In de definitionfase werd het materiaalgebruik van de ReServeBox onderzocht met als doel een duurzame, veilige en gebruiksvriendelijke constructie te definiëren die geschikt is voor de volledige wijkbuurt. Het materiaalonderzoek vormt een essentieel onderdeel van de conceptafbakening en ondersteunt de vertaling van gebruikersinzichten naar realiseerbare ontwerpkeuzes.
 
-Het materiaalonderzoek werd uitgevoerd aan de hand van een desk research en vergelijkende analyse, zoals gedocumenteerd in het materiaalonderzoeksrapport. Verschillende materialen werden geëvalueerd op basis van vooraf vastgelegde criteria die voortvloeiden uit de discoveryfase, waaronder duurzaamheid, voedselveiligheid, onderhoudsvriendelijkheid en stevigheid.
+Verschillende materialen werden geëvalueerd op basis van vooraf vastgelegde criteria die voortvloeiden uit de discoveryfase:
+* Duurzaamheid
+* Voedselveiligheid
+* Onderhoudsvriendelijkheid
+* Stevigheid.
 
-De onderzochte materialen omvatten onder andere gerecycled staal, roestvast staal, polycarbonaat en isolatiematerialen. Voor elk materiaal werden technische eigenschappen, ecologische impact en praktische toepasbaarheid in een buitenomgeving in kaart gebracht.
+Het volledige materiaalonderzoek is te vinden bij:
+* [Materiaalonderzoek](/reports%20and%20protocols/MO.pdf)
 
-De resultaten van het materiaalonderzoek werden vervolgens vertaald naar materiaalspecifieke ontwerpvereisten, die als uitgangspunt dienen voor het detailontwerp in de developfase. Er werd bewust gekozen om het materiaalonderzoek in deze fase af te ronden, zodat latere ontwerpbeslissingen onderbouwd zijn.
+### Wave 1
+Voordat we verder onderzoek gevoerd hebben werden er eerst twee prototypes gemaakt die tijdens de interviews meegnomen en voorgelegd werden. 
+![alt text](/img/PT1.png)
+
+<p align="center">
+</p>
+
+![alt text](/img/PT2.png)
+
+<p align="center">
+</p>
+
+Tijdens wave 1 werd er vooral onderzocht indien mensen potentieel zagen in het concept van voedseloverschotten delen op wijkniveau. Dit werd vooral onderzocht door het maken van storyboards (N=2) en user interviews (N=5). 
+![alt text](/img/STB1.png)
+
+<p align="center">
+</p>
+
+![alt text](/img/STB2.png)
+
+<p align="center">
+</p>
+
+Tijdens de interviews voor het concept werd vooral gevraagd naar:
+* Het idee van een app voor de box.
+* Features die er moeten inzitten.
+* Functie van de box
+* Is er interesse om het te gebruiken. Waarom wel/niet?
+* [Interview protocol wijkbewoner](/reports%20and%20protocols/IP2.1%20W1.pdf)
+
+Nadien werden er werden er nog interviews uitgevoerd voor het maken van interfaces. Hier werd voornamelijk polst naar wat de gebruikers absoluut in de interface van de app en van de box wilden zien. 
+* [Interview protocol interface](/reports%20and%20protocols/IP%20I.pdf)
+
+* Interface App
+![alt text](/img/IA.png)
+
+<p align="center">
+</p>
+
+* Interface Box
+![alt text](/img/IB.png)
+
+<p align="center">
+</p>
+
 ### Resultaten
-De resultaten van de gebruikerstesten en interviews toonden aan dat duidelijkheid en transparantie cruciale factoren zijn voor acceptatie van de ReServeBox. Storyboard evaluaties maakten zichtbaar dat gebruikers behoefte hebben aan een logisch en voorspelbaar gebruiksverloop, waarbij elke stap duidelijk wordt gecommuniceerd.
+Tijdens de interviews rond het concept waren de geïnterviewden zeer positief over het concept. Uit deze interviews bleek ook dat ze dit zeer positief vonden om het sociale gemeenschap weer wat op te fleuren. Nu werd er zelden nog met elkaar gesproken in de wijk. Tijdens de interviews werd gezegd:
+> "Dit zou terug wat leven in de wijk brengen."
 
-Uit de interface-tests bleek dat gebruikers eenvoudige visuele feedback verkiezen boven uitgebreide tekst. Iconen, beperkte keuzemogelijkheden en duidelijke statusindicatoren verhoogden het vertrouwen en verminderden cognitieve belasting. 
+Echter waren er enkele onzekerheden omtrent;
+* Vertrouwen
+* Hygiëne
+* Communicatie
+* Transparantie
 
-Het materiaalonderzoek resulteerde in een duidelijk onderbouwde selectie van materialen die beantwoorden aan zowel de functionele eisen als de sociale en ecologische context van de ReServeBox. Uit de vergelijkende analyse blijkt dat niet alle materialen die technisch geschikt zijn, ook bijdragen aan gebruikersvertrouwen en langdurig gebruik in een gedeelde omgeving. De toepassing van PUR-isolatie bleek essentieel voor het waarborgen van voedselveiligheid in koel- en vriescompartimenten.
+De zaken die tijdens de interviews over de interfaces vaak aan bod kwamen die ze graag zouden willen bij de app waren:
+* Duidelijkheid
+* Logische sturctuur
+* Eenvoud
+* Moet snel toehangkelijk zijn voor iedereen.
 
-Voor de compartimenten waarin voedsel zichtbaar en toegankelijk moet zijn, kwam polycarbonaat naar voren als het meest geschikte materiaal. Het combineert transparantie met slagvastheid en is eenvoudiger te reinigen dan alternatieven zoals glas of acryl. Deze transparantie verhoogt de controleerbaarheid van de inhoud, wat een belangrijke rol speelt in het vertrouwen van gebruikers.
+Na het testen van de interfaces bleek dat deze voor de jongere gebruikers zeer makkelijk te gebruiken was, maar voor de oudere vroeg dit wat meer werk en hadden ze hulp nodig. Ook bleek dat gebruikers eenvoudige visuele feedback verkiezen boven uitgebreide tekst. Iconen, beperkte keuzemogelijkheden en duidelijke statusindicatoren verhoogden het vertrouwen en verminderden cognitieve belasting. 
+
+### Wave 2
+Tijdens wave 2 werd er vooral onderzocht indien bedrijven interesse hadden om ons project te gaan financieren en het aanvullen van de box. De bedrijven die aangesproken werden waren:
+* Spar 
+* Gemeente Melle
+* Bakkerij
+
+Dit werd onderzocht door middel van interviews. Tijdens de interviews werd vooral gevraagd achter:
+* 
+### Resultaten
+Enkele bedrijven zagen dit project volledig zitten en waren bereid om met ons dit verder uit te werken. Andere bedrijven waren totaal geen voorstander. Dit omdat nieuwe zaken vaak veel nieuwsgierigheid trekken en vaak niet de correcte gebruikers aantrekt. De bedrijven die voorstander waren zijn bedrijven die zich er echt van bewust zijn om overschotten zo laag mogelijk te houden dit zijn vaak ook bedrijven die nog niet met andere bedrijven samen werken. Het bedrijf die dit niet zag zitten had hier volgende redenen voor:
+* Concept was nog niet grondig genoeg uitgewerkt
+* Makkelijk te vandaliseren
+* Te hoog risico op bedorven voedsel
+* Werkt al samen met Too Good To Go
 
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen.
+De belangrijkste conclusies uit deze fase zijn:
+* Voedselveiligheid
+* Duidelijkheid
+* Strikte regels
+* Onderhoud van de box
 
-Op basis van de resultaten van het materiaalonderzoek werden meerdere cruciale ontwerpbeslissingen vastgelegd voor de verdere ontwikkeling van de ReServeBox. Ten eerste werd beslist om de structurele componenten uit te voeren in gerecycled staal of RVS, omwille van hun duurzaamheid, sterkte en onderhoudsgemak.
+Dit zijn de zaken waar vooral de financierders en de gebruikers de meeste vragen rond stellen. De gebruikers zien het zelf niet zitten om de box nog eens te gaan onderhouden. Er werd gezegd in een interview:
+> "Sommige mensen zullen profiteren van anderen."
 
-Ten tweede werd gekozen voor polycarbonaat als transparant materiaal voor de compartimenten. Deze keuze faciliteert visuele controle van de inhoud en draagt bij aan vertrouwen en voedselveiligheid, wat essentieel is voor een gedeeld systeem zonder permanente supervisie.
-
-Daarnaast houd in dat de nood aan isolatie dat het ontwerp moet voorzien in een gesloten, goed geïsoleerde zone, wat gevolgen heeft voor de vormgeving, de modulariteit en de plaatsing van elektronische componenten.
-
-Deze conclusies leiden tot een aantal implicaties voor de volgende ontwikkelfase. Het ontwerp zal modulair worden opgebouwd zodat materialen efficiënt gecombineerd en afzonderlijk geoptimaliseerd kunnen worden.
-
-Samenvattend vormt het materiaalonderzoek een stabiele en onderbouwde basis voor het detailontwerp en de prototyping in de developfase, waarbij duurzaamheid, voedselveiligheid en gebruikersvertrouwen centraal blijven staan.
+Vaak werden er op deze problemen nog enkele tips gegeven over hoe we bepaalde zaken kunnen aanpakken:
+* Externe firma laten onderhouden
+* Laten werken op groene energie
+* Camera installeren tegen vandalisme
+* ... 
