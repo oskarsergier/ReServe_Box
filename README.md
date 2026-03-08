@@ -95,23 +95,29 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
   * [Rapport Financierder 5](/reports%20and%20protocols/IR5%20W2.pdf)
 
 ### Develop 1
-* Arduino (N=2)
-  * [Testprotocol Arduino](/reports%20and%20protocols/TPA.pdf)
-  * [Rapport Arduino]()
-* App
+* App test (N=6)
   * [App](/reports%20and%20protocols/PA.pdf)
-  * [Rapport App]()
+  * [Rapport App test 1](/reports%20and%20protocols/D1AR1.pdf)
+  * [Rapport App test 2](/reports%20and%20protocols/D1AR2.pdf)
+  * [Rapport App test 3](/reports%20and%20protocols/D1AR3.pdf)
+  * [Rapport App test 4](/reports%20and%20protocols/D1AR4.pdf)
+  * [Rapport App test 5](/reports%20and%20protocols/D1AR5.pdf)
+  * [Rapport App test 6](/reports%20and%20protocols/D1AR6.pdf)
+  * [Rapport App samenvatting](/reports%20and%20protocols/D1ARS.pdf)
 * Interviews (N=1)
   * [Interview protcol Cubby](/reports%20and%20protocols/IPC.pdf)
   * [Interview rapport Cubby]()
 * User flow
   * [User flow](/reports%20and%20protocols/UFR.pdf)
 * Network value
-  * [Network value]()
+  * [Network value](/img/NV.png)
 * Storyboard (N=2)
   * [Storyboard 1](/img/STB1.D1.png)
   * [Storyboard 2](/img/STB2.D1.png)
 ### Develop 2
+* Arduino (N=2)
+  * [Testprotocol Arduino](/reports%20and%20protocols/TPA.pdf)
+  * [Rapport Arduino]()
 ### Develop 3
 
 ## Licentie 
