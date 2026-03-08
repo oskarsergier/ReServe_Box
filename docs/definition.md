@@ -90,6 +90,8 @@ Dit werd onderzocht door middel van interviews. Tijdens de interviews werd voora
 * Onderhoud van de box
 * Mogelijkheid tot partnerschap
 
+* [Interview protocol financierders](/reports%20and%20protocols/IP2.1%20W2.pdf)
+
 ### Resultaten
 Enkele bedrijven zagen dit project volledig zitten en waren bereid om met ons dit verder uit te werken. Andere bedrijven waren totaal geen voorstander. Dit omdat nieuwe zaken vaak veel nieuwsgierigheid trekken en vaak niet de correcte gebruikers aantrekt. De bedrijven die voorstander waren zijn bedrijven die zich er echt van bewust zijn om overschotten zo laag mogelijk te houden dit zijn vaak ook bedrijven die nog niet met andere bedrijven samen werken. Het bedrijf die dit niet zag zitten had hier volgende redenen voor:
 * Concept was nog niet grondig genoeg uitgewerkt
