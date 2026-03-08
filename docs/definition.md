@@ -1,7 +1,7 @@
 ## Definition
 ### Doestellingen
-In deze fase is het doel om concrete richtlijnen en specifieke aspecten van de ReServeBox op te gaan stellen voor het ontwerpen van de  box. Dit wordt gedaan door middel van storyboards, interfaces en prototypes die voorgelegd worden aan de gebruikers in de interviews.
-Een concreet inzicht krijgen op wat gebruikers een aangename interface vinden, is het makkelijk te hanteren. De verschillende interfaces en prototypes zijn terug te vinden bij de bijlagen van de definition fase.
+In deze fase is het doel om concrete richtlijnen en specifieke aspecten van de ReServeBox op te gaan stellen voor het ontwerpen van de box. Dit wordt gedaan door middel van storyboards (N=2), interfaces (N=2) en prototypes (N=2) die voorgelegd worden aan de gebruikers in de interviews.
+Een concreet inzicht krijgen op wat gebruikers een aangename interface vinden, is het makkelijk te hanteren.
 ### Materiaal & methoden
 In de definitionfase werd het materiaalgebruik van de ReServeBox onderzocht met als doel een duurzame, veilige en gebruiksvriendelijke constructie te definiëren die geschikt is voor de volledige wijkbuurt. Het materiaalonderzoek vormt een essentieel onderdeel van de conceptafbakening en ondersteunt de vertaling van gebruikersinzichten naar realiseerbare ontwerpkeuzes.
 

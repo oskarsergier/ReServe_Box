@@ -1,2 +1,8 @@
-Use this folder to share code on small tests: making a led burn, detecting a signal, ... this allows you to find this back easily later and share it with others.
-Use this readme file to describe these tests.
+Via de app van ReServeBox wordt er een code ontvangen die je nadien kunt ingeven op een keypad aan de lockers. Om dit principe te testen wordt er gebruik gemaakt van een arduino uno, de 12-Channel Capacitive Touch Keypad (ATtiny1616) en wat verbindingsdraden. 
+
+Vooralleer er begonnen werd met programmeren werd er informatie opgezocht over de keypad die gebruikt wordt. Bij deze pagina werd er ook een voorbeeldcode meegegeven om te testen indien de keypad werkt. Tijdens het testen werden er enkele problemen vastgesteld:
+* Indien de informatie gevolgd werd over de keypad, dan werd er geen info ingelezen in de seriële monitor (er kwam altijd een error op).
+Dit kwam omdat de TX pin van de keypad aangesloten was op de TX pin van de arduino en idem voor de RX pin. Dit kwam omdat de twee pinnen die informatie (TX) versturen aan elkaar geschakeld waren en kreeg de keypad geen informatie binnen, idem voor de RX pinnen. Dus werd de conclusie gemaakt dat de draden verwisseld moesten worden. 
+
+* Tijdens het testen verkregen we enkel hokjes te zien op de seriële monitor. 
+Dit probleem was er omdat de draden geschakeld waren op de pinnen TX en RX. Deze twee poorten zorgen ervoor dat er data van de keypad naar de arduino gestuurd kan worden en omgekeerd. Dit zorgde er voor dat de arduino zegmaar twee seriële monitoren had en deze werkten elkaar tegen. Na enkele testen werd er vastgesteld dat de TX en RX pinnen moesten gewijzigd worden door de pinnen 2 en 3 op de arduino.
