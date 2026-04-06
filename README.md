@@ -93,7 +93,8 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
   * [Rapport Financierder 3](/reports%20and%20protocols/IR3%20W2.pdf)
   * [Rapport Financierder 4](/reports%20and%20protocols/IR4%20W2.pdf)
   * [Rapport Financierder 5](/reports%20and%20protocols/IR5%20W2.pdf)
-
+* Cad model
+  * [Prototype cad](/cad/ReServeBox.prt)
 ### Develop 1
 * Validatie Pivot
   * [Pivot](/reports%20and%20protocols/VP.pdf)
@@ -119,12 +120,21 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
   * [Storyboard 1](/img/STB1.D1.png)
   * [Storyboard 2](/img/STB2.D1.png)
 ### Develop 2
-* Arduino (N=)
+* Arduino (N=6)
   * [Testprotocol Arduino](/reports%20and%20protocols/TPA.pdf)
-  * [Rapport Arduino]()
+  * [Rapport Arduino zonder display 1](/reports%20and%20protocols/TPAZ1.pdf)
+  * [Rapport Arduino zonder display 2](/reports%20and%20protocols/TPAZ2.pdf)
+  * [Rapport Arduino zonder display 3](/reports%20and%20protocols/TPAZ3.pdf)
+  * [Rapport Arduino met display 1](/reports%20and%20protocols/TPAM1.pdf)
+  * [Rapport Arduino met display 2](/reports%20and%20protocols/TPAM2.pdf)
+  * [Rapport Arduino met display 3](/reports%20and%20protocols/TPAM3.pdf)
 * Lockersysteem
-  * [Testprotocol locker]()
-  * [Rapport Locker]()
+  * [Prototype Locker](/cad/kluisjes.prt)
+  * [Prototype interface locker](/cad/reserve%20box%20controle.prt)
+  * [Locker interface voor testen](/cad/interface%20van%20de%20reserve.prt)
+* App (N=2)
+  * [App voor Too Good To Go]()
+  * [Aanpassingen app gebruiker](https://www.figma.com/make/J6ychj6AkGgcx02CEtZITY/Automated-Food-Pickup-App?t=z45hhVviTivWGiIb-1)
 
 ### Develop 3
 
