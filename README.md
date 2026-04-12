@@ -133,7 +133,7 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
   * [Prototype interface locker](/cad/reserve%20box%20controle.prt)
   * [Locker interface voor testen](/cad/interface%20van%20de%20reserve.prt)
 * App (N=2)
-  * [App voor Too Good To Go]()
+  * [App voor Too Good To Go](https://www.figma.com/make/JQcTcU4Be1uQNL2V1ulXEz/Untitled?p=f&t=8YItCzS4Ch5X5GUG-0)
   * [Aanpassingen app gebruiker](https://www.figma.com/make/J6ychj6AkGgcx02CEtZITY/Automated-Food-Pickup-App?t=z45hhVviTivWGiIb-1)
 
 ### Develop 3
