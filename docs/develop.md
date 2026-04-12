@@ -116,3 +116,140 @@ De volgende fase (Develop 2) zal focussen op:
 * Technische testen met Arduino
 * Verbeteringen aan de app op basis van gebruikerstesten
 * Integratie tussen app en fysieke box.
+
+## Develop 2
+Tijdens de Develop 2 fase werd de focus verlegd van de technische werking naar de gebruikservaring en ergonomie van de ReServeBox. In deze fase werden zowel de digitale interface als het fysieke systeem verder geoptimaliseerd op basis van gebruikerstesten en theoretische onderbouwing.
+
+### Aanpassingen aan Reserve app
+
+De bestaande app werd aangepast op basis van de feedback uit de eerdere gebruikerstesten.
+
+Aanpassingen: 
+* Timer van 30 min weg
+* Voorraad counter toegevoegd
+* Beperkte codes voor arduino
+
+Gebruikers verwachten een snelle en intuïtieve interactie, vergelijkbaar met andere mobiele apps.
+
+Ook werd er een tweede app gemaakt voor de mensen van Too Good To Go die de lockers zullen gaan aanvullen.  Deze app laat toe om pakketten toe te wijzen aan lockers, inhoud van lockers te registreren en een overzicht te bewaren van beschikbare pakketten
+
+Het doel van deze app:
+Het logistieke proces vereenvoudigen en fouten bij het vullen van lockers vermijden.
+
+* [App gebruikers](https://www.figma.com/make/J6ychj6AkGgcx02CEtZITY/Automated-Food-Pickup-App?t=z45hhVviTivWGiIb-1)
+* [App medewerkers](https://www.figma.com/make/JQcTcU4Be1uQNL2V1ulXEz/Untitled?p=f&t=8YItCzS4Ch5X5GUG-0)
+
+### Ergonomische analyse
+Om de fysieke interactie met het systeem te optimaliseren werd een antropometrische analyse uitgevoerd in Siemens NX .
+
+Ontwerpstrategie:
+* Toegepast: adjustable design (P5 – P95)
+* Doelgroep: gebruikers tussen 17 en 75 jaar
+* Focus op inclusieve toegankelijkheid
+
+Belangrijkste ontwerpkeuzes
+* Touchpad hoogte: 120 cm
+* Schermhoogte: max. 165 cm
+* Reikwijdte: max. 45 cm diepte
+
+Deze waarden zijn gebaseerd op de DINED antropometrische database.
+
+Omdat het systeem niet mechanisch verstelbaar is, moet de vaste plaatsing van het touchpad comfortabel bruikbaar zijn voor zowel de kleinste (P5) als de grootste (P95) gebruiker. We positioneren het touchpad daarom binnen de overlappende comfortzone van beide extremen.
+
+### Validatie via NX
+De opstelling werd getest met digitale modellen:
+P5 (kleine gebruiker)
+P95 (grote gebruiker)
+![alt text](/img/klein.png)
+
+<p align="center">
+</p>
+
+![alt text](/img/groot.png)
+
+<p align="center">
+</p>
+
+Resultaten:
+* Alle gewrichten bevinden zich in de comfortzone (groen)
+* Geen extreme houdingen nodig
+* Interface is bereikbaar voor volledige doelgroep
+
+P95
+![alt text](/img/p95.png)
+
+<p align="center">
+</p>
+
+P5
+![alt text](/img/P5.png)
+
+<p align="center">
+</p>
+
+Conclusie:
+De gekozen plaatsing van het touchpad en display is ergonomisch verantwoord en inclusief.
+* [Antropometrische analyse](/reports%20and%20protocols/Antropometrische%20analyse.pdf)
+
+### Prototyping en interactietesten
+In deze fase werd het fysieke interactiesysteem getest met:
+* 12-channel capacitive touch keypad
+* Arduino Uno
+* Display (toegevoegd in tweede testfase)
+
+![alt text](/img/IMG_5596.JPG)
+
+<p align="center">
+</p>
+
+Test 1 - Keypad
+
+Gebruikerstesten: 
+Als eerste test moesten de gebruikers de code invoeren enkel op de keypad. Terwijl de gebruikers dit aan het uivoeren waren werd er geobserveerd hoe ze dit ervaren.
+Observaties:
+* Interactie werkte technisch correct
+* Gebruikers misten duidelijke feedback
+* Onzekerheid tijdens gebruik
+* Knoppen groot genoeg
+
+>“Ik weet niet of ik het juist heb ingevoerd.”
+> “Een 6-cijferige code is goed maar ik zou graag feedback krijgen bij het invoeren ervan.”
+
+Test 2 – Keypad + display
+
+In de tweede test werd een display toegevoegd. Hier kunnen de gebruikers dus de code zien die ze invoeren.
+
+Resultaten:
+* Gebruikers begrepen de interactie sneller
+* Feedback werd als duidelijk ervaren
+* Minder twijfel tijdens gebruik
+
+> “Nu is het duidelijk wat er gebeurt.”
+
+Belangrijkste inzichten uit de testen:
+* Feedback is cruciaal voor vertrouwen in het systeem
+* Visuele ondersteuning (display) verhoogt usability
+* Interactie moet onmiddellijk bevestiging geven
+* Gebruikers verwachten begeleiding tijdens gebruik
+* Beveiliging en interactie
+
+Uit de testen bleek ook dat veiligheid een belangrijke rol speelt.
+* [Protocol testen](/reports%20and%20protocols/TPA.pdf)
+
+Nieuwe ontwerpbeslissingen:
+Betere bescherming tegen ongeautoriseerde toegang
+
+Toekomstige aanpassingen:
+* Limiet op aantal foutieve pogingen
+* (Reset- of blokkeermechanisme bij misbruik)
+
+### Conclusie Develop 2
+
+De Develop 2 fase leidde tot een sterke verbetering van de gebruikservaring van de ReServeBox.
+
+Belangrijkste realisaties:
+* Geoptimaliseerde app-interface
+* Ontwikkeling van een tweede app voor partners
+* Ergonomisch onderbouwd ontwerp via NX
+* Validatie van interactie via gebruikerstesten
+* Belangrijke inzichten rond feedback en veiligheid
