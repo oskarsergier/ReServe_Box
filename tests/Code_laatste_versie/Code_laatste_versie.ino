@@ -34,8 +34,12 @@ String locker5Code = "546281";
 String locker6Code = "315849";
 
 // Pins voor lockers 
-const int locker1Pin = 8;
-const int locker2Pin = 9;
+const int locker1Pin = 4;
+const int locker2Pin = 5;
+const int locker3Pin = 6;
+const int locker4Pin = 7;
+const int locker5Pin = 8;
+const int locker6Pin = 9;
 
 // Blokkeer systeem
 int fouten = 0;
@@ -47,8 +51,17 @@ void setup() {
 // Lockerpin definiëren + laag zetten
   pinMode(locker1Pin, OUTPUT);
   pinMode(locker2Pin, OUTPUT);
+  pinMode(locker3Pin, OUTPUT);
+  pinMode(locker4Pin, OUTPUT);
+  pinMode(locker5Pin, OUTPUT);
+  pinMode(locker6Pin, OUTPUT);
+
   digitalWrite(locker1Pin, LOW);
   digitalWrite(locker2Pin, LOW);
+  digitalWrite(locker3Pin, LOW);
+  digitalWrite(locker4Pin, LOW);
+  digitalWrite(locker5Pin, LOW);
+  digitalWrite(locker6Pin, LOW);
 
 // LCD starten 16x2
   lcd.begin(16, 2);
@@ -150,9 +163,11 @@ void checkCode() {
   SERIAL.print("Ingevoerde code: ");
   SERIAL.println(inputCode);
 
+  // code moet 6 cijfers zijn
   if(inputCode.length() != codeLength) {
     SERIAL.println("Code moet 6 cijfers zijn!");
   }
+// Correcte locker openen
   else if(inputCode == locker1Code) {
     fouten = 0;
     openLocker(locker1Pin);
@@ -161,6 +176,23 @@ void checkCode() {
     fouten = 0;
     openLocker(locker2Pin);
   }
+  else if(inputCode == locker3Code) {
+    fouten = 0;
+    openLocker(locker3Pin);
+  }
+  else if(inputCode == locker4Code) {
+    fouten = 0;
+    openLocker(locker4Pin);
+  }
+  else if(inputCode == locker5Code) {
+    fouten = 0;
+    openLocker(locker5Pin);
+  }
+  else if(inputCode == locker6Code) {
+    fouten = 0;
+    openLocker(locker6Pin);
+  }
+
   else {
   // foute code
     SERIAL.println("FOUTE CODE");

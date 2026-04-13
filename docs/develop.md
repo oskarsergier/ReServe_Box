@@ -253,3 +253,5 @@ Belangrijkste realisaties:
 * Ergonomisch onderbouwd ontwerp via NX
 * Validatie van interactie via gebruikerstesten
 * Belangrijke inzichten rond feedback en veiligheid
+
+## Develop 3
