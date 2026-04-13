@@ -21,7 +21,7 @@ SoftwareSerial mySerial(2,3);
 #define TRANS_SERIAL  Serial
 #endif
 
-// ====== INSTELLINGEN ======
+// INSTELLINGEN
 String inputCode = "";
 const int codeLength = 6;
 
@@ -37,6 +37,11 @@ String locker6Code = "315849";
 const int locker1Pin = 8;
 const int locker2Pin = 9;
 
+// Blokkeer systeem
+int fouten = 0;
+bool blokkeer = flase;
+unsigned long startBlokkeer = 0;
+const unsigned long blokeerTijd = 180000; // 3 minuten wachten
 
 void setup() {
 // Lockerpin definiëren + laag zetten
@@ -59,6 +64,30 @@ void setup() {
 }
 
 void loop() {
+  // Controle indien geblokeerd
+  if (blokkeer){
+    unsigned long gelopenTijd = millis() - startBlokkeer;
+
+    if (gelopenTijd >= blokkeerTijd){
+      blokkeer = false;
+      fouten = 0;
+
+      lcd.clear();
+      lcd.setCursor(0,0);
+      lcd.print("Voer code in:");
+    }
+    else {
+      // tijd weergeven
+      unsigned long rest = (blokkeerTijd - gelopenTijd) / 1000;
+      lcd.setcursor(0,1);
+      lcd.print("Wacht: ");
+      lcd.print(rest);
+      lcd.print("s  ");
+
+      return;
+    }
+  }
+
   readKeypad();
 }
 
@@ -125,23 +154,39 @@ void checkCode() {
     SERIAL.println("Code moet 6 cijfers zijn!");
   }
   else if(inputCode == locker1Code) {
+    fouten = 0;
     openLocker(locker1Pin);
   }
   else if(inputCode == locker2Code) {
+    fouten = 0;
     openLocker(locker2Pin);
   }
   else {
   // foute code
     SERIAL.println("FOUTE CODE");
+    fouten++;
     // foute code projecteren op display
     lcd.clear();
     lcd.setCursor(0,0);
     lcd.print("Foute code!");
     delay(2000);
-    // reset van display
-    lcd.clear();
-    lcd.setCursor(0,0);
-    lcd.print("Voer code in:");
+
+    if (fouten >= 3){
+      blokkeer = true;
+      startBlokkeer = millis();
+
+      lcd.clear();
+      lcd.setCursor(0,0);
+      lcd.print("Geblokkeerd!");
+      lcd.setCursor(0,1);
+      lcd.print("3 min wachten");
+    }
+    else {
+      // reset van display
+     lcd.clear();
+     lcd.setCursor(0,0);
+      lcd.print("Voer code in:");      
+    }
   }
 
   inputCode = ""; // reset na controle
@@ -152,16 +197,12 @@ void openLocker(int lockerPin) {
   lcd.clear();
   lcd.setCursor(0,0);
   lcd.print("Locker opent!");
-  delay(3000); // laat tekst 2seconden staan
+  delay(3000);                // laat tekst 3 seconden staan
   digitalWrite(lockerPin, HIGH);
   delay(3000);                // 3 seconden open
 
 // locker sluiten
   digitalWrite(lockerPin, LOW);
-  lcd.clear();
-  lcd.setCursor(0,0);
-  lcd.print("Locker gesloten!");
-  delay (2000);
   
 // display resetten
   lcd.clear();
