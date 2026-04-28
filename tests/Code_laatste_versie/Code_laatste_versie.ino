@@ -43,9 +43,9 @@ const int locker6Pin = 9;
 
 // Blokkeer systeem
 int fouten = 0;
-bool blokkeer = flase;
+bool blokkeer = false;
 unsigned long startBlokkeer = 0;
-const unsigned long blokeerTijd = 180000; // 3 minuten wachten
+const unsigned long blokkeerTijd = 180000; // 3 minuten wachten
 
 void setup() {
 // Lockerpin definiëren + laag zetten
@@ -92,7 +92,7 @@ void loop() {
     else {
       // tijd weergeven
       unsigned long rest = (blokkeerTijd - gelopenTijd) / 1000;
-      lcd.setcursor(0,1);
+      lcd.setCursor(0,1);
       lcd.print("Wacht: ");
       lcd.print(rest);
       lcd.print("s  ");
