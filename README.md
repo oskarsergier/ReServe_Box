@@ -154,7 +154,8 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
   * [Aanpassingen app gebruiker](https://www.figma.com/make/J6ychj6AkGgcx02CEtZITY/Automated-Food-Pickup-App?t=z45hhVviTivWGiIb-1)
 
 ### Develop 3
-
+* CMF
+  * [CMF analyse](/reports%20and%20protocols/CMF.pdf)
 ## Licentie 
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
