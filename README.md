@@ -28,6 +28,11 @@ Na de tussentijdse pitch werd er feedback gekregen op het afgelegde proces van h
 
 Vandaar dat de pivot gemaakt werd om samen te werken met Too Good To Go waar zijn de pakketten zullen samenstellen en wij zullen kijken voor lockers waar ze deze pakketten kunnen insteken. Ook zullen we een app maken die zal zorgen dat mensen kunnen zien wat er in de lockers zit en waar ze deze kunnen vinden.
 
+![alt text](/img/pivot.png)
+
+<p align="center">
+</p>
+
 * [Extra info pivot](/reports%20and%20protocols/VP.pdf)
 
 ## Introductie
