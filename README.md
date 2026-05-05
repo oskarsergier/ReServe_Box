@@ -153,9 +153,26 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
   * [App voor Too Good To Go](https://www.figma.com/make/JQcTcU4Be1uQNL2V1ulXEz/Untitled?p=f&t=8YItCzS4Ch5X5GUG-0)
   * [Aanpassingen app gebruiker](https://www.figma.com/make/J6ychj6AkGgcx02CEtZITY/Automated-Food-Pickup-App?t=z45hhVviTivWGiIb-1)
 
+* Interview Too Good To Go
+  * [Protocol](/reports%20and%20protocols/IP_TGTG.pdf)
+  * [Rapport]()
+
+* Ergonomie Motion Sensoren
+  * [Analyses]()
+
 ### Develop 3
 * CMF
   * [CMF analyse](/reports%20and%20protocols/CMF.pdf)
+* CMF Test
+  * [Protocol](/reports%20and%20protocols/PCMF.pdf)
+  * [Test 1](/reports%20and%20protocols/ICMF1.pdf)
+  * [Test 2](/reports%20and%20protocols/ICMF2.pdf)
+  * [Test 3](/reports%20and%20protocols/ICMF3.pdf)
+
+* Render CMF
+  * [Render 1](/img/CMF_R1.png)
+  * [Render 2](/img/CMF_R2.png)
+  * [Render 3](/img/CMF_R3.png)
 ## Licentie 
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
