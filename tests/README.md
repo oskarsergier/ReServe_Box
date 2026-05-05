@@ -69,7 +69,12 @@ Tijdens de implementatie van deze functionaliteit trad er opnieuw een fout op. D
 
 Na deze aanpassing traden er nog enkele bijkomende foutmeldingen op, die veroorzaakt werden door ontbrekende puntkomma’s. Na het corrigeren van deze kleine fouten functioneerde de code opnieuw correct.
 
-![alt text](foto opstelling 3D-print)
+![alt text](/img/OPE.jpg)
+
+<p align="center">
+</p>
+
+![alt text](/img/OPP.jpg)
 
 <p align="center">
 </p>
