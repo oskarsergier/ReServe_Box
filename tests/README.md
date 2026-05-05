@@ -52,7 +52,7 @@ Na verdere analyse (met ondersteuning van AI) werd vastgesteld dat de werkelijke
 
 Tot slot werd bijkomende feedback toegepast om de code te optimaliseren en de leesbaarheid te verbeteren.
 
-![alt text](foto opstelling met display)
+![alt text](/img/OPD_LCD1.jpg)
 
 <p align="center">
 </p>
