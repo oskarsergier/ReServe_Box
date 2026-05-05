@@ -177,6 +177,9 @@ You are free to reuse and build upon this work, both commercially and non-commer
   #### Keypad
   <a id= "Keypad"></a>Grove 12 channel Capacitive Touch Keypad (ATTINY1616) | SeEED Studio Wiki. (2023, 19 januari). https://wiki.seeedstudio.com/Grove-12-Channel-Capacitive-Touch-Keypad-ATtiny1616-/
 
+  #### Display
+  Grove - 16x2 LCD | Seeed Studio Wiki. (2023, 7 januari). https://wiki.seeedstudio.com/Grove-16x2_LCD_Series/
+
   #### Cubby
   Cubby. (z.d.). https://cubby.be/ 
 

@@ -57,6 +57,8 @@ Tot slot werd bijkomende feedback toegepast om de code te optimaliseren en de le
 <p align="center">
 </p>
 
+[info](../README.md#Display)
+
 * [Voorbeeld code LCD](/tests/HelloWorld_LCD_GROVE/HelloWorld_LCD_GROVE.ino)
 
 ### Eind code
