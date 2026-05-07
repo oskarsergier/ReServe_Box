@@ -1,5 +1,5 @@
-# ReServe_Box
-ReServe, een lokaal opslagpunt voor voedseloverschotten die nog eetbaar zijn.
+# ReServeBox
+ReServeBox, een lokaal opslagpunt voor voedseloverschotten die nog eetbaar zijn.
 
 🛠️ Built by ``Victor Raes``, ``Bas Matthys`` & ``Oskar Sergier``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese`` 
@@ -20,7 +20,7 @@ ReServeBox lost het probleem op door bewoners een gecontroleerde, veilige en toe
 </p>
 
 ### Pivot van concept
-Na de tussentijdse pitch werd er feedback gekregen op het afgelegde proces van het project. Uit deze feedback werd geconcludeerd dat er best een pivot van het project moest gebeuren. De pivot die ons aangewezen werd was om samen te gaan werken met Too Good To Go. Het idee waar mensen zelf hun overschotten in de box moesten plaatsen was namelijk zeer moeilijk te realseren omtrent enkele zaken namelijk:
+Na de tussentijdse pitch werd er feedback gekregen op het afgelegde proces van het project. Uit deze feedback werd geconcludeerd dat er best een pivot van het project moest gebeuren. De pivot die ons aangewezen werd was om samen te gaan werken met Too Good To Go. Het idee waar mensen zelf hun overschotten in de box moesten plaatsen was namelijk zeer moeilijk te realiseren omtrent enkele zaken namelijk:
 * Vertrouwen
 * Voedselveiligheid
 * Eerlijkheid
@@ -51,7 +51,7 @@ Hoofddoelen van ReServeBox:
 
 1. [Methodologie](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
-3. [Defintion](./docs/definition.md)
+3. [Definition](./docs/definition.md)
 4. [Develop](./docs/develop.md)
 5. [Design Requirements](./docs/design_requirements.md)
 6. [Bill of materials](./docs/bom.md)
@@ -64,7 +64,7 @@ Een belangrijke sterkte van het traject was de iteratieve werkwijze, waarbij inz
 Toch werd duidelijk dat sommige keuzes in een vroege fase voornamelijk conceptueel onderbouwd zijn en nog verder gevalideerd moeten worden in realistische contexten. Het ontbreken van uitgebreide gebruikerstesten in een echte buurtomgeving vormt hierbij een belangrijke beperking. De verworven inzichten, ontwerpvereisten en materiaalkeuzes vormen een helder vertrekpunt voor verdieping, technische uitwerking en validatie in het tweede semester.
 
 ## Noot inzake het gebruik van AI
-In dit project werd ai gebruikt voor het genereren van afbeeldingen en het controleren van de teksten op zinsbouw en schrijffouten.
+In dit project werd AI gebruikt voor het genereren van afbeeldingen en het controleren van de teksten op zinsbouw en schrijffouten.
 
 ## Bijlagen
 ### Discovery
@@ -175,7 +175,7 @@ In dit project werd ai gebruikt voor het genereren van afbeeldingen en het contr
   * [Render 3](/img/CMF_R3.png)
 ## Licentie 
 
-This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
+This repository contains both software and design materials created as part of an industrial design engineering project at Ghent University.
 
 - **Software and code:** [MIT License](./LICENSE-MIT)  
 - **Design, documentation, CAD, and media:** [CC BY 4.0 License](./LICENSE)

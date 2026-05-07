@@ -42,7 +42,7 @@ Om een concreet inzicht te verkrijgen hoe het nieuwe concept in zijn werking zou
 
 ### Ontwikkeling van de ReServeBox App
 
-Tijdens het realiseren van de app werd er grotendeels afgestapt van de interafaces die gemaakt waren in de definition fase. Ook werd er beslist om het enkel bij een app te houden en geen schermen op de lockers te plaatsen. De app kan gedownload worden op de smartphone en via deze weg kun je pakketten reserveren om later op te gaan halen. Indien je dit pakket niet meer wil opeisen dan kun je dit steeds annuleren via de app en komt dit terug vrij voor andere gebruikers. Wanneer je iets gereserveerd hebt ontvang je via de app een 6-cijferige code die je dan moet ingeven op een keypad aan de lockers, zo kun je het pakket opeisen.
+Tijdens het realiseren van de app werd er grotendeels afgestapt van de interfaces die gemaakt waren in de definition fase. Ook werd er beslist om het enkel bij een app te houden en geen schermen op de lockers te plaatsen. De app kan gedownload worden op de smartphone en via deze weg kun je pakketten reserveren om later op te gaan halen. Indien je dit pakket niet meer wil opeisen dan kun je dit steeds annuleren via de app en komt dit terug vrij voor andere gebruikers. Wanneer je iets gereserveerd hebt ontvang je via de app een 6-cijferige code die je dan moet ingeven op een keypad aan de lockers, zo kun je het pakket opeisen.
 
 * [Link app](https://www.figma.com/make/J6ychj6AkGgcx02CEtZITY/Automated-Food-Pickup-App?p=f&t=YJ3e3WwcijThLWiJ-0)
 
@@ -205,7 +205,7 @@ In deze fase werd het fysieke interactiesysteem getest met:
 Test 1 - Keypad
 
 Gebruikerstesten: 
-Als eerste test moesten de gebruikers de code invoeren enkel op de keypad. Terwijl de gebruikers dit aan het uivoeren waren werd er geobserveerd hoe ze dit ervaren.
+Als eerste test moesten de gebruikers de code invoeren enkel op de keypad. Terwijl de gebruikers dit aan het uitvoeren waren werd er geobserveerd hoe ze dit ervaren.
 Observaties:
 * Interactie werkte technisch correct
 * Gebruikers misten duidelijke feedback

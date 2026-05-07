@@ -15,7 +15,7 @@ Het volledige materiaalonderzoek is te vinden bij:
 * [Materiaalonderzoek](/reports%20and%20protocols/MO.pdf)
 
 ### Wave 1
-Voordat we verder onderzoek gevoerd hebben werden er eerst twee prototypes gemaakt die tijdens de interviews meegnomen en voorgelegd werden. 
+Voordat we verder onderzoek gevoerd hebben werden er eerst twee prototypes gemaakt die tijdens de interviews meegenomen en voorgelegd werden. 
 ![alt text](/img/PT1.png)
 
 <p align="center">
@@ -71,9 +71,9 @@ Echter waren er enkele onzekerheden omtrent;
 
 De zaken die tijdens de interviews over de interfaces vaak aan bod kwamen die ze graag zouden willen bij de app waren:
 * Duidelijkheid
-* Logische sturctuur
+* Logische structuur
 * Eenvoud
-* Moet snel toehangkelijk zijn voor iedereen.
+* Moet snel toegankelijk zijn voor iedereen.
 
 Na het testen van de interfaces bleek dat deze voor de jongere gebruikers zeer makkelijk te gebruiken was, maar voor de oudere vroeg dit wat meer werk en hadden ze hulp nodig. Ook bleek dat gebruikers eenvoudige visuele feedback verkiezen boven uitgebreide tekst. Iconen, beperkte keuzemogelijkheden en duidelijke statusindicatoren verhoogden het vertrouwen en verminderden cognitieve belasting. 
 

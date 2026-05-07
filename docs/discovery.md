@@ -1,10 +1,10 @@
 ## Discovery
 
-### Doestellingen
-Het is de bedoeling om verschillende inzichten te verkrijgen over hoe mensen omgaan met voedseloverschotten in het huishouden. Zo wilen we ook een beter inzicht krijgen over wat de voornaamste drempels of motivaties ze ervaren bij het delen van voedsel. Bovendien zal er ook gekeken worden naar de hoeveelheid vertrouwen en betrokkenheid er aanwezig is binnen de woonbuurt om de ReServeBox te laten werken.
+### Doelstellingen
+Het is de bedoeling om verschillende inzichten te verkrijgen over hoe mensen omgaan met voedseloverschotten in het huishouden. Zo willen we ook een beter inzicht krijgen over wat de voornaamste drempels of motivaties ze ervaren bij het delen van voedsel. Bovendien zal er ook gekeken worden naar de hoeveelheid vertrouwen en betrokkenheid er aanwezig is binnen de woonbuurt om de ReServeBox te laten werken.
 
 * Welke huidige gewoonten en attitudes hebben wijkbewoners rond     voedselverspilling in hun huishouden?
-* Welke noden, drempels en verwachtingen hebben zij bij eeen mogelijk systeem voor voedselherverdeling?
+* Welke noden, drempels en verwachtingen hebben zij bij een mogelijk systeem voor voedselherverdeling?
 * Bestaande initiatieven rond voedseloverschotten analyseren.
 
 ### Materiaal & methoden
@@ -14,7 +14,7 @@ In deze fase werd er nog niet nagedacht over welke materialen er kunnen gebruikt
 ### Resultaten
 De resultaten van de discoveryfase zijn gebaseerd op desk research, [benchmarking](/reports%20and%20protocols/RP1.1.pdf) (N=10), [interviews](/reports%20and%20protocols/IPW1.1.pdf) (N=3) en een online [enquête](/reports%20and%20protocols/REA1.1.pdf) (N=58). Deze combinatie maakte het mogelijk om goede inzichten te krijgen rond voedselverspilling. Uit de desk research bleek dat voedselverspilling voornamelijk op huishoudelijk niveau ontstaat door onzekerheid rond houdbaarheidsdata en een gebrek aan toegankelijke oplossingen binnen de woningcontext.
 
-> * Voedelverspilling is een probleem binnen sustainability at home.
+> * Voedselverspilling is een probleem binnen sustainability at home.
 
 #### Interviews (N=3)
 De personen die werden geïnterviewd zijn personen die reeds een gezin hebben. Ook werd er iemand geïnterviewd die reeds boeken deelt met anderen, dit doet ze door middel van een kast die in de voortuin staat waar je boeken kunt uitnemen en insteken. 
@@ -42,7 +42,7 @@ Respondenten gaven aan bereid te zijn voedsel te delen als er duidelijke informa
 
 #### Benchmarking (N=10)
 Voor de benchmarkanalyse werd volgende vraag gesteld:
-* Welke bestaande strategieën, systemen en initiatieven zijn effectief in het verminderen van voedsleverspilling op lokaal en huishoudelijk niveau, en welke ontwerpprincipes kunnen hieruit worden afgeleid?
+* Welke bestaande strategieën, systemen en initiatieven zijn effectief in het verminderen van voedselverspilling op lokaal en huishoudelijk niveau, en welke ontwerpprincipes kunnen hieruit worden afgeleid?
 
 Hier werd vooral gekeken naar:
 * Voedselverspilling of -herverdeling

@@ -25,7 +25,7 @@ Het prototype dat in semester 1 werd vervaardigd, is geschaald op 1:10, wat resu
 |Handgreep|Multiplex 9mm|Hergebruik|In prijs van 1 plaat|Zie eerst link|
 |Schroeven|Metaal|200|+- 5|https://www.hubo.be/nl/p/houtschroeven-30x3-mm-verzinkt-200-stuks/911044/|
 |Houtlijm|PVA|1|+- 8|https://www.brico.be/nl/ijzerwaren/lijmen-tapes-reparatiekits/lijmen/houtlijm/bison-professional-houtlijm-transparant-250g/6089274|
-|Labels|Karton|3|0|Aterlier (Restkarton)|
+|Labels|Karton|3|0|Atelier (Restkarton)|
 
 ![alt text](/img/AFB.jpg)
 
