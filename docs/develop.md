@@ -14,7 +14,8 @@ Vandaar dat de pivot gemaakt werd om samen te werken met Too Good To Go waar zij
 Tijdens de Develop 1 fase werd gestart met het concretiseren en fysiek ontwikkelen van het concept. In deze fase wordt het ontwerp verder uitgewerkt naar een technisch realiseerbare oplossing, waarbij zowel de digitale interactie (app) als de fysieke infrastructuur (lockers) werden ontwikkeld.
 
 ### User flow
-Voordat we het nieuwe concept zouden verder uitwerken hebben we eens nagedacht over de verschillende stappen die de gebruikers moeten uitvoeren tijdens het interageren met de app en de lockers. de stappen zijn terug te vinden in onderstaand schema. Hier werd er gekeken naar de gebruiker en naar de koerier die de pakketten in de lockers steken.
+Voor de verdere uitwerking van het concept werd eerst de
+gebruikersstroom in kaart gebracht. over de verschillende stappen die de gebruikers moeten uitvoeren tijdens het interageren met de app en de lockers. de stappen zijn terug te vinden in onderstaand schema. Hier werd er gekeken naar de gebruiker en naar de koerier die de pakketten in de lockers steken.
 ![alt text](/img/UFR.jpg) 
 
 <p align="center"> 
@@ -61,7 +62,8 @@ Tijdens het testen werd vooral gekeken naar volgende zaken:
 * Begrijpt hij wat er moet gebeuren met de code?
 * Is het makkelijk hanteerbaar?
 
-Het gebruik van de app viel in zeer goeie smaak bij de meeste gebruikers. De app was gebruiksvriendelijk en duidelijk voor iedereen. Natuurlijk ging dit bij de jongere gebruikers wat sneller dan bij de ouderen. Enkele oudere gebruikers hadden hier en daar wat extra hulp nodig voor bepaalde zaken. Als laatste werd gevraagd welke score de gebruikers de app gaven en deze lag tussen de 3-4.5 op 5. 
+De gebruikerstesten wezen op een overwegend positieve waardering van de
+app. De app was gebruiksvriendelijk en duidelijk voor iedereen. Natuurlijk ging dit bij de jongere gebruikers wat sneller dan bij de ouderen. Enkele oudere gebruikers hadden hier en daar wat extra hulp nodig voor bepaalde zaken. Als laatste werd gevraagd welke score de gebruikers de app gaven en deze lag tussen de 3-4.5 op 5. 
 
 Tijdens een interview werd het volgende gezegd:
 

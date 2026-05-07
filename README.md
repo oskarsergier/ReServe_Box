@@ -41,7 +41,8 @@ Voedselverspilling vormt wereldwijd en lokaal groeiend duurzaamheidsprobleem. Ja
 
 Mijn onderzoek via interviews (N=3), een Google Forms-bevraging (N=58) en literatuur onderzoek wijst uit dat buurtbewoners bereid zijn voedsel te delen, maar drempels ervaren zoals onzekerheid over wat mag, angst voor bederf en een gebrek aan transparantie. Hierdoor blijven veel bestaande buurtkastjes onderbenut of worden ze foutief gebruikt.
 
-Met ReServeBox willen wij deze kloof dichten door een buurtvoedselkast te ontwikkelen die fysieke toegankelijkheid koppelt aan digitale transparantie.
+ReServeBox beoogt deze
+kloof te verkleinen door een buurtvoedselkast te ontwikkelen die fysieke toegankelijkheid koppelt aan digitale transparantie.
 
 Hoofddoelen van ReServeBox:
 >* Voedseloverschotten terug waarde geven
