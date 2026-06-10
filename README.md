@@ -7,27 +7,26 @@ ReServeBox, een lokaal opslagpunt voor voedseloverschotten die nog eetbaar zijn.
 
 *05/05/2026 van de laatste update*   
 
-## Samenvatting
-Voedselverspilling is een groeiend duurzaamheidsprobleem, waarbij een groot deel ontstaat in huishoudens. Hoewel buurtkastjes een laagdrempelige oplossing bieden, tonen onze onderzoeksmethoden benchmarking van bestaande systemen, een Google Forms enquête, twee interviews met wijkbewoners en een interview met een initiatiefnemer, aan dat deze kastjes kampen met grote knelpunten. De belangrijkste problemen zijn gebrek aan voedselveiligheid, onzekerheid over wat mag worden gedeeld, wantrouwen bij gebruikers en beperkte controle over de kwaliteit van aangeboden producten. Hierdoor blijven buurtkastjes vaak ongebruikt of verkeerd gebruikt, waardoor ze hun duurzaamheidsdoel missen.
+Projectsamenvatting: ReServeBox — Stedelijke Hubs voor Rurale Overschotten
+1. De Problemstatement
+Voedselverspilling is een hardnekkig duurzaamheidsprobleem dat zich niet alleen bij de consument, maar juist ook aan het begin van de keten afspeelt: bij de boeren en agro-groothandels. Grote partijen perfect eetbare grondstoffen en seizoensproducten (zoals overschotten aan bloemkolen of aardappelen) geraken vaak niet verkocht en dreigen verloren te gaan. Bestaande initiatieven, zoals Waste Warriors, proberen dit op te lossen door consumenten rechtstreeks bij de boer te laten oogsten of inkopen. Dit model stuit echter op een geografische en logistieke barrière: voor stedelijke consumenten is het praktisch en ecologisch niet haalbaar om grote afstanden af te leggen naar het platteland om deze overschotten te redden. Hierdoor blijft een enorm potentieel aan duurzame impact onbenut.
 
-Onze oplossing hiervoor is **ReServeBox**: een phygital buurtvoedselkast die veilig, duidelijk en betrouwbaar delen van voedsel in de wijk stimuleert. De ReServeBox combineert een fysieke kast met compartimenten en beschermde opslag met een digitale laag via QR-codes of een eenvoudige app. Deze digitale interface toont richtlijnen, vervaldata, meldingen en herkomstinformatie. Zo creëren we transparantie, vertrouwen en gebruiksgemak.
+2. De Oplossing: ReServeBox
+De ReServeBox is een phygital logistieke oplossing die de kloof overbrugt tussen rurale voedseloverschotten en stedelijke consumenten. Het concept bestaat uit een grootschalig, geautomatiseerd lockersysteem dat strategisch wordt geplaatst op drukke knooppunten (zoals stations of randstedelijke hubs) in de twintig grootste steden van Vlaanderen/België.
 
-ReServeBox lost het probleem op door bewoners een gecontroleerde, veilige en toegankelijke manier te bieden om overschotten te delen. Hierdoor krijgen producten een tweede leven, wordt voedselverspilling actief verminderd en groeit de sociale verbondenheid binnen de buurt. Dankzij betere structuur, duidelijke regels en feedback blijft het systeem betrouwbaar en duurzaam bruikbaar.
+In plaats van individuele winkelpakketten te distribueren, fungeert de ReServeBox als een gecentraliseerd afhaalpunt voor bulkoverschotten van boeren en groothandels die via platformen zoals Waste Warriors worden gecentraliseerd. Stedelingen krijgen zo op een laagdrempelige manier toegang tot verse, onbewerkte grondstoffen die rechtstreeks van het veld komen, tegen een minieme kost.
 
-![alt text](/img/image.png)
+3. Functionele Architectuur & Proof of Interaction
+Het ReServeBox-ecosysteem combineert een robuuste fysieke infrastructuur met een slimme digitale laag om een frictieloze en betrouwbare gebruikerservaring te garanderen:
 
-<p align="center">
-</p>
+De Digitale Interface (App): Gebruikers zien via een eenvoudige applicatie in real-time welke grondstoffen beschikbaar zijn in de stedelijke lockers, inclusief informatie over de herkomst (de boer), de geoogst-datum en de restvoorraad. Na een digitale reservatie ontvangt de gebruiker een unieke toegangscode.
 
-### Pivot van concept
-Na de tussentijdse pitch werd er feedback gekregen op het afgelegde proces van het project. Uit deze feedback werd geconcludeerd dat er best een pivot van het project moest gebeuren. De pivot die ons aangewezen werd was om samen te gaan werken met Too Good To Go. Het idee waar mensen zelf hun overschotten in de box moesten plaatsen was namelijk zeer moeilijk te realiseren omtrent enkele zaken namelijk:
-* Vertrouwen
-* Voedselveiligheid
-* Eerlijkheid
-* ...
+De Fysieke Locker (Hardware): De fysieke box is een modulair en geconditioneerd lockersysteem dat ontworpen is op basis van strikte antropometrische en ergonomische analyses (geschikt voor een brede doelgroep van P5 tot P95). De hardware wordt gestuurd door een industrieel microcontrollersysteem (Arduino-architectuur) gekoppeld aan elektronische sloten en een touchpad.
 
-Vandaar dat de pivot gemaakt werd om samen te werken met Too Good To Go waar zijn de pakketten zullen samenstellen en wij zullen kijken voor lockers waar ze deze pakketten kunnen insteken. Ook zullen we een app maken die zal zorgen dat mensen kunnen zien wat er in de lockers zit en waar ze deze kunnen vinden.
+Gebruikersflow: Bij aankomst voert de stedelijke consument zijn unieke code in op het touchpad, waarna het specifieke compartiment binnen één seconde ontgrendelt. Sensoren registreren de opening en sluiting van de deur, waarna de status in de app direct live wordt bijgewerkt.
 
+4. Duurzame en Maatschappelijke Impact
+Met deze unieke benadering lost ReServeBox de logistieke 'last-mile' op voor agro-overschotten. Het geeft producten die anders ondergeploegd of weggegooid zouden worden een tweede leven in de stad. Stedelingen die bewust willen consumeren maar niet over de mobiliteit beschikken om naar een boerderij te rijden, krijgen een laagdrempelig en betrouwbaar instrument in handen om actief bij te dragen aan een duurzamer klimaat. Het resultaat is een efficiëntere voedselketen, een eerlijke bestemming voor de oogst van de boer, en een tastbare reductie van de ecologische voetafdruk op wijkniveau.
 ![alt text](/img/pivot.png)
 
 <p align="center">
