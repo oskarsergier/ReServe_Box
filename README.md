@@ -36,17 +36,15 @@ Met deze unieke benadering lost ReServeBox de logistieke 'last-mile' op voor agr
 
 ## Introductie
 
-Voedselverspilling vormt wereldwijd en lokaal groeiend duurzaamheidsprobleem. Jaarlijks gaat naar schatting een derde van al het geproduceerde voedsel verloren [^1]. In Europa blijkt dat vooral huishoudens een grote bijdrage leveren aan deze verspilling, vaak door overstocking, verkeerde inschattingen of gebrek aan kennis over houdbaarheid [^2]. Dit leidt niet enkel tot ecologische schade, maar ook tot onnodige financiële kosten en verlies van sociale waarde binnen buurten. Hoewel buurtvoedselkastjes een laagdrempelig alternatief bieden om overschotten te delen, tonen recente studies aan dat deze systemen kampen met problemen rond voedselveiligheid, betrouwbaarheid en duidelijke richtlijnen [^3].
+Voedselverspilling is een van de grootste ecologische en economische uitdagingen van deze tijd. Hoewel veel initiatieven zich richten op het einde van de keten — de verspilling bij de supermarkt of de consument thuis —, blijft een gigantische stroom aan voedseloverschotten aan het begin van de keten onderbelicht. Bij boeren en agro-groothandels gaan dagelijks tonnen perfect eetbare seizoensproducten en basisgrondstoffen (zoals overschotten aan bloemkolen, wortelen of aardappelen) verloren. Dit gebeurt simpelweg omdat overproductie, esthetische afwijkingen of logistieke fricties de reguliere distributiekanalen blokkeren. Organisaties zoals Waste Warriors proberen dit gat te dichten door consumenten rechtstreeks bij de boer te laten oogsten of inkopen. Dit model stuit echter op een hardnekkige geografische drempel: voor een bewoner in een stedelijke kern is het praktisch, logistiek en ecologisch niet haalbaar om grote afstanden af te leggen naar het platteland om deze overschotten te redden. Hierdoor blijft een enorm potentieel aan duurzame impact onbenut.
 
-Mijn onderzoek via interviews (N=3), een Google Forms-bevraging (N=58) en literatuur onderzoek wijst uit dat buurtbewoners bereid zijn voedsel te delen, maar drempels ervaren zoals onzekerheid over wat mag, angst voor bederf en een gebrek aan transparantie. Hierdoor blijven veel bestaande buurtkastjes onderbenut of worden ze foutief gebruikt.
+Het ReServeBox-project introduceert een phygital logistieke oplossing die de kloof tussen rurale voedseloverschotten en de stedelijke consument effectief overbrugt. In plaats van te focussen op kleinschalige, risicogevoelige buurtinitiatieven, richt dit concept zich op een netwerk van geautomatiseerde, geconditioneerde 'smart hubs'. Deze worden strategisch geplaatst op hoogfrequente, randstedelijke knooppunten en stationsomgevingen in de twintig grootste steden van Vlaanderen en België. Via een geïntegreerd ecosysteem — bestaande uit een fysieke, modulaire locker en een realtime mobiele applicatie — worden bulkstromen van landbouwers gecentraliseerd en op een laagdrempelige, betaalbare manier aangeboden aan de stadsbewoner. De ReServeBox transformeert zo de fysieke afstand tot het platteland in een frictieloze afhaalervaring in de stad.
 
-ReServeBox beoogt deze
-kloof te verkleinen door een buurtvoedselkast te ontwikkelen die fysieke toegankelijkheid koppelt aan digitale transparantie.
+Om tot deze onderbouwde productservice-architectuur te komen, werd een iteratief human-centered designproces doorlopen. Binnen dit proces zijn methodieken zoals grondige benchmarking, morfologische matrixanalyses en diepgaande stakeholder-interviews (waaronder experts uit de sector zoals Jonas Mallisse en lokale winkelverantwoordelijken) ingezet. Hierbij is specifiek onderzocht hoe een onbemande interface vertrouwen kan opwekken bij de gebruiker, hoe de fysieke ergonomie en bereikbaarheid (P5–P95) geoptimaliseerd kunnen worden via Siemens NX-comfortanalyses, en hoe data-interactie via een Arduino-gestuurde hardware-architectuur de betrouwbaarheid en realtime voorraadstatus van het systeem kan garanderen.
 
-Hoofddoelen van ReServeBox:
->* Voedseloverschotten terug waarde geven
->* Duurzaamheid stimuleren
->* Sociaal vertrouwen versterken
+De boundary conditions van het ReServeBox-project zijn scherp gedefinieerd: de fysieke hubs moeten extreem robuust, weerbestendig, hygiënisch en onderhoudsarm zijn om stand te houden in de publieke ruimte. Daarnaast moet de digitale interface de perceptie van voedselonveiligheid en logistieke complexiteit volledig wegnemen. De technologie fungeert hierbij niet als barrière, maar als een transparante, intuïtieve en betrouwbare tussenlaag die stedelingen activeert om op een grootschalige manier bij te dragen aan een duurzamer klimaat.
+
+
 ## Inhoudstafel
 
 1. [Methodologie](./docs/methodologie.md)
