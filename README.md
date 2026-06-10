@@ -84,14 +84,11 @@ In dit project werd AI gebruikt voor het genereren van afbeeldingen en het contr
     
 ### Definition
 * Storyboard (N=2)
-  * [Storyboard 1](/img/STB1.png)
-  * [Storyboard 2](/img/STB2.png)
+  * [Storyboard](/img/STB%20DEF%20SAMEN.png)
 * Interface (N=2)
-  * [Interface app](/img/IA.png)
-  * [Interface Box](/img/IB.png)
+  * [Interface](/img/IF%20SAMEN.png)
 * Prototype (N=2)
-  * [Prototype 1](/img/PT1.png)
-  * [Prototype 2](/img/PT2.png)
+  * [Prototype](/img/PT%20SAMEN.png)
 * Materiaal
   * [Materiaal Studie](/reports%20and%20protocols/MO.pdf)
 * User testing wave 1 (N=5)
@@ -203,3 +200,6 @@ You are free to reuse and build upon this work, both commercially and non-commer
 
   #### DINED Anthropometric Database, TU Delft,
   https://dined.io.tudelft.nl/en/database/introduction
+
+  #### Waste Warriors
+  Home - Waste Warriors. (2026, 10 juni). Waste Warriors. https://wastewarriors.be/ 
