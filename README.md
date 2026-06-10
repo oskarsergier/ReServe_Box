@@ -7,7 +7,7 @@ ReServeBox, een lokaal opslagpunt voor voedseloverschotten die nog eetbaar zijn.
 
 *05/05/2026 van de laatste update*   
 
-Projectsamenvatting: ReServeBox — Stedelijke Hubs voor Rurale Overschotten
+Projectsamenvatting: 
 1. De Problemstatement
 Voedselverspilling is een hardnekkig duurzaamheidsprobleem dat zich niet alleen bij de consument, maar juist ook aan het begin van de keten afspeelt: bij de boeren en agro-groothandels. Grote partijen perfect eetbare grondstoffen en seizoensproducten (zoals overschotten aan bloemkolen of aardappelen) geraken vaak niet verkocht en dreigen verloren te gaan. Bestaande initiatieven, zoals Waste Warriors, proberen dit op te lossen door consumenten rechtstreeks bij de boer te laten oogsten of inkopen. Dit model stuit echter op een geografische en logistieke barrière: voor stedelijke consumenten is het praktisch en ecologisch niet haalbaar om grote afstanden af te leggen naar het platteland om deze overschotten te redden. Hierdoor blijft een enorm potentieel aan duurzame impact onbenut.
 
@@ -27,7 +27,7 @@ Gebruikersflow: Bij aankomst voert de stedelijke consument zijn unieke code in o
 
 4. Duurzame en Maatschappelijke Impact
 Met deze unieke benadering lost ReServeBox de logistieke 'last-mile' op voor agro-overschotten. Het geeft producten die anders ondergeploegd of weggegooid zouden worden een tweede leven in de stad. Stedelingen die bewust willen consumeren maar niet over de mobiliteit beschikken om naar een boerderij te rijden, krijgen een laagdrempelig en betrouwbaar instrument in handen om actief bij te dragen aan een duurzamer klimaat. Het resultaat is een efficiëntere voedselketen, een eerlijke bestemming voor de oogst van de boer, en een tastbare reductie van de ecologische voetafdruk op wijkniveau.
-![alt text](/img/pivot.png)
+
 
 <p align="center">
 </p>
