@@ -74,10 +74,9 @@ In dit project werd AI gebruikt voor het genereren van afbeeldingen en het contr
   * [Rapport](/reports%20and%20protocols/R1.1.pdf)
 * Interviews (N=3)
   * [Protocol Initiatiefnemer](/reports%20and%20protocols/IPI1.1.pdf)
+  * [Protocol Wijkbewoner](/reports%20and%20protocols/IPW1.1.pdf)  
   * [Rapport Initiatiefnemer](/reports%20and%20protocols/IRI1.1.pdf)
-  * [Protocol Wijkbewoner](/reports%20and%20protocols/IPW1.1.pdf)
-  * [Rapport Wijkbewoner 1](/reports%20and%20protocols/IRW1.1.pdf)
-  * [Rapport Wijkbewoner 2](/reports%20and%20protocols/IRW1.2.pdf)
+  * [Rapport Wijkbewoner](/reports%20and%20protocols/IRW%20SAMEN.pdf)
 * Enquête (N=58)
   * [Protocol](/reports%20and%20protocols/RE1.1.pdf)
   * [Rapport](/reports%20and%20protocols/REA1.1.pdf)
@@ -85,92 +84,90 @@ In dit project werd AI gebruikt voor het genereren van afbeeldingen en het contr
 ### Definition
 * Storyboard (N=2)
   * [Storyboard](/img/STB%20DEF%20SAMEN.png)
+
 * Interface (N=2)
   * [Interface](/img/IF%20SAMEN.png)
+
 * Prototype (N=2)
   * [Prototype](/img/PT%20SAMEN.png)
+
 * Materiaal
   * [Materiaal Studie](/reports%20and%20protocols/MO.pdf)
+
 * User testing wave 1 (N=5)
-  * [Protocol Wijkbewoner](/reports%20and%20protocols/IP2.1%20W1.pdf)
-  * [Protocol interface](/reports%20and%20protocols/IP%20I.pdf)
-  * [Rapport Wijkbewoner 1](/reports%20and%20protocols/IR1%20W1.pdf)
-  * [Rapport Wijkbewoner 2](/reports%20and%20protocols/IR2%20W1.pdf)
-  * [Rapport interface 1](/reports%20and%20protocols/IR1%20I.pdf)
-  * [Rapport interface 2](/reports%20and%20protocols/IR2%20I.pdf)
-  * [Conclusie interface 1,2](/reports%20and%20protocols/IR%20CI%2012.pdf)
-  * [Rapport interface 3](/reports%20and%20protocols/IR%203%20IE.pdf)
+  * Interview Wijkbewoners
+    * [Protocol Wijkbewoner](/reports%20and%20protocols/IP2.1%20W1.pdf)
+    * [Rapport Wijkbewoner](/reports%20and%20protocols/IR_I_SAMEN.pdf)
+
+  * Interview Interface
+    * [Protocol interface](/reports%20and%20protocols/IP%20I.pdf)
+    * [Rapport interface](/reports%20and%20protocols/IR%20I%20SAMEN.pdf)
+
 * User testing wave 2 (N=5)
   * [Protocol Financierder](/reports%20and%20protocols/IP2.1%20W2.pdf)
-  * [Rapport Financierder 1](/reports%20and%20protocols/IR1%20W2.pdf)
-  * [Rapport Financierder 2](/reports%20and%20protocols/IR2%20W2.pdf)
-  * [Rapport Financierder 3](/reports%20and%20protocols/IR3%20W2.pdf)
-  * [Rapport Financierder 4](/reports%20and%20protocols/IR4%20W2.pdf)
-  * [Rapport Financierder 5](/reports%20and%20protocols/IR5%20W2.pdf)
+  * [Rapport Financierder](/reports%20and%20protocols/IR_W2_SAMEN.pdf)
+
 * Cad model
   * [Prototype cad](/cad/ReServeBox.prt)
+
 ### Develop 1
 * Validatie Pivot
   * [Pivot](/reports%20and%20protocols/VP.pdf)
+
 * MVP
   * [Rapport MVP](/reports%20and%20protocols/MVP.pdf)
+
 * App test (N=6)
-  * [App](/reports%20and%20protocols/PA.pdf)
-  * [Rapport App test 1](/reports%20and%20protocols/D1AR1.pdf)
-  * [Rapport App test 2](/reports%20and%20protocols/D1AR2.pdf)
-  * [Rapport App test 3](/reports%20and%20protocols/D1AR3.pdf)
-  * [Rapport App test 4](/reports%20and%20protocols/D1AR4.pdf)
-  * [Rapport App test 5](/reports%20and%20protocols/D1AR5.pdf)
-  * [Rapport App test 6](/reports%20and%20protocols/D1AR6.pdf)
-  * [Rapport App samenvatting](/reports%20and%20protocols/D1ARS.pdf)
+  * [Ophaal App](/reports%20and%20protocols/PA.pdf)
+  * [Rapport App test](/reports%20and%20protocols/D1AR_SAMEN.pdf)
+
 * Interviews (N=1)
   * [Interview protcol Cubby](/reports%20and%20protocols/IPC.pdf)
   * [Interview rapport Cubby](https://cubby.be/)
+
 * User flow
   * [User flow](/reports%20and%20protocols/UFR.pdf)
+
 * Network value
   * [Network value](/img/NV.png)
+
 * Storyboard (N=2)
-  * [Storyboard 1](/img/STB1.D1.png)
-  * [Storyboard 2](/img/STB2.D1.png)
+  * [Storyboard](/img/STB_D1_SAMEN.png)
+
 ### Develop 2
 * Arduino (N=6)
   * [Testprotocol Arduino](/reports%20and%20protocols/TPA.pdf)
-  * [Rapport Arduino zonder display 1](/reports%20and%20protocols/TPAZ1.pdf)
-  * [Rapport Arduino zonder display 2](/reports%20and%20protocols/TPAZ2.pdf)
-  * [Rapport Arduino zonder display 3](/reports%20and%20protocols/TPAZ3.pdf)
-  * [Rapport Arduino met display 1](/reports%20and%20protocols/TPAM1.pdf)
-  * [Rapport Arduino met display 2](/reports%20and%20protocols/TPAM2.pdf)
-  * [Rapport Arduino met display 3](/reports%20and%20protocols/TPAM3.pdf)
+  * [Rapport Arduino zonder display](/reports%20and%20protocols/TPAZ_SAMEN.pdf)
+  * [Rapport Arduino met display](/reports%20and%20protocols/TPAM_SAMEN.pdf)
+
 * Lockersysteem
   * [Prototype Locker](/cad/kluisjes.prt)
   * [Prototype interface locker](/cad/reserve%20box%20controle.prt)
   * [Locker interface voor testen](/cad/interface%20van%20de%20reserve.prt)
   * [Antropometrische analyse](/reports%20and%20protocols/Antropometrische%20analyse.pdf)
+
 * App (N=2)
-  * [App voor Too Good To Go](https://www.figma.com/make/JQcTcU4Be1uQNL2V1ulXEz/Untitled?p=f&t=8YItCzS4Ch5X5GUG-0)
-  * [Aanpassingen app gebruiker](https://www.figma.com/make/J6ychj6AkGgcx02CEtZITY/Automated-Food-Pickup-App?t=z45hhVviTivWGiIb-1)
+  * [Leverings App](https://www.figma.com/make/JQcTcU4Be1uQNL2V1ulXEz/Untitled?p=f&t=8YItCzS4Ch5X5GUG-0)
+  * [Ophaal App](https://www.figma.com/make/J6ychj6AkGgcx02CEtZITY/Automated-Food-Pickup-App?t=z45hhVviTivWGiIb-1)
 
 * Interview Too Good To Go
   * [Protocol](/reports%20and%20protocols/IP_TGTG.pdf)
   * [Rapport]()
 
+### Develop 3
 * Ergonomie Motion Sensoren
   * [Analyses]()
 
-### Develop 3
 * CMF
   * [CMF analyse](/reports%20and%20protocols/CMF.pdf)
+
 * CMF Test
   * [Protocol](/reports%20and%20protocols/PCMF.pdf)
-  * [Test 1](/reports%20and%20protocols/ICMF1.pdf)
-  * [Test 2](/reports%20and%20protocols/ICMF2.pdf)
-  * [Test 3](/reports%20and%20protocols/ICMF3.pdf)
+  * [Testen](/reports%20and%20protocols/ICMF_SAMEN.pdf)
 
 * Render CMF
-  * [Render 1](/img/CMF_R1.png)
-  * [Render 2](/img/CMF_R2.png)
-  * [Render 3](/img/CMF_R3.png)
+  * [Render](/img/CMF_R_SAMEN.png)
+
 ## Licentie 
 
 This repository contains both software and design materials created as part of an industrial design engineering project at Ghent University.
