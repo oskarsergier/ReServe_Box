@@ -32,3 +32,13 @@ voorzien, dit resulteert in 300 x 170 x 420 mm. Dit maakt het mogelijk om een be
 
 <p align="center">
 </p>
+
+
+
+### BOM Interface
+|Naam|Aantal| Foto|Prijs|Link|
+|:---:|:---:|:---:|:---:|:---:|
+|Aruino uno|1|![Arduino](/imgs/OIP.jpg)|€ 7,04|[Link](https://www.banggood.com/nl/For-UNOs-R3-13-in-1-Mini-DIY-Electronic-Starter-Kit-Arduinos-Circuit-Board-Electronics-Programmable-Engineering-Coding-Education-STEAM-p-2024096.html?cur_warehouse=CN&ID=6311493&rmmds=search)| 
+|Breadboard|1|![Breadboard](/imgs/Breadboard.png)|ingebrepen bij arduino kit|[Link](https://www.banggood.com/nl/For-UNOs-R3-13-in-1-Mini-DIY-Electronic-Starter-Kit-Arduinos-Circuit-Board-Electronics-Programmable-Engineering-Coding-Education-STEAM-p-2024096.html?cur_warehouse=CN&ID=6311493&rmmds=search)| 
+|Keypad ATtiny 1616|1|![Keypad](/imgs/Keypad.png)|€ 5,11|[Link](https://www.seeedstudio.com/Grove-12-Channel-Capacitive-Touch-Keypad-ATtiny1616-p-4068.html)|
+|LCD Display 16x2|1|![Display](/imgs/Display.png)|€ 13,89|[Link](https://www.kiwi-electronics.com/nl/grove-16x2-lcd-zwart-op-geel-9931?search=lcd%20grove)|
