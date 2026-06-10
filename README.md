@@ -8,15 +8,15 @@ ReServeBox, een lokaal opslagpunt voor voedseloverschotten die nog eetbaar zijn.
 *05/05/2026 van de laatste update*   
 
 # Projectsamenvatting: 
-## 1. De Problemstatement
+#### 1. De Problemstatement
 Voedselverspilling is een hardnekkig duurzaamheidsprobleem dat zich niet alleen bij de consument, maar juist ook aan het begin van de keten afspeelt: bij de boeren en agro-groothandels. Grote partijen perfect eetbare grondstoffen en seizoensproducten (zoals overschotten aan bloemkolen of aardappelen) geraken vaak niet verkocht en dreigen verloren te gaan. Bestaande initiatieven, zoals Waste Warriors, proberen dit op te lossen door consumenten rechtstreeks bij de boer te laten oogsten of inkopen. Dit model stuit echter op een geografische en logistieke barrière: voor stedelijke consumenten is het praktisch en ecologisch niet haalbaar om grote afstanden af te leggen naar het platteland om deze overschotten te redden. Hierdoor blijft een enorm potentieel aan duurzame impact onbenut.
 
-## 2. De Oplossing: ReServeBox
+#### 2. De Oplossing: ReServeBox
 De ReServeBox is een phygital logistieke oplossing die de kloof overbrugt tussen rurale voedseloverschotten en stedelijke consumenten. Het concept bestaat uit een grootschalig, geautomatiseerd lockersysteem dat strategisch wordt geplaatst op drukke knooppunten (zoals stations of randstedelijke hubs) in de twintig grootste steden van Vlaanderen/België.
 
 In plaats van individuele winkelpakketten te distribueren, fungeert de ReServeBox als een gecentraliseerd afhaalpunt voor bulkoverschotten van boeren en groothandels die via platformen zoals Waste Warriors worden gecentraliseerd. Stedelingen krijgen zo op een laagdrempelige manier toegang tot verse, onbewerkte grondstoffen die rechtstreeks van het veld komen, tegen een minieme kost.
 
-## 3. Functionele Architectuur & Proof of Interaction
+#### 3. Functionele Architectuur & Proof of Interaction
 Het ReServeBox-ecosysteem combineert een robuuste fysieke infrastructuur met een slimme digitale laag om een frictieloze en betrouwbare gebruikerservaring te garanderen:
 
 De Digitale Interface (App): Gebruikers zien via een eenvoudige applicatie in real-time welke grondstoffen beschikbaar zijn in de stedelijke lockers, inclusief informatie over de herkomst (de boer), de geoogst-datum en de restvoorraad. Na een digitale reservatie ontvangt de gebruiker een unieke toegangscode.
@@ -25,14 +25,12 @@ De Fysieke Locker (Hardware): De fysieke box is een modulair en geconditioneerd 
 
 Gebruikersflow: Bij aankomst voert de stedelijke consument zijn unieke code in op het touchpad, waarna het specifieke compartiment binnen één seconde ontgrendelt. Sensoren registreren de opening en sluiting van de deur, waarna de status in de app direct live wordt bijgewerkt.
 
-## 4. Duurzame en Maatschappelijke Impact
+#### 4. Duurzame en Maatschappelijke Impact
 Met deze unieke benadering lost ReServeBox de logistieke 'last-mile' op voor agro-overschotten. Het geeft producten die anders ondergeploegd of weggegooid zouden worden een tweede leven in de stad. Stedelingen die bewust willen consumeren maar niet over de mobiliteit beschikken om naar een boerderij te rijden, krijgen een laagdrempelig en betrouwbaar instrument in handen om actief bij te dragen aan een duurzamer klimaat. Het resultaat is een efficiëntere voedselketen, een eerlijke bestemming voor de oogst van de boer, en een tastbare reductie van de ecologische voetafdruk op wijkniveau.
 
-
+![Foto ReServeBox]()
 <p align="center">
 </p>
-
-* [Extra info pivot](/reports%20and%20protocols/VP.pdf)
 
 ## Introductie
 
@@ -106,6 +104,7 @@ In dit project werd AI gebruikt voor het genereren van afbeeldingen en het contr
 
 * Cad model
   * [Prototype cad](/cad/ReServeBox.prt)
+  * [Foto](/img/Concept_1.png)
 
 ### Develop 1
 * Validatie Pivot
@@ -138,9 +137,12 @@ In dit project werd AI gebruikt voor het genereren van afbeeldingen en het contr
   * [Rapport Arduino met display](/reports%20and%20protocols/TPAM_SAMEN.pdf)
 
 * Lockersysteem
-  * [Prototype Locker](/cad/kluisjes.prt)
-  * [Prototype interface locker](/cad/reserve%20box%20controle.prt)
-  * [Locker interface voor testen](/cad/interface%20van%20de%20reserve.prt)
+  * [Prototype Locker CAD](/cad/kluisjes.prt)
+  * [Foto Locker](/img/Concept_Kluisjes.png)
+  * [Prototype Interface Locker CAD](/cad/reserve%20box%20controle.prt)
+  * [Foto Interface Locker](/img/Foto_Interface_Locker.png)
+  * [Locker Interface CAD](/cad/interface%20van%20de%20reserve.prt)
+  * [Locker Interface](/img/Locker_Interface.png)
   * [Antropometrische analyse](/reports%20and%20protocols/Antropometrische%20analyse.pdf)
 
 * App (N=2)
@@ -153,7 +155,17 @@ In dit project werd AI gebruikt voor het genereren van afbeeldingen en het contr
 
 ### Develop 3
 * Ergonomie Motion Sensoren
-  * [Analyses]()
+  * Test hoogte van de interface verticaal
+    * [Analyse foto's](/img/MS_Analyse_1.png)
+    * [Analyse bestand](https://ugentbe.sharepoint.com/:x:/r/teams/Group.course1292885/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B1b20c718-aca5-4eb0-95a8-719531cd8a7e%7D&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=ac628225-81b6-4d36-a52a-40a844b3bf80)
+
+  * Test kluisjes openen en zaken uitnemen
+    * [Analyse foto's](/img/MS_Analyse_2.png)
+    * [Analyse bestand](https://ugentbe.sharepoint.com/:x:/r/teams/Group.course1292885/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7Bffc1023a-5919-4d13-95aa-caab59cc78ea%7D&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=13d34212-ffa2-4ade-bdbf-4e2e8f7a48d8)
+
+  * Test hoogte van de interface onder hoek
+    * [Analyse foto's](/img/MS_Analyse_3.png)
+    * [Analyse bestand](https://ugentbe.sharepoint.com/:x:/r/teams/Group.course1292885/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B36421de2-52d2-4436-8782-27c93818aa54%7D&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=3c336f59-32f7-4cea-9f75-93475d11cac0)
 
 * CMF
   * [CMF analyse](/reports%20and%20protocols/CMF.pdf)
