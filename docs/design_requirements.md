@@ -43,6 +43,36 @@
 |8.2|Het ontwerp moet schaalbaar zijn naar andere wijken of steden.|[8.2 Winkelketens](/reports%20and%20protocols/IR4%20W2.pdf)|✅|
 |8.3|Plaatsing mag geen negatieve impact hebben op bestaande functies van de locatie.|[8.3 Winkelketens](/reports%20and%20protocols/IR5%20W2.pdf)|✅|
 |**Koeling & Producttypes**|
-|9.1|Het systeem moet geschikt zijn voor zowel gekoelde als ongekoelde producten.|[9.1 Materiaalstudie](/reports%20and%20protocols/MO.pdf)|✅|
-|9.2|Gekoelde producten moeten binnen veilige temperatuurgrenzen blijven.|[9.2 Materiaalstudie](/reports%20and%20protocols/MO.pdf)|✅|
-|9.3|Niet alle producttypes mogen toegelaten zijn; duidelijke afbakening is nodig. |[9.3 Bakkerijketen](/reports%20and%20protocols/IR3%20W2.pdf)|✅|
+|9.1|Het systeem moet geschikt zijn voor zowel gekoelde als ongekoelde producten.|[9.1 Materiaalstudie](/reports%20and%20protocols/MO.pdf)|⚠️|
+|9.2|Gekoelde producten moeten binnen veilige temperatuurgrenzen blijven.|[9.2 Materiaalstudie](/reports%20and%20protocols/MO.pdf)|❌|
+|9.3|Niet alle producttypes mogen toegelaten zijn; duidelijke afbakening is nodig. |[9.3 Bakkerijketen](/reports%20and%20protocols/IR3%20W2.pdf)|⚠️|
+
+## Development 1: Pivot
+
+|ID|Design Requirement|Source|Status|
+|:---|:---|:---|:---:|
+| 1.1 | Het systeem moet real-time synchronisatie van de kluisvoorraad naar de app garanderen. | Systeemarchitectuur |✅|
+| 1.2 | De elektronische sloten moeten binnen 1 seconde na het invoeren van de code ontgrendelen. | Technische test (Arduino) |✅|
+| 1.3 | De invoerinterface en elektronica moeten voorzien zijn van een continue stroomtoevoer. | Elektronica-expert |✅|
+| 1.4 | De functionele werking (I/O, sensoren en actuatoren) moet inzichtelijk en modulair zijn opgebouwd. | Technische test |✅|
+
+## Development 2: Hoe het werkt
+
+|ID|Design Requirement|Source|Status|
+|:---|:---|:---|:---:|
+| 2.1 | Het middelpunt van het touchpad moet op 120 cm hoogte vanaf de vloer geplaatst zijn. | Antropometrische analyse / DINED |✅|
+| 2.2 | Het display moet een helling van 15° naar voren hebben om de leesbaarheid te garanderen voor de volledige doelgroep (P5–P95). | Siemens NX-analyse |✅|
+| 2.3 | De interactietijd (van code-invoer tot deuropening) mag niet langer duren dan 30 seconden. | Usability goals |✅|
+| 2.4 | Foutmeldingen moeten direct aangeven welke actie de gebruiker moet herhalen (bijv. "code onjuist" of "time-out"). | Cognitieve ergonomie / Think Aloud test |✅|
+| 2.5 | Het openingsmechanisme moet voor de gebruiker onmiddellijk fysieke feedback geven (bijv. LED-licht en geluid). | Sensoriële ergonomie |✅|
+
+## Development 3: CMF
+
+|ID|Design Requirement|Source|Status|
+|:---|:---|:---|:---:|
+| 3.1 | De kleuren en materialen van de behuizing moeten een gevoel van hygiëne en betrouwbaarheid uitstralen. | CMF-analyse / Materiaalexpert |✅|
+| 3.2 | Het fysieke product moet naadloos aansluiten op het service-ecosysteem (bijv. een API-koppeling met TGTG of soortgelijke platforms). | Service design / Expert (Jonas Mallisse) |✅|
+| 3.3 | De binnenzijde moet gemakkelijk te reinigen zijn en voldoen aan de geldende hygiëne-eisen voor voedsel. | Voedselveiligheid-expert |✅|
+| 3.5 | De CMF-afwerking mag niet gevoelig zijn voor vingerafdrukken en moet bestand zijn tegen openbare weersomstandigheden. | CMF-Benchmarking |✅|
+| 3.6 | Op de buitenkant moet duidelijk aangegeven worden wat het concept is van de box. | Interview gebruikers |✅|
+| 3.7 | Op de box moeten de instructies in grote lijnen worden gezet, zodat het gebruik van de box duidelijk wordt. | Interview gebruikers |✅|
