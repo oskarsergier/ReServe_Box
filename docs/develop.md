@@ -12,8 +12,8 @@ Vandaar dat de pivot gemaakt werd om samen te werken met Too Good To Go waar zij
 
 ## Develop 1
 Tijdens de Develop 1 fase werd gestart met het concretiseren en fysiek ontwikkelen van het concept. In deze fase wordt het ontwerp verder uitgewerkt naar een technisch realiseerbare oplossing, waarbij zowel de digitale interactie (app) als de fysieke infrastructuur (lockers) werden ontwikkeld.
-
-### User flow
+### Voorgaande analyse
+#### User flow
 Voor de verdere uitwerking van het concept werd eerst de
 gebruikersstroom in kaart gebracht. over de verschillende stappen die de gebruikers moeten uitvoeren tijdens het interageren met de app en de lockers. de stappen zijn terug te vinden in onderstaand schema. Hier werd er gekeken naar de gebruiker en naar de koerier die de pakketten in de lockers steken.
 ![alt text](/img/UFR.jpg) 
@@ -21,25 +21,19 @@ gebruikersstroom in kaart gebracht. over de verschillende stappen die de gebruik
 <p align="center"> 
 </p>
 
-### Value network analysis
+#### Value network analysis
 Nadat de user flow schema's opgesteld waren werd er nog een value network analysis opgesteld.
 ![alt text](/img/NV.png) 
 
 <p align="center"> 
 </p>
 
-### Storyboards
+#### Storyboards
 Om een concreet inzicht te verkrijgen hoe het nieuwe concept in zijn werking zou gaan werden de storyboard van de defintion fase verbeterd en meer in detail uitgewerkt. 
-![alt text](/img/STB1.D1.png) 
+![alt text](/img/STB_D1_SAMEN.png) 
 
 <p align="center"> 
 </p>
-
-![alt text](/img/STB2.D1.png)
-
-<p align="center">
-</p> 
-
 
 ### Ontwikkeling van de ReServeBox App
 

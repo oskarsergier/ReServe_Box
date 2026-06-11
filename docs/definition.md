@@ -16,26 +16,18 @@ Het volledige materiaalonderzoek is te vinden bij:
 
 ### Wave 1
 Voordat we verder onderzoek gevoerd hebben werden er eerst twee prototypes gemaakt die tijdens de interviews meegenomen en voorgelegd werden. 
-![alt text](/img/PT1.png)
-
-<p align="center">
-</p>
-
-![alt text](/img/PT2.png)
+![alt text](/img/PT%20SAMEN.png)
 
 <p align="center">
 </p>
 
 Tijdens wave 1 werd er vooral onderzocht indien mensen potentieel zagen in het concept van voedseloverschotten delen op wijkniveau. Dit werd vooral onderzocht door het maken van storyboards (N=2) en user interviews (N=5). 
-![alt text](/img/STB1.png)
+![alt text](/img/STB%20DEF%20SAMEN.png)
 
 <p align="center">
 </p>
 
-![alt text](/img/STB2.png)
 
-<p align="center">
-</p>
 
 Tijdens de interviews voor het concept werd vooral gevraagd naar:
 * Het idee van een app voor de box.
@@ -47,17 +39,12 @@ Tijdens de interviews voor het concept werd vooral gevraagd naar:
 Nadien werden er werden er nog interviews uitgevoerd voor het maken van interfaces. Hier werd voornamelijk polst naar wat de gebruikers absoluut in de interface van de app en van de box wilden zien. 
 * [Interview protocol interface](/reports%20and%20protocols/IP%20I.pdf)
 
-* Interface App
-![alt text](/img/IA.png)
+* Interface 
+![alt text](/img/IF%20SAMEN.png)
 
 <p align="center">
 </p>
 
-* Interface Box
-![alt text](/img/IB.png)
-
-<p align="center">
-</p>
 
 ### Resultaten
 Tijdens de interviews rond het concept waren de geïnterviewden zeer positief over het concept. Uit deze interviews bleek ook dat ze dit zeer positief vonden om het sociale gemeenschap weer wat op te fleuren. Nu werd er zelden nog met elkaar gesproken in de wijk. Tijdens de interviews werd gezegd:
@@ -89,7 +76,6 @@ Dit werd onderzocht door middel van interviews. Tijdens de interviews werd voora
 * De indruk van het concept
 * Onderhoud van de box
 * Mogelijkheid tot partnerschap
-
 * [Interview protocol financierders](/reports%20and%20protocols/IP2.1%20W2.pdf)
 
 ### Resultaten
