@@ -5,21 +5,21 @@ ReServeBox, een lokaal opslagpunt voor voedseloverschotten die nog eetbaar zijn.
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese`` 
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*05/05/2026 van de laatste update*   
+*11/06/2026 van de laatste update*   
 
 # Projectsamenvatting: 
-#### 1. De Problemstatement
+#### 1. Probleemstelling
 Voedselverspilling is een hardnekkig duurzaamheidsprobleem dat zich niet alleen bij de consument, maar juist ook aan het begin van de keten afspeelt: bij de boeren en agro-groothandels. Grote partijen perfect eetbare grondstoffen en seizoensproducten (zoals overschotten aan bloemkolen of aardappelen) geraken vaak niet verkocht en dreigen verloren te gaan. Bestaande initiatieven, zoals Waste Warriors, proberen dit op te lossen door consumenten rechtstreeks bij de boer te laten oogsten of inkopen. Dit model stuit echter op een geografische en logistieke barrière: voor stedelijke consumenten is het praktisch en ecologisch niet haalbaar om grote afstanden af te leggen naar het platteland om deze overschotten te redden. Hierdoor blijft een enorm potentieel aan duurzame impact onbenut.
 
 #### 2. De Oplossing: ReServeBox
-De ReServeBox is een phygital logistieke oplossing die de kloof overbrugt tussen rurale voedseloverschotten en stedelijke consumenten. Het concept bestaat uit een grootschalig, geautomatiseerd lockersysteem dat strategisch wordt geplaatst op drukke knooppunten (zoals stations of randstedelijke hubs) in de twintig grootste steden van Vlaanderen/België.
+De ReServeBox is een digitaal en fysiek logistieke oplossing die de kloof overbrugt tussen landelijke  voedseloverschotten en stedelijke consumenten. Het concept bestaat uit een grootschalig, geautomatiseerd lockersysteem dat strategisch wordt geplaatst op drukke knooppunten (zoals stations of randstedelijke hubs) in de twintig grootste steden van Vlaanderen/België.
 
-In plaats van individuele winkelpakketten te distribueren, fungeert de ReServeBox als een gecentraliseerd afhaalpunt voor bulkoverschotten van boeren en groothandels die via platformen zoals Waste Warriors worden gecentraliseerd. Stedelingen krijgen zo op een laagdrempelige manier toegang tot verse, onbewerkte grondstoffen die rechtstreeks van het veld komen, tegen een minieme kost.
+In plaats van individuele winkelpakketten te distribueren, fungeert de ReServeBox als een gecentraliseerd afhaalpunt voor agro-overschotten en groothandels die via platformen zoals Waste Warriors worden gecentraliseerd. Stedelingen krijgen zo op een laagdrempelige manier toegang tot verse, onbewerkte grondstoffen die rechtstreeks van het veld komen, tegen een minieme kost.
 
 #### 3. Functionele Architectuur & Proof of Interaction
 Het ReServeBox-ecosysteem combineert een robuuste fysieke infrastructuur met een slimme digitale laag om een frictieloze en betrouwbare gebruikerservaring te garanderen:
 
-De Digitale Interface (App): Gebruikers zien via een eenvoudige applicatie in real-time welke grondstoffen beschikbaar zijn in de stedelijke lockers, inclusief informatie over de herkomst (de boer), de geoogst-datum en de restvoorraad. Na een digitale reservatie ontvangt de gebruiker een unieke toegangscode.
+De Digitale Interface (App): Gebruikers zien via een eenvoudige applicatie in real-time welke grondstoffen beschikbaar zijn in de stedelijke lockers, inclusief informatie over de herkomst, de geoogst-datum en de restvoorraad. Na een digitale reservatie ontvangt de gebruiker een unieke toegangscode.
 
 De Fysieke Locker (Hardware): De fysieke box is een modulair en geconditioneerd lockersysteem dat ontworpen is op basis van strikte antropometrische en ergonomische analyses (geschikt voor een brede doelgroep van P5 tot P95). De hardware wordt gestuurd door een industrieel microcontrollersysteem (Arduino-architectuur) gekoppeld aan elektronische sloten en een touchpad.
 
@@ -40,7 +40,7 @@ Het ReServeBox-project introduceert een phygital logistieke oplossing die de klo
 
 Om tot deze onderbouwde productservice-architectuur te komen, werd een iteratief human-centered designproces doorlopen. Binnen dit proces zijn methodieken zoals grondige benchmarking, morfologische matrixanalyses en diepgaande stakeholder-interviews (waaronder experts uit de sector zoals Jonas Mallisse en lokale winkelverantwoordelijken) ingezet. Hierbij is specifiek onderzocht hoe een onbemande interface vertrouwen kan opwekken bij de gebruiker, hoe de fysieke ergonomie en bereikbaarheid (P5–P95) geoptimaliseerd kunnen worden via Siemens NX-comfortanalyses, en hoe data-interactie via een Arduino-gestuurde hardware-architectuur de betrouwbaarheid en realtime voorraadstatus van het systeem kan garanderen.
 
-De boundary conditions van het ReServeBox-project zijn scherp gedefinieerd: de fysieke hubs moeten extreem robuust, weerbestendig, hygiënisch en onderhoudsarm zijn om stand te houden in de publieke ruimte. Daarnaast moet de digitale interface de perceptie van voedselonveiligheid en logistieke complexiteit volledig wegnemen. De technologie fungeert hierbij niet als barrière, maar als een transparante, intuïtieve en betrouwbare tussenlaag die stedelingen activeert om op een grootschalige manier bij te dragen aan een duurzamer klimaat.
+De randvoorwaarden van het ReServeBox-project zijn scherp gedefinieerd: de fysieke hubs moeten extreem robuust, weerbestendig, hygiënisch en onderhoudsarm zijn om stand te houden in de publieke ruimte. Daarnaast moet de digitale interface de perceptie van voedselonveiligheid en logistieke complexiteit volledig wegnemen. De technologie fungeert hierbij niet als barrière, maar als een transparante, intuïtieve en betrouwbare tussenlaag die stedelingen activeert om op een grootschalige manier bij te dragen aan een duurzamer klimaat.
 
 
 ## Inhoudstafel

@@ -6,7 +6,7 @@ Na de tussentijdse pitch werd er feedback gekregen op het afgelegde proces van h
 * Eerlijkheid
 * ...
 
-Vandaar dat de pivot gemaakt werd om samen te werken met Too Good To Go waar zijn de pakketten zullen samenstellen en wij zullen kijken voor lockers waar ze deze pakketten kunnen insteken. Ook zullen we een app maken die zal zorgen dat mensen kunnen zien wat er in de lockers zit en waar ze deze kunnen vinden.
+Vandaar dat de pivot gemaakt werd om samen te werken met Too Good To Go waar zijn de pakketten zullen samenstellen. Het concept voorziet in lockers waarin pakketten door partners worden geplaatst. Ook wordt er een app gemaakt die zal zorgen dat mensen kunnen zien wat er in de lockers zit en waar ze deze kunnen vinden.
 
 * [Extra info pivot](/reports%20and%20protocols/VP.pdf)
 
@@ -14,8 +14,7 @@ Vandaar dat de pivot gemaakt werd om samen te werken met Too Good To Go waar zij
 Tijdens de Develop 1 fase werd gestart met het concretiseren en fysiek ontwikkelen van het concept. In deze fase wordt het ontwerp verder uitgewerkt naar een technisch realiseerbare oplossing, waarbij zowel de digitale interactie (app) als de fysieke infrastructuur (lockers) werden ontwikkeld.
 ### Voorgaande analyse
 #### User flow
-Voor de verdere uitwerking van het concept werd eerst de
-gebruikersstroom in kaart gebracht. over de verschillende stappen die de gebruikers moeten uitvoeren tijdens het interageren met de app en de lockers. de stappen zijn terug te vinden in onderstaand schema. Hier werd er gekeken naar de gebruiker en naar de koerier die de pakketten in de lockers steken.
+Voor de verdere uitwerking van het concept werd eerst de volledige interactiestroom in kaart gebracht. De analyse beschrijft de opeenvolgende stappen voor zowel de gebruiker als de partner die pakketten in het lockersysteem plaatst. Deze user flow fungeert als basis voor de informatiearchitectuur, de app-structuur en de fysieke interactie met de lockerinterface. 
 ![User flow](/img/UFR.jpg) 
 
 <p align="center"> 
@@ -29,7 +28,7 @@ Nadat de user flow schema's opgesteld waren werd er nog een value network analys
 </p>
 
 #### Storyboards
-Om een concreet inzicht te verkrijgen hoe het nieuwe concept in zijn werking zou gaan werden de storyboard van de defintion fase verbeterd en meer in detail uitgewerkt. 
+Om een concreet inzicht te verkrijgen hoe het nieuwe concept in zijn werking zou gaan werden de storyboard van de definition fase verbeterd en meer in detail uitgewerkt. 
 ![Storyboard](/img/STB_D1_SAMEN.png) 
 
 <p align="center"> 
@@ -56,25 +55,16 @@ De app laat gebruikers toe om volgende zaken uit te voeren:
 Nadat de app afgewerkt was werden er testen gedaan om de observeren hoe de gebruikers deze ervaren en wat ze ervan vinden. Om de gebruiksvriendelijkheid van de app te evalueren werden er interviews afgelegd met gebruikers van diverse leeftijden zodat de app voor iedereen zo gebruiksvriendelijk mogelijk is. 
 
 ### Resultaten testen
-Tijdens het testen werd vooral gekeken naar volgende zaken:
-* Begrijpt de gebruiker hoe hij het moet gebruiken?
-* Zijn bepaalde zaken duidelijk zichtbaar? (Reserveer knop, annulatie knop, ...)
-* Begrijpt hij wat er moet gebeuren met de code?
-* Is het makkelijk hanteerbaar?
+De validatiefase onderzocht in welke mate de voorgestelde interactie begrijpelijk, toegankelijk en betrouwbaar werd ervaren. Bij de app-evaluatie werd nagegaan of gebruikers de reservatieflow zelfstandig konden doorlopen, of de belangrijkste acties duidelijk zichtbaar waren en of de afhaalcode correct werd geïnterpreteerd. Bij de lockerinteractie werd nagegaan of keypad, display en feedbackmechanismen voldoende duidelijkheid boden tijdens de invoer van de code. De resultaten tonen aan dat visuele feedback essentieel is voor vertrouwen in het systeem en dat bijkomende begeleiding nodig blijft voor gebruikers met lagere digitale routine.
 
-De gebruikerstesten wezen op een overwegend positieve waardering van de
-app. De app was gebruiksvriendelijk en duidelijk voor iedereen. Natuurlijk ging dit bij de jongere gebruikers wat sneller dan bij de ouderen. Enkele oudere gebruikers hadden hier en daar wat extra hulp nodig voor bepaalde zaken. Als laatste werd gevraagd welke score de gebruikers de app gaven en deze lag tussen de 3-4.5 op 5. 
+De gebruikerstesten wezen op een overwegend positieve waardering van de app. De testresultaten tonen een snellere taakuitvoering bij jongere deelnemers, oudere deelnemers vroegen vaker ondersteuning. Als laatste werd gevraagd welke score de gebruikers de app gaven en deze lag tussen de 3-4.5 op 5. 
 
-Tijdens een interview werd het volgende gezegd:
-
-> “De app lijkt op andere apps die ik gebruik, dus ik snapte meteen hoe het werkt.”
 
 Tijdens de interviews kwamen er echter ook nog enkele negatieve punten naar boven. Hier heeft de app nog enkele verbeteringen nodig:
 * Extra uitleg bij het ophalen van een bestelling.
 * Betere feedback wanneer je een bestelling annuleert.
 * Visuele uitleg over hoe de locker werkt.
 
-Aan de hand van deze feedback zullen we in volgende fase de app verbeteren.
 Als laatste werd er gevraagd waar volgens hen de lockers het best geplaatst zouden moeten worden.
 * Treinstation
 * Universiteiten / Hoge scholen

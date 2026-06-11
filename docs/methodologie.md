@@ -20,7 +20,7 @@ In de definitiefase werd de probleemdefinitie aangescherpt en vertaald naar conc
 Vroege fysieke en visuele prototypes — waaronder een kartonnen model en een tweede prototype in karton en hout — werden gebruikt om de vorm, indeling en interactie van de box te onderzoeken. Hierbij werd onder andere gekeken naar de plaatsing van compartimenten, transparante ruiten, interfacepositie en de algemene toegankelijkheid van het systeem.
 
 #### Wave 1
-In wave 1 worden zowel [prototypes](/img/PT%20SAMEN.png) en [interfaces](/img/IF%20SAMEN.png) getest aan de hand van cartboard protypes en schermen, dit werd gedaan aan de hand van [interviews](/reports%20and%20protocols/IP2.1%20W1.pdf) (N=5) met wijkbewoners.
+In wave 1 worden zowel [prototypes](/img/PT%20SAMEN.png) en [interfaces](/img/IF%20SAMEN.png) getest aan de hand van kartonnen prototypes en schermen, dit werd gedaan aan de hand van [interviews](/reports%20and%20protocols/IP2.1%20W1.pdf) (N=5) met wijkbewoners.
 
 #### Wave 2
 In wave 2 wordt er nagegaan indien bedrijven ons zouden willen helpen bij het financieren en vullen van de box. Dit werd onderzocht aan de hand van [interviews](/reports%20and%20protocols/IP2.1%20W2.pdf) (N=5) met verschillende voedsel winkels.
@@ -49,4 +49,4 @@ Er werd een CMF-analyse uitgevoerd. Hierbij werden kleuren, materialen en afwerk
 ### Mogelijke verdere ontwikkeling (Waste Warriors)
 Tijdens de verdere ontwikkeling van ReServeBox kwam Waste Warriors pas laat in beeld. Dit kwam doordat een gepland interview met een contactpersoon gelinkt aan Too Good To Go werd uitgesteld. Toen dit interview uiteindelijk plaatsvond, gaf de geïnterviewde aan dat ReServeBox mogelijk beter zou aansluiten bij een organisatie zoals Waste Warriors.
 
-De reden hiervoor is dat Waste Warriors zich sterker richt op het herverdelen van echte voedseloverschotten uit de primaire voedselketen, zoals overschotten van boeren en producenten. Dit sluit inhoudelijk nauw aan bij de oorspronkelijke missie van ReServeBox: voedselverspilling verminderen door overschotten op een veilige, toegankelijke en lokale manier opnieuw beschikbaar te maken.
+De reden hiervoor is dat Waste Warriors zich sterker richt op het herverdelen van echte voedseloverschotten uit de primaire voedselketen, zoals agro-overschotten. Dit sluit inhoudelijk nauw aan bij de oorspronkelijke missie van ReServeBox: voedselverspilling verminderen door overschotten op een veilige, toegankelijke en lokale manier opnieuw beschikbaar te maken.

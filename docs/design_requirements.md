@@ -23,7 +23,7 @@
 |4.3|Gekoelde en niet-gekoelde producten moeten fysiek gescheiden zijn.|[4.3 Materiaalstudie](/reports%20and%20protocols/MO.pdf)|⚠️|
 |4.4|De gebruiker moet kunnen inschatten of een product nog vers is.|[4.4 Gebruikers via app](https://www.figma.com/make/JQcTcU4Be1uQNL2V1ulXEz/Untitled?p=f&t=8YItCzS4Ch5X5GUG-0)|✅|
 |4.5|Het ontwerp moet misbruik en vandalisme zoveel mogelijk beperken.|[4.5 Gemeente](/reports%20and%20protocols/IR_W2_SAMEN.pdf)|⚠️|
-|**Visuele Comunicatie & Herkenbaarheid**|
+|**Visuele communicatie en herkenbaarheid**|
 |5.1|De box moet duidelijk herkenbaar zijn als voedseldeelinitiatief, niet als afvalcontainer.|[5.1 Winkelketen](/reports%20and%20protocols/IR_W2_SAMEN.pdf)|✅|
 |5.2|Het doel en gebruik van de box moet duidelijk vermeld zijn op de box zelf.|[5.2 Winkelketen](/reports%20and%20protocols/IR_W2_SAMEN.pdf)|⚠️|
 |5.3|De visuele uitstraling moet verzorgd, professioneel en positief zijn.|[5.3 BOX](/img/CMF_R_SAMEN.png)|✅|
@@ -45,7 +45,7 @@
 
 |ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
-| 1.1 | Het systeem moet real-time synchronisatie van de kluisvoorraad naar de app garanderen. | Systeemarchitectuur [(App)](https://www.figma.com/make/JQcTcU4Be1uQNL2V1ulXEz/Untitled?p=f&t=8YItCzS4Ch5X5GUG-0) |✅|
+| 1.1 | Het systeem moet real-time synchronisatie van de kluisvoorraad naar de app garanderen. | Systeemarchitectuur [(App)](https://www.figma.com/make/JQcTcU4Be1uQNL2V1ulXEz/Untitled?p=f&t=8YItCzS4Ch5X5GUG-0) |❌|
 | 1.2 | De elektronische sloten moeten binnen 1 seconde na het invoeren van de code ontgrendelen. | [Technische test (Arduino)](/reports%20and%20protocols/TPAM_SAMEN.pdf) **/** [(CODE)](/tests/Code_laatste_versie/Code_laatste_versie.ino)|✅|
 | 1.3 | De invoerinterface en elektronica moeten voorzien zijn van een continue stroomtoevoer. | Zonne-energie |⚠️|
 | 1.4 | De functionele werking (I/O, sensoren en actuatoren) moet inzichtelijk en modulair zijn opgebouwd. | [Testen](/reports%20and%20protocols/TPAM_SAMEN.pdf) **/** [Schema](/img/Schema.png) |✅|

@@ -1,5 +1,5 @@
 ## Definition
-### Doestellingen
+### Doelstellingen
 In deze fase is het doel om concrete richtlijnen en specifieke aspecten van de ReServeBox op te gaan stellen voor het ontwerpen van de box. Dit wordt gedaan door middel van storyboards (N=2), interfaces (N=2) en prototypes (N=2) die voorgelegd worden aan de gebruikers in de interviews.
 Een concreet inzicht krijgen op wat gebruikers een aangename interface vinden, is het makkelijk te hanteren.
 ### Materiaal & methoden
@@ -47,7 +47,7 @@ Nadien werden er werden er nog interviews uitgevoerd voor het maken van interfac
 
 
 ### Resultaten
-Tijdens de interviews rond het concept waren de geïnterviewden zeer positief over het concept. Uit deze interviews bleek ook dat ze dit zeer positief vonden om het sociale gemeenschap weer wat op te fleuren. Nu werd er zelden nog met elkaar gesproken in de wijk. Tijdens de interviews werd gezegd:
+De interviews wijzen op een waargenomen sociale meerwaarde. Nu werd er zelden nog met elkaar gesproken in de wijk. Tijdens de interviews werd gezegd:
 > "Dit zou terug wat leven in de wijk brengen."
 
 Echter waren er enkele onzekerheden omtrent;
