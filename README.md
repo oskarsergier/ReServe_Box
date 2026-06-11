@@ -209,3 +209,11 @@ You are free to reuse and build upon this work, both commercially and non-commer
 
   #### Waste Warriors
   Home - Waste Warriors. (2026, 10 juni). Waste Warriors. https://wastewarriors.be/ 
+
+  #### Arduino
+  Banggood.com. (z.d.). Voor UNOS R3 13-in-1 Mini DIY elektronische startkit Arduinos Circuitboard elektronica programmeerbare Engineering Codering Educatie STEAM. www.banggood.com. https://www.banggood.com/nl/For-UNOs-R3-13-in-1-Mini-DIY-Electronic-Starter-Kit-Arduinos-Circuit-Board-Electronics-Programmable-Engineering-Coding-Education-STEAM-p-2024096.html?cur_warehouse=CN&ID=6311493&rmmds=search 
+
+  #### Breadboard
+  Banggood.com. (z.d.). Voor UNOS R3 13-in-1 Mini DIY elektronische startkit Arduinos Circuitboard elektronica programmeerbare Engineering Codering Educatie STEAM. www.banggood.com. https://www.banggood.com/nl/For-UNOs-R3-13-in-1-Mini-DIY-Electronic-Starter-Kit-Arduinos-Circuit-Board-Electronics-Programmable-Engineering-Coding-Education-STEAM-p-2024096.html?cur_warehouse=CN&ID=6311493&rmmds=search 
+
+  
