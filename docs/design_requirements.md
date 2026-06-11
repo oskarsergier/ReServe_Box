@@ -58,7 +58,7 @@
 | 2.2 | Het display moet een helling van 15° naar voren hebben om de leesbaarheid te garanderen voor de volledige doelgroep (P5–P95). | [Siemens NX-analyse](/reports%20and%20protocols/Antropometrische%20analyse.pdf) |✅|
 | 2.3 | De interactietijd (van code-invoer tot deuropening) mag niet langer duren dan 30 seconden. | Usability goals [(Code)](/tests/Code_laatste_versie/Code_laatste_versie.ino) |✅|
 | 2.4 | Foutmeldingen moeten direct aangeven welke actie de gebruiker moet herhalen (bijv. "code onjuist" of "time-out"). | [Cognitieve ergonomie / Think Aloud test](/reports%20and%20protocols/TPAM_SAMEN.pdf) **/** [(Code)](/tests/Code_laatste_versie/Code_laatste_versie.ino) |✅|
-| 2.5 | Het openingsmechanisme moet voor de gebruiker onmiddellijk fysieke feedback geven (bijv. LED-licht en geluid). | [Sensoriële ergonomie](/reports%20and%20protocols/TPAM_SAMEN.pdf) **/** [Foto display]|✅|
+| 2.5 | Het openingsmechanisme moet voor de gebruiker onmiddellijk fysieke feedback geven (bijv. LED-licht en geluid). | [Sensoriële ergonomie](/reports%20and%20protocols/TPAM_SAMEN.pdf) **/** [Foto display](/img/Display_fotos.jpg)|✅|
 
 ## Development 3: CMF
 

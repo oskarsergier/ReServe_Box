@@ -270,3 +270,31 @@ Belangrijkste realisaties:
 * Belangrijke inzichten rond feedback en veiligheid
 
 ## Develop 3
+
+
+
+
+
+
+> [!IMPORTANT]
+> ## Design Requirements
+> #### Develop 1
+>* 1.1 Het systeem moet real-time synchronisatie van de kluisvoorraad naar de app garanderen.
+>* 1.2 De elektronische sloten moeten binnen 1 seconde na het invoeren van de code ontgrendelen.
+>* 1.3 De invoerinterface en elektronica moeten voorzien zijn van een continue stroomtoevoer.
+>* 1.4 De functionele werking (I/O, sensoren en actuatoren) moet inzichtelijk en modulair zijn opgebouwd.
+> #### Develop 2
+>* 2.1 Het middelpunt van het touchpad moet op 120 cm hoogte vanaf de vloer geplaatst zijn. 
+>* 2.2 Het display moet een helling van 15° naar voren hebben om de leesbaarheid te garanderen voor de volledige doelgroep (P5–P95). 
+>* 2.3 De interactietijd (van code-invoer tot deuropening) mag niet langer duren dan 30 seconden. 
+>* 2.4 Foutmeldingen moeten direct aangeven welke actie de gebruiker moet herhalen (bijv. "code onjuist" of "time-out"). 
+>* 2.5 Het openingsmechanisme moet voor de gebruiker onmiddellijk fysieke feedback geven (bijv. LED-licht en geluid).
+> #### Develop 3
+>* 3.1 De kleuren en materialen van de behuizing moeten een gevoel van hygiëne en betrouwbaarheid uitstralen.
+>* 3.2 Het fysieke product moet naadloos aansluiten op het service-ecosysteem (bijv. een API-koppeling met TGTG of soortgelijke platforms).
+>* 3.3 De binnenzijde moet gemakkelijk te reinigen zijn en voldoen aan de geldende hygiëne-eisen voor voedsel.
+>* 3.5 De CMF-afwerking mag niet gevoelig zijn voor vingerafdrukken en moet bestand zijn tegen openbare weersomstandigheden.
+>* 3.6 Op de buitenkant moet duidelijk aangegeven worden wat het concept is van de box.
+>* 3.7 Op de box moeten de instructies in grote lijnen worden gezet, zodat het gebruik van de box duidelijk wordt.
+
+
