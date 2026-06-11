@@ -92,11 +92,11 @@ In dit project werd AI gebruikt voor het genereren van afbeeldingen en het contr
 * User testing wave 1 (N=5)
   * Interview Wijkbewoners
     * [Protocol Wijkbewoner](/reports%20and%20protocols/IP2.1%20W1.pdf)
-    * [Rapport Wijkbewoner](/reports%20and%20protocols/IR_I_SAMEN.pdf)
+    * [Rapport Wijkbewoner](/reports%20and%20protocols/IR_W1_SAMEN.pdf)
 
   * Interview Interface
     * [Protocol interface](/reports%20and%20protocols/IP%20I.pdf)
-    * [Rapport interface](/reports%20and%20protocols/IR%20I%20SAMEN.pdf)
+    * [Rapport interface](/reports%20and%20protocols/IR_I_SAMEN.pdf)
 
 * User testing wave 2 (N=5)
   * [Protocol Financierder](/reports%20and%20protocols/IP2.1%20W2.pdf)
@@ -216,4 +216,4 @@ You are free to reuse and build upon this work, both commercially and non-commer
   #### Breadboard
   Banggood.com. (z.d.). Voor UNOS R3 13-in-1 Mini DIY elektronische startkit Arduinos Circuitboard elektronica programmeerbare Engineering Codering Educatie STEAM. www.banggood.com. https://www.banggood.com/nl/For-UNOs-R3-13-in-1-Mini-DIY-Electronic-Starter-Kit-Arduinos-Circuit-Board-Electronics-Programmable-Engineering-Coding-Education-STEAM-p-2024096.html?cur_warehouse=CN&ID=6311493&rmmds=search 
 
-  
+
