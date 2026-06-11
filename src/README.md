@@ -1,2 +1,11 @@
-Add the latest version of the functioning code here.
-If the project is finished and you want to allow others to work with your code: also include a description on the way everything needs to be configured in this README file.
+* Functionele code
+[Code](/src/Code_laatste_versie/Code_laatste_versie.ino)
+Indien er problemen zijn kun je vinden bij [tests](/tests/README.md) hoe je deze problemen eventueel kunt oplossen.
+
+* Wiring schema
+![Wiring schema](/img/Schema.png)
+
+<p align="center">
+</p>
+
+
