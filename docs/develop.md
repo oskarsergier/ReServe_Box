@@ -290,3 +290,4 @@ Bij de lockerinteractie werd nagegaan of keypad, display en feedbackmechanismen 
 >* 3.7 Op de box moeten de instructies in grote lijnen worden gezet, zodat het gebruik van de box duidelijk wordt.
 
 
+[Design Requirements](/docs/design_requirements.md)

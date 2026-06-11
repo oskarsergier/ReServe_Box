@@ -100,3 +100,6 @@ Vaak werden er op deze problemen nog enkele tips gegeven over hoe we bepaalde za
 * Laten werken op groene energie
 * Camera installeren tegen vandalisme
 * ... 
+
+
+[Design Requirements](/docs/design_requirements.md)

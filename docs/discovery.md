@@ -96,3 +96,5 @@ De ReServeBox moet:
 Deze zaken moeten voldaan worden om een actieve participatie te verkrijgen van de gebruikers.
 
 Deze conclusies vormen de basis voor de verdere conceptontwikkeling en prototyping in de volgende fase van het ontwerpproces.
+
+[Design Requirements](/docs/design_requirements.md)
