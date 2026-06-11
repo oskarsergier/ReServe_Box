@@ -16,21 +16,21 @@ Tijdens de Develop 1 fase werd gestart met het concretiseren en fysiek ontwikkel
 #### User flow
 Voor de verdere uitwerking van het concept werd eerst de
 gebruikersstroom in kaart gebracht. over de verschillende stappen die de gebruikers moeten uitvoeren tijdens het interageren met de app en de lockers. de stappen zijn terug te vinden in onderstaand schema. Hier werd er gekeken naar de gebruiker en naar de koerier die de pakketten in de lockers steken.
-![alt text](/img/UFR.jpg) 
+![User flow](/img/UFR.jpg) 
 
 <p align="center"> 
 </p>
 
 #### Value network analysis
 Nadat de user flow schema's opgesteld waren werd er nog een value network analysis opgesteld.
-![alt text](/img/NV.png) 
+![Value network](/img/NV.png) 
 
 <p align="center"> 
 </p>
 
 #### Storyboards
 Om een concreet inzicht te verkrijgen hoe het nieuwe concept in zijn werking zou gaan werden de storyboard van de defintion fase verbeterd en meer in detail uitgewerkt. 
-![alt text](/img/STB_D1_SAMEN.png) 
+![Storyboard](/img/STB_D1_SAMEN.png) 
 
 <p align="center"> 
 </p>
@@ -38,6 +38,12 @@ Om een concreet inzicht te verkrijgen hoe het nieuwe concept in zijn werking zou
 ### Ontwikkeling van de ReServeBox App
 
 Tijdens het realiseren van de app werd er grotendeels afgestapt van de interfaces die gemaakt waren in de definition fase. Ook werd er beslist om het enkel bij een app te houden en geen schermen op de lockers te plaatsen. De app kan gedownload worden op de smartphone en via deze weg kun je pakketten reserveren om later op te gaan halen. Indien je dit pakket niet meer wil opeisen dan kun je dit steeds annuleren via de app en komt dit terug vrij voor andere gebruikers. Wanneer je iets gereserveerd hebt ontvang je via de app een 6-cijferige code die je dan moet ingeven op een keypad aan de lockers, zo kun je het pakket opeisen.
+
+App ophalen voedsel:
+![App1](/img/App_1.jpg) 
+
+<p align="center"> 
+</p>
 
 * [Link app](https://www.figma.com/make/J6ychj6AkGgcx02CEtZITY/Automated-Food-Pickup-App?p=f&t=YJ3e3WwcijThLWiJ-0)
 
@@ -132,7 +138,20 @@ Ook werd er een tweede app gemaakt voor de mensen van Too Good To Go die de lock
 Het doel van deze app:
 Het logistieke proces vereenvoudigen en fouten bij het vullen van lockers vermijden.
 
+App ophalen voedsel:
+![App1](/img/App_1.jpg) 
+
+<p align="center"> 
+</p>
+
 * [App gebruikers](https://www.figma.com/make/J6ychj6AkGgcx02CEtZITY/Automated-Food-Pickup-App?t=z45hhVviTivWGiIb-1)
+
+App leveren voedsel:
+![App1](/img/App_2.jpg) 
+
+<p align="center"> 
+</p>
+
 * [App medewerkers](https://www.figma.com/make/JQcTcU4Be1uQNL2V1ulXEz/Untitled?p=f&t=8YItCzS4Ch5X5GUG-0)
 
 ### Ergonomische analyse
