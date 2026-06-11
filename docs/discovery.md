@@ -12,12 +12,12 @@ Het is de bedoeling om verschillende inzichten te verkrijgen over hoe mensen omg
 In deze fase werd er nog niet nagedacht over welke materialen er kunnen gebruikt worden om het ontwerp te realiseren. In deze fase was het vooral de bedoeling om te benadrukken waarom dit zo een probleem is voor sustainability at home. 
 
 ### Resultaten
-De resultaten van de discoveryfase zijn gebaseerd op desk research, [benchmarking](/reports%20and%20protocols/RP1.1.pdf) (N=10), [interviews](/reports%20and%20protocols/IPW1.1.pdf) (N=3) en een online [enquête](/reports%20and%20protocols/REA1.1.pdf) (N=58). Deze combinatie maakte het mogelijk om goede inzichten te krijgen rond voedselverspilling. Uit de desk research bleek dat voedselverspilling voornamelijk op huishoudelijk niveau ontstaat door onzekerheid rond houdbaarheidsdata en een gebrek aan toegankelijke oplossingen binnen de woningcontext.
+De resultaten van de discoveryfase zijn gebaseerd op desk research, [benchmarking](/reports%20and%20protocols/R1.1.pdf) (N=10), [interviews](/reports%20and%20protocols/IRW%20SAMEN.pdf) (N=3) en een online [enquête](/reports%20and%20protocols/REA1.1.pdf) (N=58). Deze combinatie maakte het mogelijk om goede inzichten te krijgen rond voedselverspilling. Uit de desk research bleek dat voedselverspilling voornamelijk op huishoudelijk niveau ontstaat door onzekerheid rond houdbaarheidsdata en een gebrek aan toegankelijke oplossingen binnen de woningcontext.
 
 > * Voedselverspilling is een probleem binnen sustainability at home.
 
 #### Interviews (N=3)
-De personen die werden geïnterviewd zijn personen die reeds een gezin hebben. Ook werd er iemand geïnterviewd die reeds boeken deelt met anderen, dit doet ze door middel van een kast die in de voortuin staat waar je boeken kunt uitnemen en insteken. 
+De personen die geïnterviewd werden zijn mensen die reeds een gezin hebben. Ook werd er iemand geïnterviewd die reeds boeken deelt met anderen, dit doet ze door middel van een kast die in de voortuin staat waar je boeken kunt uitnemen en insteken. 
 De kwalitatieve interviews met wijkbewoners en initiatiefnemers werden geanalyseerd en brachten drie kerninzichten naar voren: 
 * Vertrouwen
 * Voedselveiligheid 
@@ -36,7 +36,9 @@ Tijdens de interviews kwamen ook enkele bezorgdheden aan bod zoals:
 >"Te groot succes kan ook slecht zijn."
 
 * [Interview Protocol Initiatiefnemer](/reports%20and%20protocols/IPI1.1.pdf)
+* [Interview Rapport Initiatiefnemer](/reports%20and%20protocols/IRI1.1.pdf)
 * [Interview Protocol Wijkbewoner](/reports%20and%20protocols/IPW1.1.pdf)
+* [Interview Rapport Wijkbewoner](/reports%20and%20protocols/IRW%20SAMEN.pdf)
 
 Respondenten gaven aan bereid te zijn voedsel te delen als er duidelijke informatie over herkomst, datum en bewaarmethode is. 
 
@@ -57,6 +59,8 @@ De benchmarkanalyse van bestaande initiatieven zoals buurtkasten, voedseldeelpla
 Er zijn weinig bestaande initiatieven die beide gaan combineren. Hierdoor weten we welke zaken we kunnen meenemen in het project en welke zaken we achterwege kunnen laten.
 
 * [Benchmarking Protocol](/reports%20and%20protocols/RP1.1.pdf)
+* [Benchmarking Rapport](/reports%20and%20protocols/R1.1.pdf)
+
 
 #### Enquête (N=58)
 Een meerderheid van de respondenten gaf aan regelmatig eetbaar voedsel weg te gooien, terwijl tegelijk een positieve houding tegenover buurtgerichte deelinitiatieven werd geuit. De bereidheid tot deelname hing sterk samen met de mate van vertrouwen in het systeem. Uit de enquête is ook gebleken dat mensen enige interesse hebben in het systeem.
@@ -68,6 +72,7 @@ Volgende zaken werden ook vermeld:
 Deze inzichten kwamen ook al terug tijdens de interviews en zullen we dus meenemen tijdens het verder ontwikkelen van het project.
 
 * [Enquête Protocol](/reports%20and%20protocols/RE1.1.pdf)
+* [Enquête Rapport](/reports%20and%20protocols/REA1.1.pdf)
 
 ### Conclusies & implicaties
 De discoveryfase toont aan dat voedselverspilling in huishoudens vooral wordt veroorzaakt door onzekerheid en een gebrek aan vertrouwen. 

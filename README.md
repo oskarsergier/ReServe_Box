@@ -110,16 +110,8 @@ In dit project werd AI gebruikt voor het genereren van afbeeldingen en het contr
 * Validatie Pivot
   * [Pivot](/reports%20and%20protocols/VP.pdf)
 
-* MVP
-  * [Rapport MVP](/reports%20and%20protocols/MVP.pdf)
-
-* App test (N=6)
-  * [Ophaal App](/reports%20and%20protocols/PA.pdf)
-  * [Rapport App test](/reports%20and%20protocols/D1AR_SAMEN.pdf)
-
-* Interviews (N=1)
-  * [Interview protcol Cubby](/reports%20and%20protocols/IPC.pdf)
-  * [Interview rapport Cubby](https://cubby.be/)
+* Storyboard (N=2)
+  * [Storyboard](/img/STB_D1_SAMEN.png)
 
 * User flow
   * [User flow](/reports%20and%20protocols/UFR.pdf)
@@ -127,8 +119,16 @@ In dit project werd AI gebruikt voor het genereren van afbeeldingen en het contr
 * Network value
   * [Network value](/img/NV.png)
 
-* Storyboard (N=2)
-  * [Storyboard](/img/STB_D1_SAMEN.png)
+* MVP
+  * [Rapport MVP](/reports%20and%20protocols/MVP.pdf)
+
+* App test (N=6)
+  * [Ophaal App](/reports%20and%20protocols/PA.pdf)
+  * [Rapport App test](/reports%20and%20protocols/D1AR_SAMEN.pdf)
+
+
+
+
 
 ### Develop 2
 * Arduino (N=6)
@@ -149,11 +149,13 @@ In dit project werd AI gebruikt voor het genereren van afbeeldingen en het contr
   * [Leverings App](https://www.figma.com/make/JQcTcU4Be1uQNL2V1ulXEz/Untitled?p=f&t=8YItCzS4Ch5X5GUG-0)
   * [Ophaal App](https://www.figma.com/make/J6ychj6AkGgcx02CEtZITY/Automated-Food-Pickup-App?t=z45hhVviTivWGiIb-1)
 
-* Interview Too Good To Go
-  * [Protocol](/reports%20and%20protocols/IP_TGTG.pdf)
-  * [Rapport]()
 
 ### Develop 3
+
+* Interview Too Good To Go
+  * [Protocol](/reports%20and%20protocols/IP_TGTG.pdf)
+  * [Rapport](/reports%20and%20protocols/IP_Jonas.pdf)
+
 * Ergonomie Motion Sensoren
   * Test hoogte van de interface verticaal
     * [Analyse foto's](/img/MS_Analyse_1.png)
