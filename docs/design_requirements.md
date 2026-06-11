@@ -66,7 +66,7 @@
 |:---|:---|:---|:---:|
 | 3.1 | De kleuren en materialen van de behuizing moeten een gevoel van hygiëne en betrouwbaarheid uitstralen. | [CMF-analyse / Materiaalexpert](/reports%20and%20protocols/CMF.pdf) **/** [Render](/img/CMF_R_SAMEN.png) |✅|
 | 3.2 | Het fysieke product moet naadloos aansluiten op het service-ecosysteem (bijv. een API-koppeling met TGTG of soortgelijke platforms). | [Service design / Expert (Jonas Mallisse)] |❌|
-| 3.3 | De binnenzijde moet gemakkelijk te reinigen zijn en voldoen aan de geldende hygiëne-eisen voor voedsel. | [Voedselveiligheid] |⚠️|
+| 3.3 | De binnenzijde moet gemakkelijk te reinigen zijn en voldoen aan de geldende hygiëne-eisen voor voedsel. | [Voedselveiligheid]BOM |⚠️|
 | 3.5 | De CMF-afwerking mag niet gevoelig zijn voor vingerafdrukken en moet bestand zijn tegen openbare weersomstandigheden. | [CMF-Benchmarking](/reports%20and%20protocols/CMF.pdf) |✅|
 | 3.6 | Op de buitenkant moet duidelijk aangegeven worden wat het concept is van de box. | [Interview gebruikers](/reports%20and%20protocols/ICMF_SAMEN.pdf) |✅|
-| 3.7 | Op de box moeten de instructies in grote lijnen worden gezet, zodat het gebruik van de box duidelijk wordt. | [Interview gebruikers](/reports%20and%20protocols/ICMF_SAMEN.pdf) **/** [Foto Box] |✅|
+| 3.7 | Op de box moeten de instructies in grote lijnen worden gezet, zodat het gebruik van de box duidelijk wordt. | [Interview gebruikers](/reports%20and%20protocols/ICMF_SAMEN.pdf) **/** [Foto Box](/img/Render_ReServeBox.png) |✅|

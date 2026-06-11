@@ -28,7 +28,7 @@ Gebruikersflow: Bij aankomst voert de stedelijke consument zijn unieke code in o
 #### 4. Duurzame en Maatschappelijke Impact
 Met deze unieke benadering lost ReServeBox de logistieke 'last-mile' op voor agro-overschotten. Het geeft producten die anders ondergeploegd of weggegooid zouden worden een tweede leven in de stad. Stedelingen die bewust willen consumeren maar niet over de mobiliteit beschikken om naar een boerderij te rijden, krijgen een laagdrempelig en betrouwbaar instrument in handen om actief bij te dragen aan een duurzamer klimaat. Het resultaat is een efficiëntere voedselketen, een eerlijke bestemming voor de oogst van de boer, en een tastbare reductie van de ecologische voetafdruk op wijkniveau.
 
-![Foto ReServeBox]()
+![Foto ReServeBox](/img/Render_ReServeBox.png)
 <p align="center">
 </p>
 
