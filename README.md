@@ -60,7 +60,7 @@ Een belangrijke sterkte van het traject was de iteratieve werkwijze, waarbij inz
 Toch werd duidelijk dat sommige keuzes in een vroege fase voornamelijk conceptueel onderbouwd zijn en nog verder gevalideerd moeten worden in realistische contexten. Het ontbreken van uitgebreide gebruikerstesten in een echte buurtomgeving vormt hierbij een belangrijke beperking. De verworven inzichten, ontwerpvereisten en materiaalkeuzes vormen een helder vertrekpunt voor verdieping, technische uitwerking en validatie in het tweede semester.
 
 ## Noot inzake het gebruik van AI
-In dit project werd AI gebruikt voor het genereren van afbeeldingen en het controleren van de teksten op zinsbouw en schrijffouten.
+Voor ReServeBox werd AI vooral gebruikt ter ondersteuning van de documentatie, visualisatie en communicatie van het project. AI diende als hulpmiddel voor betere structurering, visualisering en voor spellingsfouten en zinsbouw.
 
 ## Bijlagen
 ### Discovery
