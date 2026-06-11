@@ -59,6 +59,20 @@ Een belangrijke sterkte van het traject was de iteratieve werkwijze, waarbij inz
 
 Toch werd duidelijk dat sommige keuzes in een vroege fase voornamelijk conceptueel onderbouwd zijn en nog verder gevalideerd moeten worden in realistische contexten. Het ontbreken van uitgebreide gebruikerstesten in een echte buurtomgeving vormt hierbij een belangrijke beperking. De verworven inzichten, ontwerpvereisten en materiaalkeuzes vormen een helder vertrekpunt voor verdieping, technische uitwerking en validatie in het tweede semester.
 
+Het ontwikkelingsproces van ReServeBox was een leerrijk en iteratief traject waarin het concept sterk geëvolueerd is. In het begin vertrokken we vanuit het idee van een buurtgerichte voedseldeelbox waarin bewoners zelf voedseloverschotten konden plaatsen en ophalen. Dit idee sloot goed aan bij de oorspronkelijke duurzaamheidsdoelstelling, maar tijdens het onderzoek werd duidelijk dat voedselveiligheid, vertrouwen en controle veel grotere uitdagingen vormden dan eerst gedacht.
+
+Een belangrijk kantelpunt in het project was daarom de pivot van een open buurtvoedselkast naar een gecontroleerd lockersysteem in samenwerking met een externe partner zoals Too Good To Go. Deze keuze maakte het concept realistischer, omdat voedselpakketten niet langer door willekeurige gebruikers worden samengesteld, maar door professionele partners. Hierdoor konden we de focus verleggen naar een veiligere en betrouwbaardere serviceflow: pakketten reserveren via een app, ophalen via een unieke code en bewaren in lockers.
+
+Deze pivot was inhoudelijk waardevol, maar zorgde er ook voor dat we tijdelijk achterstand opliepen. Een groot deel van het eerdere onderzoek en ontwerpwerk moest opnieuw worden bekeken vanuit het nieuwe concept. Achteraf gezien hadden we de haalbaarheid van het oorspronkelijke idee vroeger kritischer kunnen aftoetsen, bijvoorbeeld door sneller experten, online papers rond gelijkaardige concepten of organisaties rond voedselherverdeling te betrekken. Tegelijk maakte deze bijsturing het eindconcept wel sterker en beter onderbouwd.
+
+Tijdens het project leerden we hoe belangrijk het is om niet enkel te ontwerpen vanuit een goed idee, maar ook vanuit de bredere context waarin het product gebruikt wordt. Voedselherverdeling gaat niet alleen over technologie of opslag, maar ook over vertrouwen, logistiek, verantwoordelijkheid en gebruikerservaring. De gebruikerstesten met de app en het keypad maakten dit duidelijk. Gebruikers hadden nood aan directe feedback, duidelijke bevestigingen en een eenvoudig proces zonder twijfel. Vooral de toevoeging van een display bij het keypad toonde hoe kleine interactie-elementen een groot verschil kunnen maken in gebruiksgemak en vertrouwen.
+
+Ook de ergonomische analyse in CAD/NX was waardevol. Door het lockersysteem te testen met Human Jack konden we ontwerpkeuzes zoals de hoogte van het keypad en display beter onderbouwen. Dit hielp om het product niet alleen technisch werkbaar, maar ook fysiek toegankelijker te maken voor een brede doelgroep.
+
+Ook de mogelijke samenwerking met Waste Warriors kwam pas laat in beeld door een uitgesteld interview. Deze piste lijkt inhoudelijk zeer interessant, omdat Waste Warriors sterker focust op echte overschotten van boeren en producenten.
+
+Algemeen heeft ReServeBox ons geleerd dat een goed ontwerp niet ontstaat door vast te houden aan het eerste idee, maar door kritisch te blijven testen, bij te sturen, durven je concept een andere wending geven en keuzes te onderbouwen. De grootste sterkte van het project ligt in de evolutie van een breed duurzaamheidsidee naar een concreet digitaal en fysiek product-service system. De grootste uitdaging blijft de verdere technische integratie, de keuze van de juiste partner en het testen van het systeem in een realistische gebruikscontext.
+
 ## Noot inzake het gebruik van AI
 Voor ReServeBox werd AI vooral gebruikt ter ondersteuning van de documentatie, visualisatie en communicatie van het project. AI diende als hulpmiddel voor betere structurering, visualisering en voor spellingsfouten en zinsbouw.
 
