@@ -126,10 +126,6 @@ In dit project werd AI gebruikt voor het genereren van afbeeldingen en het contr
   * [Ophaal App](/reports%20and%20protocols/PA.pdf)
   * [Rapport App test](/reports%20and%20protocols/D1AR_SAMEN.pdf)
 
-
-
-
-
 ### Develop 2
 * Arduino (N=6)
   * [Testprotocol Arduino](/reports%20and%20protocols/TPA.pdf)
@@ -177,7 +173,7 @@ In dit project werd AI gebruikt voor het genereren van afbeeldingen en het contr
   * [Testen](/reports%20and%20protocols/ICMF_SAMEN.pdf)
 
 * Render CMF
-  * [Render](/img/CMF_R_SAMEN.png)
+  * [Render](/img/CMF_R_SAMEN.jpg)
 
 ## Licentie 
 

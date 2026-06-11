@@ -182,17 +182,12 @@ Resultaten:
 * Geen extreme houdingen nodig
 * Interface is bereikbaar voor volledige doelgroep
 
-P5
-![alt text](/img/P5.png)
+
+![P5_P95](/img/P5_P95.jpg)
 
 <p align="center">
 </p>
 
-P95
-![alt text](/img/p95.png)
-
-<p align="center">
-</p>
 
 Conclusie:
 De gekozen plaatsing van het touchpad en display is ergonomisch verantwoord en inclusief.
