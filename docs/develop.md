@@ -13,22 +13,22 @@ Vandaar dat de pivot gemaakt werd om samen te werken met Too Good To Go waar zij
 ## Develop 1
 Tijdens de Develop 1 fase werd gestart met het concretiseren en fysiek ontwikkelen van het concept. In deze fase wordt het ontwerp verder uitgewerkt naar een technisch realiseerbare oplossing, waarbij zowel de digitale interactie (app) als de fysieke infrastructuur (lockers) werden ontwikkeld.
 ### Voorgaande analyse
-#### User flow
-Voor de verdere uitwerking van het concept werd eerst de volledige interactiestroom in kaart gebracht. De analyse beschrijft de opeenvolgende stappen voor zowel de gebruiker als de partner die pakketten in het lockersysteem plaatst. Deze user flow fungeert als basis voor de informatiearchitectuur, de app-structuur en de fysieke interactie met de lockerinterface. 
+* #### User flow
+    Voor de verdere uitwerking van het concept werd eerst de volledige interactiestroom in kaart gebracht. De analyse beschrijft de opeenvolgende stappen voor zowel de gebruiker als de partner die pakketten in het lockersysteem plaatst. Deze user flow fungeert als basis voor de informatiearchitectuur, de app-structuur en de fysieke interactie met de lockerinterface. 
 ![User flow](/img/UFR.jpg) 
 
 <p align="center"> 
 </p>
 
-#### Value network analysis
-Nadat de user flow schema's opgesteld waren werd er nog een value network analysis opgesteld.
+* #### Value network analysis
+    Nadat de user flow schema's opgesteld waren werd er nog een value network analysis opgesteld.
 ![Value network](/img/NV.png) 
 
 <p align="center"> 
 </p>
 
-#### Storyboards
-Om een concreet inzicht te verkrijgen hoe het nieuwe concept in zijn werking zou gaan werden de storyboard van de definition fase verbeterd en meer in detail uitgewerkt. 
+* #### Storyboards
+    Om een concreet inzicht te verkrijgen hoe het nieuwe concept in zijn werking zou gaan werden de storyboard van de definition fase verbeterd en meer in detail uitgewerkt. 
 ![Storyboard](/img/STB_D1_SAMEN.png) 
 
 <p align="center"> 
@@ -54,8 +54,10 @@ De app laat gebruikers toe om volgende zaken uit te voeren:
 
 Nadat de app afgewerkt was werden er testen gedaan om de observeren hoe de gebruikers deze ervaren en wat ze ervan vinden. Om de gebruiksvriendelijkheid van de app te evalueren werden er interviews afgelegd met gebruikers van diverse leeftijden zodat de app voor iedereen zo gebruiksvriendelijk mogelijk is. 
 
+* [Testen app](/reports%20and%20protocols/IR_I_SAMEN.pdf)
+
 ### Resultaten testen
-De validatiefase onderzocht in welke mate de voorgestelde interactie begrijpelijk, toegankelijk en betrouwbaar werd ervaren. Bij de app-evaluatie werd nagegaan of gebruikers de reservatieflow zelfstandig konden doorlopen, of de belangrijkste acties duidelijk zichtbaar waren en of de afhaalcode correct werd geïnterpreteerd. Bij de lockerinteractie werd nagegaan of keypad, display en feedbackmechanismen voldoende duidelijkheid boden tijdens de invoer van de code. De resultaten tonen aan dat visuele feedback essentieel is voor vertrouwen in het systeem en dat bijkomende begeleiding nodig blijft voor gebruikers met lagere digitale routine.
+De validatiefase onderzocht in welke mate de voorgestelde interactie begrijpelijk, toegankelijk en betrouwbaar werd ervaren. Bij de app-evaluatie werd nagegaan of gebruikers de reservatieflow zelfstandig konden doorlopen, of de belangrijkste acties duidelijk zichtbaar waren en of de afhaalcode correct werd geïnterpreteerd. 
 
 De gebruikerstesten wezen op een overwegend positieve waardering van de app. De testresultaten tonen een snellere taakuitvoering bij jongere deelnemers, oudere deelnemers vroegen vaker ondersteuning. Als laatste werd gevraagd welke score de gebruikers de app gaven en deze lag tussen de 3-4.5 op 5. 
 
@@ -180,14 +182,14 @@ Resultaten:
 * Geen extreme houdingen nodig
 * Interface is bereikbaar voor volledige doelgroep
 
-P95
-![alt text](/img/p95.png)
+P5
+![alt text](/img/P5.png)
 
 <p align="center">
 </p>
 
-P5
-![alt text](/img/P5.png)
+P95
+![alt text](/img/p95.png)
 
 <p align="center">
 </p>
@@ -220,6 +222,8 @@ Observaties:
 >“Ik weet niet of ik het juist heb ingevoerd.”
 > “Een 6-cijferige code is goed maar ik zou graag feedback krijgen bij het invoeren ervan.”
 
+* [Testen zonder display](/reports%20and%20protocols/TPAZ_SAMEN.pdf)
+
 Test 2 – Keypad + display
 
 In de tweede test werd een display toegevoegd. Hier kunnen de gebruikers dus de code zien die ze invoeren.
@@ -248,6 +252,8 @@ Toekomstige aanpassingen:
 * Limiet op aantal foutieve pogingen
 * (Reset- of blokkeermechanisme bij misbruik)
 
+[Testen zonder display](/reports%20and%20protocols/TPAM_SAMEN.pdf)
+
 ### Conclusie Develop 2
 
 De Develop 2 fase leidde tot een sterke verbetering van de gebruikservaring van de ReServeBox.
@@ -259,6 +265,7 @@ Belangrijkste realisaties:
 * Validatie van interactie via gebruikerstesten
 * Belangrijke inzichten rond feedback en veiligheid
 
+Bij de lockerinteractie werd nagegaan of keypad, display en feedbackmechanismen voldoende duidelijkheid boden tijdens de invoer van de code. De resultaten tonen aan dat visuele feedback essentieel is voor vertrouwen in het systeem en dat bijkomende begeleiding nodig blijft voor gebruikers met lagere digitale routine.
 ## Develop 3
 
 
