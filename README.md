@@ -49,8 +49,9 @@ De randvoorwaarden van het ReServeBox-project zijn scherp gedefinieerd: de fysie
 2. [Discovery](./docs/discovery.md)
 3. [Definition](./docs/definition.md)
 4. [Develop](./docs/develop.md)
-5. [Design Requirements](./docs/design_requirements.md)
-6. [Bill of materials](./docs/bom.md)
+5. [Conclusie](./docs/conclusie.md)
+6. [Design Requirements](./docs/design_requirements.md)
+7. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
 Het ontwikkelingsproces van ReServeBox was een leerrijk en iteratief traject waarin het concept sterk geëvolueerd is. In het begin vertrokken we vanuit het idee van een buurtgerichte voedseldeelbox waarin bewoners zelf voedseloverschotten konden plaatsen en ophalen. Dit idee sloot goed aan bij de oorspronkelijke duurzaamheidsdoelstelling, maar tijdens het onderzoek werd duidelijk dat voedselveiligheid, vertrouwen en controle veel grotere uitdagingen vormden dan eerst gedacht.
@@ -161,6 +162,8 @@ Voor ReServeBox werd AI vooral gebruikt ter ondersteuning van de documentatie, v
   * [Rapport](/reports%20and%20protocols/IP_Jonas.pdf)
 
 * Ergonomie Motion Sensoren
+  * [Analyse van de 3 testen](/reports%20and%20protocols/Ergonomie%20motion%20sensoren.pdf)
+
   * Test hoogte van de interface verticaal
     * [Analyse foto's](/img/MS_Analyse_1.png)
     * [Analyse bestand](https://ugentbe.sharepoint.com/:x:/r/teams/Group.course1292885/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B1b20c718-aca5-4eb0-95a8-719531cd8a7e%7D&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=ac628225-81b6-4d36-a52a-40a844b3bf80)

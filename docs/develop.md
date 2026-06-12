@@ -84,6 +84,11 @@ Naast de app werd ook gestart met de technische ontwikkeling van het lockersyste
 * Verbindingsdraden
 * Breadboard
 
+![Test opstelling]() 
+
+<p align="center"> 
+</p>
+
 Meer informatie over de code die hiervoor gebruikt wordt kun je vinden bij: [Tests](../tests/README.md)
 
 ### Testen van het lockersysteem
@@ -249,6 +254,11 @@ Toekomstige aanpassingen:
 
 [Testen zonder display](/reports%20and%20protocols/TPAM_SAMEN.pdf)
 
+![Foto met testpersoon]() 
+
+<p align="center"> 
+</p>
+
 ### Conclusie Develop 2
 
 De Develop 2 fase leidde tot een sterke verbetering van de gebruikservaring van de ReServeBox.
@@ -261,11 +271,61 @@ Belangrijkste realisaties:
 * Belangrijke inzichten rond feedback en veiligheid
 
 Bij de lockerinteractie werd nagegaan of keypad, display en feedbackmechanismen voldoende duidelijkheid boden tijdens de invoer van de code. De resultaten tonen aan dat visuele feedback essentieel is voor vertrouwen in het systeem en dat bijkomende begeleiding nodig blijft voor gebruikers met lagere digitale routine.
+
 ## Develop 3
 
+In Develop 3 verschoof de focus van de functionele werking en basis-usability naar de verdere verfijning van de gebruikservaring, ergonomie en uitstraling van de ReServeBox. In deze fase werd onderzocht hoe het systeem niet enkel correct werkt, maar ook comfortabel, betrouwbaar en professioneel aanvoelt voor de gebruiker.
+
+Binnen deze fase werden twee grote onderdelen verder uitgewerkt:
+
+* een ergonomische test met motion sensoren
+* een CMF-analyse voor de vormgeving en uitstraling van de box.
+
+Daarnaast werd ook de mogelijke servicecontext verder aangescherpt op basis van een interview met Too Good To Go, waaruit Waste Warriors als interessante toekomstige partner naar voren kwam.
+
+### Ergonomische analyse (met motion sensoren)
+Om de ergonomie van het lockersysteem verder te valideren, werd een bijkomende test uitgevoerd met motion sensoren. Waar de eerdere analyse in Siemens NX vooral gebruikt werd om de interface digitaal te simuleren, werd in Develop 3 gekeken naar de bewegingen van echte gebruikers tijdens de interactie met het prototype.
+
+Tijdens deze test werden drie situaties onderzocht:
+
+* De hoogte van display en keypad bij een verticale interface
+* Het openen van de lockers en het uitnemen van producten
+* De hoogte van display en keypad bij een hellende interface
+#### Doelstelling
+Het doel van deze test was om te bepalen welke opstelling de minste fysieke belasting veroorzaakt en welke interactie het meest comfortabel aanvoelt tijdens realistisch gebruik.
+
+#### Analyse 1: verticale interface
+
+![Analyse 3](/img/MS_Analyse_1.png)
+
+<p align="center">
+</p>
+
+#### Analyse 2: openen en inreiken in de lockers
+
+![Analyse 2](/img/MS_Analyse_2.png)
+
+<p align="center">
+</p>
+
+#### Analyse 3: hellende interface
+
+![Analyse 3](/img/MS_Analyse_3.png)
+
+<p align="center">
+</p>
 
 
+#### Resultaten
 
+
+### CMF
+
+
+### Waste warriors
+
+
+## Conclusie Develop 3
 
 
 > [!IMPORTANT]
