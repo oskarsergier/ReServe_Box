@@ -15,17 +15,12 @@ Tijdens de Develop 1 fase werd gestart met het concretiseren en fysiek ontwikkel
 ### Voorgaande analyse
 * #### User flow
     Voor de verdere uitwerking van het concept werd eerst de volledige interactiestroom in kaart gebracht. De analyse beschrijft de opeenvolgende stappen voor zowel de gebruiker als de partner die pakketten in het lockersysteem plaatst. Deze user flow fungeert als basis voor de informatiearchitectuur, de app-structuur en de fysieke interactie met de lockerinterface. 
-![User flow](/img/UFR.jpg) 
-
-<p align="center"> 
-</p>
+    [User flow](/reports%20and%20protocols/UFR.pdf)
 
 * #### Value network analysis
-    Nadat de user flow schema's opgesteld waren werd er nog een value network analysis opgesteld.
-![Value network](/img/NV.png) 
+    De Value Network Analysis toont hoe verschillende actoren binnen ReServeBox samen waarde creëren. Het systeem verbindt voedselproducenten of partners zoals Waste Warriors met stedelijke gebruikers via een slim lockersysteem en een digitale applicatie. Voedseloverschotten krijgen hierdoor opnieuw waarde, terwijl gebruikers op een eenvoudige en toegankelijke manier voedselpakketten kunnen ophalen.
 
-<p align="center"> 
-</p>
+    [Value network analysis](/img/NV.png) 
 
 * #### Storyboards
     Om een concreet inzicht te verkrijgen hoe het nieuwe concept in zijn werking zou gaan werden de storyboard van de definition fase verbeterd en meer in detail uitgewerkt. 
