@@ -291,15 +291,27 @@ Tijdens deze test werden drie situaties onderzocht:
 * De hoogte van display en keypad bij een verticale interface
 * Het openen van de lockers en het uitnemen van producten
 * De hoogte van display en keypad bij een hellende interface
+
+Dit werd gestest met bestaande lockers en de interface van de display en keypad.
 #### Doelstelling
 Het doel van deze test was om te bepalen welke opstelling de minste fysieke belasting veroorzaakt en welke interactie het meest comfortabel aanvoelt tijdens realistisch gebruik.
 
 #### Analyse 1: verticale interface
-
+In de eerste analyse werd getest hoe gebruikers het display en keypad bedienen wanneer de interface verticaal geplaatst is.  
 ![Foto test 1](/img/Foto_Analyse_1.jpg)
 
 <p align="center">
 </p>
+
+De totale score bedraagt 27, wat valt binnen de zone matig verhoogd risico. Dit betekent dat de interface in deze positie bruikbaar is, maar dat er nog aandachtspunten zijn. 
+
+Belangrijke observaties: 
+
+* De nekbelasting is verhoogd door de kijkhoek naar het display.  
+* De armen worden deels geheven tijdens het bedienen van het keypad.  
+* De onderarmen moeten roteren tijdens het invoeren van de code.  
+
+Gebruikers moeten bij deze opstelling iets meer corrigeren met hun hoofd en armen om het display te lezen en het keypad te bedienen. Een verticale interface is mogelijk, maar niet ideaal. De leeshoek en bedieningshouding kunnen beter. 
 
 ![Analyse 1](/img/MS_Analyse_1.png)
 
@@ -307,12 +319,22 @@ Het doel van deze test was om te bepalen welke opstelling de minste fysieke bela
 </p>
 
 #### Analyse 2: openen en inreiken in de lockers
-
+In de tweede analyse werd getest hoe gebruikers de lockers openen en producten uit de compartimenten nemen.
 
 ![Foto test 2](/img/Foto_Analyse_2.jpg)
 
 <p align="center">
 </p>
+
+Deze situatie behaalde een totale score van 33,75, wat binnen de zone van een significant verhoogd risico valt. Deze test bleek ergonomisch het meest belastend. 
+
+Belangrijke observaties: 
+* De gebruiker moet meer reiken en draaien.  
+* Er ontstaat meer belasting op armen en schouders.  
+* Boven-schouderwerk en armheffing komen vaker voor.  
+* Ook kniebuiging en romprotatie nemen toe.
+
+Het openen en inreiken in de lockers vormt de grootste ergonomische uitdaging binnen het ontwerp. Vooral de diepte, hoogte en indeling van de lockers moeten verder geoptimaliseerd worden. De meest gebruikte lockers worden best geplaatst binnen een comfortabele reikzone
 
 ![Analyse 2](/img/MS_Analyse_2.png)
 
@@ -321,28 +343,92 @@ Het doel van deze test was om te bepalen welke opstelling de minste fysieke bela
 
 #### Analyse 3: hellende interface
 
-![Foto test 3]()
+In de derde analyse werd het display en keypad opnieuw getest, maar dit keer onder een hoek geplaatst.
+
+![Foto test 3](/img/Foto_Analyse_3.PNG)
 
 <p align="center">
 </p>
+
+Deze opstelling behaalt een totale score van 25,75, de laagste score van de drie analyses. Dit betekent dat deze variant ergonomisch het meest gunstig is. De hellende interface zorgde voor een natuurlijkere houding tijdens het bedienen van het keypad en het aflezen van het display.
+
+Belangrijke observaties: 
+* Romprotatie en zijwaartse rompbuiging blijven laag.  
+* De algemene lichaamshouding is comfortabeler.  
+* Pols- en kniebelasting blijven beperkt.  
+* De helling helpt om de interface beter zichtbaar en bereikbaar te maken.  
+
+Er blijven wel enkele aandachtspunten: 
+* Nekbuiging blijft aanwezig.  
+* Onderarmrotatie, vooral rechts (afhankelijk van de dominante hand), blijft verhoogd.  
+* De armhouding kan nog verder worden verbeterd.  
+
+De hellende interface is ergonomisch de beste basis voor verdere ontwikkeling. Deze opstelling ondersteunt een comfortabelere kijk- en bedieningshouding dan een volledig verticale interface. 
 
 ![Analyse 3](/img/MS_Analyse_3.png)
 
 <p align="center">
 </p>
 
+[Ergnomie analyse](/reports%20and%20protocols/Ergonomie_motion_sensoren.pdf)
 
 #### Resultaten
+De vergelijking tussen de drie analyses toont dat de hellende interface de beste ergonomische resultaten geeft. Analyse 3 behaalt de laagste totale score en biedt de meest comfortabele houding voor het bedienen van keypad en display. 
 
+De grootste ergonomische uitdaging ligt echter bij het openen en inreiken in de lockers. Analyse 2 toont aan dat dit meer fysieke belasting veroorzaakt dan het bedienen van de interface. Daarom moeten vooral de lockerhoogte, lockerindeling en reikdiepte verder geoptimaliseerd worden.
+
+Op basis van deze resultaten worden volgende keuzes aanbevolen: 
+* Keypad en display worden best licht onder een hoek geplaatst.  
+* De interface moet binnen een comfortabele reikhoogte blijven.  
+* Het display moet goed leesbaar zijn zonder sterke nekbuiging.  
+* Lockers mogen niet te diep zijn.  
+* De meest gebruikte lockers moeten op middelhoge hoogte geplaatst worden.  
+* Te hoge en te lage lockers moeten vermeden worden voor zware of kwetsbare pakketten.  
+* Er moet voldoende ruimte voor de box zijn zodat gebruikers recht voor de locker kunnen staan.  
 
 ### CMF
+Naast de ergonomische optimalisatie werd in Develop 3 ook een CMF-analyse uitgevoerd. CMF staat voor Color, Material & Finish. Deze analyse werd gebruikt om de uitstraling van de ReServeBox doelgericht te verfijnen. 
+
+Omdat de ReServeBox in een publieke omgeving geplaatst wordt, moet het product tegelijk: 
+* betrouwbaar ogen;
+* hygiënisch aanvoelen 
+* robuust en vandalismebestendig zijn
+* duurzaamheid uitstralen
+* laagdrempelig blijven voor een brede doelgroep 
+
+Op basis van de CMF-analyse werden verschillende visuele richtingen vergeleken. Hierbij werd gekeken naar welke uitstraling het best past bij de ReServeBox als publiek lockersysteem voor voedseloverschotten. 
+De gekozen richting combineert: 
+* een cleane, lichte basis 
+* duurzame groene accenten 
+* een duidelijke en contrasterende interfacezone 
+* matte, onderhoudsvriendelijke oppervlakken 
+* subtiele LED-feedback om de interactie te ondersteunen
+* Deze combinatie ondersteunt de gewenste beleving: betrouwbaar, hygiënisch, duurzaam en toegankelijk 
+
+
+![Analyse 3](/img/CMF_R_SAMEN.jpg)
+
+<p align="center">
+</p>
+
+[CMF ananlyse](/reports%20and%20protocols/CMF_Analyse.pdf)
 
 
 ### Waste warriors
+Tijdens Develop 3 werd ook de bredere servicecontext verder aangescherpt. Een belangrijk inzicht kwam naar voren uit een interview dat oorspronkelijk gelinkt was aan Too Good To Go. Hieruit bleek dat ReServeBox inhoudelijk mogelijk sterker aansluit bij Waste Warriors, omdat zij focussen op overschotten van boeren en producenten. In plaats van enkel voedselpakketten van winkels of horeca aan te bieden, zou ReServeBox kunnen functioneren als stedelijk afhaalpunt voor agro-overschotten die via een organisatie zoals Waste Warriors worden gecentraliseerd. 
 
+[Interview](/reports%20and%20protocols/IP_Jonas.pdf)
 
 ## Conclusie Develop 3
+Develop 3 zorgde voor een verdere verfijning van de ReServeBox op vlak van ergonomie, uitstraling en servicecontext. 
 
+De belangrijkste conclusies zijn: 
+* Een hellende interface is ergonomisch beter dan een verticale interface 
+* Het openen en inreiken in lockers blijft de grootste ergonomische uitdaging 
+* Lockerhoogte, lockerindeling en reikdiepte moeten verder geoptimaliseerd worden 
+* De CMF-richting moet vertrouwen, hygiëne en duurzaamheid uitstralen 
+* Een lichte, cleane box met groene accenten sluit het best aan bij de gewenste productbeleving 
+* Waste Warriors vormt een interessante toekomstige partner omdat zij dichter aansluit bij voedseloverschotten van boeren en producenten 
 
 > [!IMPORTANT]
 > ## Design Requirements
