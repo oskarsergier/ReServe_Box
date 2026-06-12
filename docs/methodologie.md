@@ -46,7 +46,7 @@ In Develop 3 werd het product verder verfijnd op vlak van UX, service design en 
 
 Er werd een CMF-analyse uitgevoerd. Hierbij werden kleuren, materialen en afwerkingen onderzocht. De uitstraling van de box moest tegelijk professioneel, hygiënisch, betrouwbaar en duurzaam aanvoelen. Er werd gekeken naar benchmarks zoals onderandere: Hyundai Ioniq (automotive design), Prusa 3D Printer, Paddel racket automaat, Bancontact automaat, Elektrisch oplaadstation, ... De werden gebruikt als referentie voor de vorm, materiaal, gebruik en emotie.
 
-### Mogelijke verdere ontwikkeling (Waste Warriors)
+### Verdere ontwikkeling (Waste Warriors)
 Tijdens de verdere ontwikkeling van ReServeBox kwam Waste Warriors pas laat in beeld. Dit kwam doordat een gepland interview met een contactpersoon gelinkt aan Too Good To Go werd uitgesteld. Toen dit interview uiteindelijk plaatsvond, gaf de geïnterviewde aan dat ReServeBox mogelijk beter zou aansluiten bij een organisatie zoals Waste Warriors.
 
 De reden hiervoor is dat Waste Warriors zich sterker richt op het herverdelen van echte voedseloverschotten uit de primaire voedselketen, zoals agro-overschotten. Dit sluit inhoudelijk nauw aan bij de oorspronkelijke missie van ReServeBox: voedselverspilling verminderen door overschotten op een veilige, toegankelijke en lokale manier opnieuw beschikbaar te maken.
