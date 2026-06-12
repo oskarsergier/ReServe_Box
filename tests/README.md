@@ -1,18 +1,19 @@
 ## Arduino tests
-Via de app van ReServeBox wordt er een code ontvangen die je nadien kunt ingeven op een keypad aan de lockers. Om dit principe te testen wordt er gebruik gemaakt van een arduino uno, de 12-Channel Capacitive Touch Keypad (ATtiny1616) en wat verbindingsdraden. 
+Via de ReServeBox-app ontvangt de gebruiker een unieke code die vervolgens op het keypad aan de lockers kan worden ingevoerd. Om dit principe technisch te testen, werd gebruikgemaakt van een Arduino Uno, de 12-Channel Capacitive Touch Keypad (ATtiny1616) en verbindingsdraden.
 
 ### Voorbeeld code keypad
-Vooralleer er begonnen werd met programmeren werd er informatie opgezocht over de keypad die gebruikt wordt. ([Info](../README.md#Keypad)) Bij deze pagina werd er ook een voorbeeldcode meegegeven om te testen indien de keypad werkt. Tijdens het testen werden er enkele problemen vastgesteld:
-* Indien de informatie gevolgd werd over de keypad, dan werd er geen info ingelezen in de seriële monitor (er kwam altijd een error op).
-Dit kwam omdat de TX pin van de keypad aangesloten was op de TX pin van de arduino en idem voor de RX pin. Dit kwam omdat de twee pinnen die informatie (TX) versturen aan elkaar geschakeld waren en kreeg de keypad geen informatie binnen, idem voor de RX pinnen. Dus werd de conclusie gemaakt dat de draden verwisseld moesten worden. 
-We kregen telkens volgende error:
+Voorafgaand aan het programmeren werd informatie verzameld over de gebruikte keypad. ([Info](../README.md#Keypad)) Op deze pagina werd ook een voorbeeldcode meegegeven om de basiswerking van de keypad te controleren. Tijdens het testen werden enkele technische problemen vastgesteld:
+
+* Wanneer de documentatie van de keypad rechtstreeks werd gevolgd, werd er geen data weergegeven in de seriële monitor. In plaats daarvan verscheen telkens een foutmelding.
+Dit probleem werd veroorzaakt doordat de TX-pin van de keypad verbonden was met de TX-pin van de Arduino en de RX-pin met de RX-pin. Hierdoor waren twee zendpinnen en twee ontvangstpinnen met elkaar verbonden, waardoor er geen correcte datacommunicatie tot stand kwam. De verbindingen moesten daarom worden gekruist: TX naar RX en RX naar TX.
+De volgende foutmelding werd herhaaldelijk weergegeven:
 ![alt text](/img/Error.png)
 
 <p align="center">
 </p>
 
-* Tijdens het testen verkregen we enkel hokjes te zien op de        seriële monitor. 
-Dit probleem was er omdat de draden geschakeld waren op de pinnen TX en RX. Deze twee poorten zorgen ervoor dat er data van de keypad naar de arduino gestuurd kan worden en omgekeerd. Dit zorgde er voor dat de arduino zegmaar twee seriële monitoren had en deze werkten elkaar tegen. Na enkele testen werd er vastgesteld dat de TX en RX pinnen moesten gewijzigd worden door de pinnen 2 en 3 op de arduino.
+* Tijdens een volgende test verschenen enkel onleesbare tekens in de seriële monitor.
+Dit probleem ontstond doordat de communicatie aanvankelijk via de hardwarematige TX- en RX-pinnen van de Arduino verliep. Deze poorten worden ook gebruikt voor seriële communicatie met de computer, waardoor conflicten ontstonden tussen de keypadcommunicatie en de seriële monitor. Na verdere testen werd vastgesteld dat de communicatie stabieler verliep wanneer de TX- en RX-verbindingen werden verplaatst naar digitale pinnen 2 en 3 op de Arduino.
 ![alt text](/img/hok.png)
 
 <p align="center">
@@ -26,9 +27,10 @@ Dit probleem was er omdat de draden geschakeld waren op de pinnen TX en RX. Deze
 * [Voorbeeld code](/tests/Voorbeeld%20code/Vb_code_touch_pad/Vb_code_touch_pad.ino)
 
 ### Code lockers
-Om de lockers te kunnen openen met de keypad werd de voorbeeldcode aangepast naar een code die gebruikt kan worden om lockers open te doen die na een bepaalde tijd weer sluit. De code is ook voorzien van een knop die controleert indien de code correct is (Dit is de "#" op de keypad). Ook is deze voorzien van een knop om de code te wissen indien de foute code ingegeven werd. (Dit is het "*" op de keypad)
-* Om te controleren als de code effectief werkt werd er gebruik gemaakt van een led die zal oplichten indien de locker opent. 
-* Het enige probleem waar we nog nog mee zitten is om de code binnen te lezen rechtstreeks van de app. Nu werkt het enkel met cijfercode die voorgeprogrameerd is.
+Om de lockers via het keypad te kunnen openen, werd de voorbeeldcode aangepast naar een code die gebruikt kan worden om een locker gedurende een bepaalde tijd te ontgrendelen. De code bevat een bevestigingsknop om te controleren of de ingevoerde code correct is. Hiervoor wordt de “#”-toets op de keypad gebruikt. Daarnaast werd een wistoets voorzien om de ingevoerde code te verwijderen wanneer een foutieve code werd ingevoerd. Hiervoor wordt de “*”-toets gebruikt.
+
+* Om te controleren of de code correct functioneert, werd een LED gebruikt die oplicht wanneer de locker opent. 
+* Een resterend aandachtspunt is de rechtstreekse koppeling tussen de app en het lockersysteem. In de huidige testopstelling werkt het systeem met een vooraf geprogrammeerde cijfercode, maar de code wordt nog niet rechtstreeks vanuit de app ingelezen.
 
 ![alt text](/img/OP2.jpg)
 
@@ -40,15 +42,15 @@ Om de lockers te kunnen openen met de keypad werd de voorbeeldcode aangepast naa
 
 ### Voorbeeld code display
 
-Tijdens de ontwikkeling van de Arduino-code voor het ReServeBox-project traden er fouten op bij het integreren van de code voor de LCD-Display in de bestaande code. Deze foutmeldingen verschenen pas wanneer de LCD-code werd toegevoegd aan de reeds werkende code.
+Tijdens de ontwikkeling van de Arduino-code voor het ReServeBox-project traden er fouten op bij het integreren van de LCD-displaycode in de bestaande keypadcode. Deze foutmeldingen verschenen pas wanneer de LCD-code werd toegevoegd aan de reeds functionerende keypadcode.
 
-Om de oorzaak te achterhalen, werden alle componenten opnieuw afzonderlijk getest. In deze fase functioneerde elk onderdeel, inclusief de LCD en keypad, correct met hun voorbeeld code.
+Om de oorzaak te achterhalen, werden alle componenten opnieuw afzonderlijk getest. In deze fase functioneerde elk onderdeel, inclusief de LCD en de keypad, correct met de respectieve voorbeeldcode.
 
-Bij het opnieuw samenvoegen van de verschillende codes ontstonden echter weer problemen. Later bleek dat er twee regels code ontbraken. Na het corrigeren hiervan bleef de compiler foutmeldingen geven. Er werd specifiek aangegeven dat er in het begin van de code een puntkomma ontbrak.
+Bij het opnieuw samenvoegen van de verschillende codeonderdelen ontstonden echter opnieuw problemen. Later bleek dat twee noodzakelijke regels code ontbraken. Na het corrigeren hiervan bleef de compiler foutmeldingen geven. De foutmelding gaf aan dat er aan het begin van de code een puntkomma ontbrak.
 
-Wanneer deze puntkomma op de aangeduide plaats werd toegevoegd, resulteerde dit in meerdere bijkomende foutmeldingen. Eén van deze fouten verwees naar een regel binnen de keypad-code, hoewel deze code afzonderlijk wel correct werkte.
+Wanneer deze puntkomma op de aangeduide plaats werd toegevoegd, ontstonden meerdere bijkomende foutmeldingen. Eén van deze fouten verwees naar een regel binnen de keypadcode, hoewel deze code afzonderlijk correct functioneerde.
 
-Na verdere analyse (met ondersteuning van AI) werd vastgesteld dat de werkelijke oorzaak zich onderaan de code bevond, waar effectief een puntkomma ontbrak. Na het toevoegen van deze ontbrekende puntkomma verdwenen alle foutmeldingen en functioneerde de geïntegreerde code correct.
+Na verdere analyse, met ondersteuning van AI, werd vastgesteld dat de werkelijke oorzaak zich onderaan de code bevond, waar effectief een puntkomma ontbrak. Na het toevoegen van deze ontbrekende puntkomma verdwenen de foutmeldingen en functioneerde de geïntegreerde code correct.
 
 Tot slot werd bijkomende feedback toegepast om de code te optimaliseren en de leesbaarheid te verbeteren.
 
@@ -63,11 +65,11 @@ Tot slot werd bijkomende feedback toegepast om de code te optimaliseren en de le
 
 ### Eind code
 
-Na het oplossen van alle initiële fouten werd de code verder verfijnd volgens de wensen van de gebruiker. Zo werd er gevraagd om een beveiliging in te bouwen waarbij het aantal foutief ingevoerde codes beperkt wordt tot maximaal drie pogingen. Wanneer drie keer een verkeerde code wordt ingevoerd, wordt het systeem gedurende drie minuten geblokkeerd voordat er opnieuw een poging kan worden gedaan.
+Na het oplossen van de initiële fouten werd de code verder verfijnd op basis van de gewenste interactie en veiligheidslogica. Er werd een beveiliging toegevoegd waarbij het aantal foutief ingevoerde codes beperkt wordt tot maximaal drie pogingen. Wanneer drie opeenvolgende foutieve codes worden ingevoerd, wordt het systeem gedurende drie minuten geblokkeerd voordat een nieuwe poging mogelijk is.
 
-Tijdens de implementatie van deze functionaliteit trad er opnieuw een fout op. Deze bleek veroorzaakt te zijn door het gebruik van een int-datatype voor tijdsregistratie, terwijl hiervoor een unsigned long vereist is (int waarden tot ongeveer 32.000). Na het aanpassen van het datatype werd dit probleem opgelost.
+Tijdens de implementatie van deze functionaliteit trad opnieuw een fout op. Deze werd veroorzaakt door het gebruik van het datatype int voor tijdsregistratie, terwijl hiervoor unsigned long vereist is. Een int heeft een te beperkte waardeomvang voor tijdsmetingen met millis(). Na het aanpassen van het datatype werd dit probleem opgelost.
 
-Na deze aanpassing traden er nog enkele bijkomende foutmeldingen op, die veroorzaakt werden door ontbrekende puntkomma’s. Na het corrigeren van deze kleine fouten functioneerde de code opnieuw correct.
+Na deze aanpassing traden nog enkele bijkomende foutmeldingen op. Deze werden veroorzaakt door ontbrekende puntkomma’s. Na het corrigeren van deze syntaxfouten functioneerde de code opnieuw correct.
 
 ![Opstelling + kabels](/img/OPE.jpg)
 
