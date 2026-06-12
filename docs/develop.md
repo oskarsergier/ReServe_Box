@@ -84,7 +84,7 @@ Naast de app werd ook gestart met de technische ontwikkeling van het lockersyste
 * Verbindingsdraden
 * Breadboard
 
-![Test opstelling]() 
+![Test opstelling](/img/Opstelling_LED.png) 
 
 <p align="center"> 
 </p>
@@ -296,12 +296,23 @@ Het doel van deze test was om te bepalen welke opstelling de minste fysieke bela
 
 #### Analyse 1: verticale interface
 
-![Analyse 3](/img/MS_Analyse_1.png)
+![Foto test 1](/img/Foto_Analyse_1.jpg)
+
+<p align="center">
+</p>
+
+![Analyse 1](/img/MS_Analyse_1.png)
 
 <p align="center">
 </p>
 
 #### Analyse 2: openen en inreiken in de lockers
+
+
+![Foto test 2](/img/Foto_Analyse_2.jpg)
+
+<p align="center">
+</p>
 
 ![Analyse 2](/img/MS_Analyse_2.png)
 
@@ -309,6 +320,11 @@ Het doel van deze test was om te bepalen welke opstelling de minste fysieke bela
 </p>
 
 #### Analyse 3: hellende interface
+
+![Foto test 3]()
+
+<p align="center">
+</p>
 
 ![Analyse 3](/img/MS_Analyse_3.png)
 
