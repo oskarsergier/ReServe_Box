@@ -1,9 +1,9 @@
 ## Discovery
 
 ### Doelstellingen
-Het is de bedoeling om verschillende inzichten te verkrijgen over hoe mensen omgaan met voedseloverschotten in het huishouden. Zo willen we ook een beter inzicht krijgen over wat de voornaamste drempels of motivaties ze ervaren bij het delen van voedsel. Bovendien zal er ook gekeken worden naar de hoeveelheid vertrouwen en betrokkenheid er aanwezig is binnen de woonbuurt om de ReServeBox te laten werken.
+De discoveryfase had als doel inzicht te verkrijgen in de manier waarop gebruikers omgaan met voedseloverschotten, welke drempels zij ervaren bij voedselherverdeling en welke voorwaarden noodzakelijk zijn om vertrouwen in een gedeeld systeem op te bouwen. De focus lag op gedrag, motivatie, voedselveiligheid, gebruiksgemak en de rol van de wooncontext.
 
-* Welke huidige gewoonten en attitudes hebben wijkbewoners rond     voedselverspilling in hun huishouden?
+* Welke huidige gewoonten en attitudes hebben wijkbewoners rond voedselverspilling in hun huishouden?
 * Welke noden, drempels en verwachtingen hebben zij bij een mogelijk systeem voor voedselherverdeling?
 * Bestaande initiatieven rond voedseloverschotten analyseren.
 

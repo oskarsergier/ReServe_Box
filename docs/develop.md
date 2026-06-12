@@ -1,12 +1,7 @@
 ## Develop
 ### Pivot van concept
-Na de tussentijdse pitch werd er feedback gekregen op het afgelegde proces van het project. Uit deze feedback werd geconcludeerd dat er best een pivot van het project moest gebeuren. De pivot die ons aangewezen werd was om samen te gaan werken met Too Good To Go. Het idee waar mensen zelf hun overschotten in de box moesten plaatsen was namelijk zeer moeilijk te realseren omtrent enkele zaken namelijk:
-* Vertrouwen
-* Voedselveiligheid
-* Eerlijkheid
-* ...
+Op basis van feedback en verdere analyse werd het oorspronkelijke concept bijgestuurd. Het model waarbij gebruikers zelf voedseloverschotten in de box plaatsen, bleek onvoldoende haalbaar op vlak van voedselveiligheid, controle en vertrouwen. Daarom werd het concept verder ontwikkeld als een gecontroleerd lockersysteem waarin pakketten door betrouwbare partners worden samengesteld en door gebruikers via een app en unieke code kunnen worden opgehaald.
 
-Vandaar dat de pivot gemaakt werd om samen te werken met Too Good To Go waar zijn de pakketten zullen samenstellen. Het concept voorziet in lockers waarin pakketten door partners worden geplaatst. Ook wordt er een app gemaakt die zal zorgen dat mensen kunnen zien wat er in de lockers zit en waar ze deze kunnen vinden.
 
 * [Extra info pivot](/reports%20and%20protocols/VP.pdf)
 
@@ -31,7 +26,7 @@ Tijdens de Develop 1 fase werd gestart met het concretiseren en fysiek ontwikkel
 
 ### Ontwikkeling van de ReServeBox App
 
-Tijdens het realiseren van de app werd er grotendeels afgestapt van de interfaces die gemaakt waren in de definition fase. Ook werd er beslist om het enkel bij een app te houden en geen schermen op de lockers te plaatsen. De app kan gedownload worden op de smartphone en via deze weg kun je pakketten reserveren om later op te gaan halen. Indien je dit pakket niet meer wil opeisen dan kun je dit steeds annuleren via de app en komt dit terug vrij voor andere gebruikers. Wanneer je iets gereserveerd hebt ontvang je via de app een 6-cijferige code die je dan moet ingeven op een keypad aan de lockers, zo kun je het pakket opeisen.
+Tijdens het realiseren van de app werd er grotendeels afgestapt van de interfaces die gemaakt waren in de definition fase. Ook werd er beslist om het enkel bij een app te houden en geen schermen op de lockers te plaatsen. De app kan gedownload worden op de smartphone en via deze weg kunnen gebruikers pakketten reserveren om later op te gaan halen. Indien dit pakket niet meer van toepassing is dan kan het steeds geannuleren worden via de app en komt dit terug vrij voor andere gebruikers. Wanneer het pakket gereserveerd is word er een code ontvangen via de app een 6-cijferige code die dan moet ingeven worden op een keypad aan de lockers, zo kan het pakket opgeëist worden.
 
 App ophalen voedsel:
 ![App1](/img/App_1.jpg) 

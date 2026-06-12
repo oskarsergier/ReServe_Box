@@ -1,6 +1,6 @@
 ## Methodologie
 
-Het ontwikkelingsproces van ReServeBox volgde een iteratieve, gebruiksgerichte ontwerpmethodiek, met de nadruk op duurzaamheid en voedselversheid. Hiervoor werd een aangepaste versie van het Double Diamond model gebruikt, namelijk Triple Diamond-model. In SEM1 lag de nadruk op de discover- en definitiefase, waarin we de context van voedselverspilling, voedselveiligheid, buurtgerichte herverdeling en gebruikersvertrouwen onderzochten. Deze inzichten vormden de basis voor de eerste conceptuele richting van ReServeBox.
+Het ontwikkelingsproces van ReServeBox volgde een iteratieve, gebruiksgerichte ontwerpmethodiek, met de nadruk op duurzaamheid en voedselversheid. Hiervoor werd een aangepaste versie van het Double Diamond model gebruikt, namelijk Triple Diamond-model. In SEM1 lag de nadruk op de discover- en definitiefase, waarin de context van voedselverspilling, voedselveiligheid, buurtgerichte herverdeling en gebruikersvertrouwen onderzocht werd. Deze inzichten vormden de basis voor de eerste conceptuele richting van ReServeBox.
 
 ![alt text](/img/Methodologie.png)
 
