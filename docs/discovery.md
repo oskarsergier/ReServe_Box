@@ -1,15 +1,22 @@
-## Discovery
+# Discovery
 
-### Doelstellingen
-De discoveryfase had als doel inzicht te verkrijgen in de manier waarop gebruikers omgaan met voedseloverschotten, welke drempels zij ervaren bij voedselherverdeling en welke voorwaarden noodzakelijk zijn om vertrouwen in een gedeeld systeem op te bouwen. De focus lag op gedrag, motivatie, voedselveiligheid, gebruiksgemak en de rol van de wooncontext.
+## Doelstellingen
+De discovery-fase had als doel inzicht te verkrijgen in hoe gebruikers omgaan met huishoudelijke voedseloverschotten, welke drempels zij ervaren bij voedselherverdeling en onder welke voorwaarden er vertrouwen in een deelsysteem ontstaat. De focus lag op gedrag, motivatie, voedselveiligheid, gebruiksgemak en de rol van de wooncontext.
 
-* Welke huidige gewoonten en attitudes hebben wijkbewoners rond voedselverspilling in hun huishouden?
-* Welke noden, drempels en verwachtingen hebben zij bij een mogelijk systeem voor voedselherverdeling?
-* Bestaande initiatieven rond voedseloverschotten analyseren.
+Het onderzoek richtte zich op de volgende centrale onderzoeksvragen:
 
+- Welke huidige gewoonten en attitudes hebben wijkbewoners rond voedselverspilling in hun huishouden?
+
+- Welke noden, drempels en verwachtingen hebben zij bij een mogelijk systeem voor voedselherverdeling?
+
+- Wat kunnen we leren uit de analyse van reeds bestaande initiatieven rond voedseloverschotten?
+
+  
 ### Materiaal & methoden
 
 In deze fase lag de focus niet op de materiaalkeuze voor het uiteindelijke product, maar op het verkennen van de probleemruimte binnen het thema Sustainability at Home. De gebruikte onderzoeksmethoden waren gericht op het begrijpen van voedselverspilling op huishoudelijk en lokaal niveau, en op het identificeren van drempels en voorwaarden voor een betrouwbaar herverdelingssysteem. 
+
+
 
 ### Resultaten
 De resultaten van de discoveryfase zijn gebaseerd op desk research, [benchmarking](/reports%20and%20protocols/R1.1.pdf) (N=10), [interviews](/reports%20and%20protocols/IRW%20SAMEN.pdf) (N=3) en een online [enquête](/reports%20and%20protocols/REA1.1.pdf) (N=58). Deze combinatie maakte het mogelijk om inzichten te verzamelen rond voedselverspilling, voedselherverdeling en gebruikersvertrouwen. Uit de desk research bleek dat voedselverspilling op huishoudelijk niveau onder meer ontstaat door onzekerheid rond houdbaarheidsdata en een gebrek aan toegankelijke oplossingen binnen de woning- en buurtcontext.
